@@ -1,0 +1,78 @@
+<?php
+
+return array (
+  'title' => 'Cómo combinar archivos PDF: La guía gratuita completa para 2026',
+  'description' => 'Aprende a combinar archivos PDF gratis en 2026. Une varios documentos en un solo archivo manteniendo las páginas organizadas y fáciles de compartir. ¡Combina tus PDF hoy mismo!',
+  'main-heading' => 'Cómo combinar archivos PDF: La guía gratuita completa para 2026',
+
+  'intro-heading' => 'Cuando tienes demasiados archivos y necesitas un solo documento',
+  'intro-p1' => 'Cualquiera que haya armado una propuesta de proyecto, una solicitud de subvención, un informe para un cliente o incluso un simple conjunto de instrucciones conoce el problema. El contenido está repartido en cuatro o cinco archivos PDF distintos. Lo necesitas en un único documento limpio que el destinatario pueda abrir, recorrer e imprimir sin tener que cambiar entre archivos.',
+  'intro-p2' => 'Combinar PDF es una de las tareas documentales más comunes en la vida profesional y académica, y también una de las más fáciles de hacer gratis. Esta guía cubre todos los métodos fiables disponibles en 2026, desde herramientas basadas en el navegador que no requieren software hasta soluciones de escritorio que mantienen tus archivos completamente en local. Al terminar, sabrás qué método se ajusta a tu situación y podrás combinar cualquier conjunto de PDF en menos de dos minutos.',
+
+  'what-heading' => 'Qué ocurre realmente al combinar un PDF',
+  'what-p1' => 'Cuando combinas archivos PDF, estás uniendo las páginas de varios documentos PDF independientes en un único archivo PDF. El orden de las páginas en el resultado coincide con el orden que especifiques al combinarlos. El contenido de cada página se conserva exactamente igual, incluidas imágenes, fuentes, formato y elementos interactivos como hipervínculos.',
+  'what-p2' => 'Combinar no vuelve a renderizar ni a procesar ningún contenido. Se parece más a encuadernar folletos independientes en un solo volumen que a copiar y pegar. Esto significa que la calidad del resultado coincide exactamente con la calidad de los archivos de origen, y el proceso no tiene pérdidas.',
+
+  'method1-heading' => 'Método 1: Herramienta de combinación de PDFTools (gratis, sin software)',
+  'method1-intro' => 'El método más rápido para la mayoría de la gente es el __MERGE_LINK__ gratuito de PDFTools. Gestiona todo el proceso en el navegador sin necesidad de instalación, cuenta ni límite de tamaño de archivo.',
+  'method1-step1' => 'Abre tu navegador y ve a la herramienta de combinación de PDF de PDFTools.',
+  'method1-step2' => 'Haz clic en el área de carga o arrastra tus archivos PDF directamente a la página. Puedes subir varios archivos a la vez.',
+  'method1-step3' => 'Arrastra las miniaturas de los archivos para ordenarlas como quieres que aparezcan en el documento final.',
+  'method1-step4' => 'Haz clic en el botón Merge y espera a que se procese. La mayoría de los conjuntos de archivos se combinan en menos de 30 segundos.',
+  'method1-step5' => 'Descarga tu PDF combinado. Todos los archivos originales de tu dispositivo permanecen sin cambios.',
+  'method1-note' => 'Los archivos se eliminan automáticamente del servidor al cabo de una hora y no se requiere registro. También puedes importar archivos directamente desde Google Drive o Dropbox, lo cual es útil cuando tus documentos ya están almacenados en la nube. Para saber más sobre cómo gestionar documentos combinados de gran tamaño, consulta la guía sobre __COMPRESS_GUIDE_LINK__.',
+
+  'method2-heading' => 'Método 2: Adobe Acrobat Reader Pro',
+  'method2-intro' => 'Si tienes instalado Adobe Acrobat Pro, la herramienta Combine Files te ofrece el mayor control sobre la combinación, incluida la posibilidad de reordenar páginas, extraer páginas específicas de cada archivo de origen y previsualizar la combinación antes de finalizarla.',
+  'method2-step1' => 'Abre Adobe Acrobat Pro.',
+  'method2-step2' => 'Ve a Tools y selecciona Combine Files.',
+  'method2-step3' => 'Haz clic en Add Files y selecciona cada PDF que quieras combinar.',
+  'method2-step4' => 'Arrastra los paneles de los archivos para establecer el orden. También puedes expandir cada archivo para seleccionar páginas específicas de él en lugar de incluir el documento completo.',
+  'method2-step5' => 'Haz clic en Combine. Acrobat procesa los archivos y abre el resultado combinado.',
+  'method2-step6' => 'Guarda el archivo combinado con File y luego Save As.',
+  'method2-note' => 'Este método resulta especialmente útil cuando necesitas combinar páginas seleccionadas en lugar de documentos enteros, o cuando trabajas con archivos protegidos con contraseña que requieren autenticación antes de combinarse.',
+
+  'method3-heading' => 'Método 3: Preview en Mac (integrado, sin necesidad de subir archivos)',
+  'method3-intro' => 'Los usuarios de Mac cuentan con una potente opción gratuita de combinación integrada directamente en el sistema operativo a través de la aplicación Preview. No hace falta instalar nada y no se sube ningún archivo a ningún lugar.',
+  'method3-step1' => 'Abre el primer PDF en Preview.',
+  'method3-step2' => 'Ve a View y selecciona Thumbnails para mostrar el panel de páginas a la izquierda.',
+  'method3-step3' => 'Abre el segundo PDF en una ventana de Preview independiente.',
+  'method3-step4' => 'Desde la segunda ventana de Preview, selecciona todas las miniaturas de página que quieras añadir. Puedes seleccionarlas todas con Command+A o hacer clic en miniaturas individuales manteniendo pulsado Command.',
+  'method3-step5' => 'Arrastra las miniaturas seleccionadas desde la segunda ventana hasta el panel de miniaturas de la primera ventana. Suéltalas en la posición donde quieras que aparezcan.',
+  'method3-step6' => 'Repite el proceso para cualquier archivo adicional.',
+  'method3-step7' => 'Guarda el documento combinado con File y luego Save.',
+  'method3-tip' => 'Consejo profesional: en Preview también puedes reordenar páginas después de combinar arrastrando las miniaturas dentro del panel, y eliminar páginas no deseadas seleccionándolas y pulsando Delete.',
+
+  'method4-heading' => 'Método 4: Google Drive (gratis para cualquiera con una cuenta de Google)',
+  'method4-intro' => 'Google Drive no combina PDF directamente, pero al combinarlo con Google Docs se obtiene una solución gratuita que funciona bien para PDF basados en texto.',
+  'method4-step1' => 'Sube todos tus PDF a Google Drive.',
+  'method4-step2' => 'Haz clic con el botón derecho en cada PDF y ábrelo con Google Docs. Esto convierte cada PDF en un Google Doc.',
+  'method4-step3' => 'Copia el contenido de cada Google Doc adicional y pégalo en el primero.',
+  'method4-step4' => 'Descarga el Google Doc combinado como PDF mediante File, luego Download y luego PDF Document.',
+  'method4-note' => 'Este método funciona mejor para documentos con mucho texto. Los PDF con diseños complejos, imágenes o fuentes personalizadas pueden no conservar un formato perfecto durante la conversión mediante Google Docs.',
+
+  'order-heading' => 'Elegir el orden de páginas correcto antes de combinar',
+  'order-p1' => 'El error más común al combinar PDF es no pensar bien el orden de las páginas antes de empezar. Unos minutos de planificación evitan la frustración de descubrir el orden de páginas incorrecto después de completar la combinación.',
+  'order-p2' => 'Para un documento con varias secciones, organiza los archivos en el orden en que un lector se los encontraría: portada, índice, secciones principales en secuencia lógica, apéndices, referencias. Nombra tus archivos con números al principio si la herramienta no admite reordenación visual, para que se ordenen correctamente por nombre de archivo.',
+  'order-p3' => 'Si terminas con las páginas en el orden equivocado tras combinar, puedes dividir el PDF combinado en secciones, reordenarlas y volver a combinarlas usando el __SPLIT_LINK__ junto con el __MERGE_LINK__.',
+
+  'size-heading' => 'Gestionar el tamaño de archivo en PDF combinados',
+  'size-p1' => 'Combinar PDF no aumenta el tamaño del archivo más allá del tamaño combinado de los originales. Sin embargo, un documento combinado que une cuatro archivos grandes puede alcanzar fácilmente 40 o 50 MB, lo que supera la mayoría de los límites de los archivos adjuntos en el correo electrónico. Pasar el archivo combinado por el __COMPRESS_LINK__ de PDFTools después de combinarlo suele reducir el tamaño entre un 50 y un 70 por ciento sin ningún cambio de calidad visible en pantalla.',
+  'size-p2' => 'Para un desglose completo de los ajustes de compresión y los resultados que puedes esperar, consulta la guía sobre __COMPRESS_QUALITY_GUIDE_LINK__.',
+
+  'conclusion-heading' => 'Conclusión',
+  'conclusion-p1' => 'Combinar PDF es una de las tareas documentales más sencillas una vez que conoces la herramienta adecuada para tu situación. Para la mayoría de la gente, la herramienta gratuita basada en el navegador de PDFTools hace el trabajo en menos de dos minutos sin necesidad de software. Los usuarios de Mac cuentan además con la comodidad de la interfaz de arrastrar y soltar de Preview, que mantiene todo en local. Adobe Acrobat Pro es la opción adecuada cuando necesitas un control preciso sobre qué páginas de cada archivo de origen aparecen en el resultado.',
+  'conclusion-p2' => 'Después de combinar, si el archivo resultante es demasiado grande para enviarlo por correo electrónico, el __COMPRESS_LINK__ de PDFTools lo reduce rápidamente. Para convertir el documento combinado a un formato editable, el __WORD_LINK__ está disponible gratis en PDFTools.',
+
+  'faq-heading' => 'Preguntas frecuentes',
+  'faq1-q' => '¿Puedo combinar PDF protegidos con contraseña?',
+  'faq1-a' => 'Sí, pero necesitas la contraseña correcta de cada archivo protegido. La mayoría de las herramientas de combinación te pedirán que introduzcas la contraseña al subir un PDF protegido. Una vez desbloqueado, la combinación continúa con normalidad. El PDF resultante no heredará la protección por contraseña de los archivos de origen a menos que la añadas por separado.',
+  'faq2-q' => '¿Combinar PDF reduce su calidad?',
+  'faq2-a' => 'No. Combinar es una operación estructural que une páginas sin volver a renderizar ningún contenido. Las imágenes, fuentes y formato de cada página son idénticos en el resultado a como estaban en el archivo de origen. Durante el proceso de combinación en sí no se produce ninguna compresión ni reducción de calidad.',
+  'faq3-q' => '¿Existe un límite de cuántos PDF puedo combinar a la vez?',
+  'faq3-a' => 'En la herramienta en línea de PDFTools no hay límites establecidos sobre el número de archivos o el tamaño total. En herramientas de escritorio como Preview o Acrobat, el único límite es la memoria disponible de tu ordenador.',
+  'faq4-q' => '¿Puedo combinar solo páginas específicas de cada PDF en lugar de archivos completos?',
+  'faq4-a' => 'Sí. Adobe Acrobat Pro te permite seleccionar páginas específicas de cada archivo de origen durante el proceso de Combine Files. Preview en Mac te permite arrastrar miniaturas de páginas individuales en lugar de archivos completos. En la herramienta en línea, combina los archivos completos y luego usa la herramienta de división para eliminar las páginas que no necesites.',
+  'faq5-q' => '¿Por qué mi PDF combinado se ve diferente de los originales?',
+  'faq5-a' => 'Esto ocurre rara vez con herramientas de alta calidad. Cuando sucede, suele deberse a la sustitución de fuentes, cuando una fuente incrustada en un PDF de origen entra en conflicto con los datos de fuente de otro. En Adobe Acrobat Pro, el PDF Optimizer puede ayudar a normalizar los datos de fuente en todo el resultado combinado.',
+);

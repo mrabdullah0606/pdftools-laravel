@@ -1,0 +1,78 @@
+<?php
+
+return array (
+  'title' => 'Hoe om PDF-lêers saam te voeg: Volledige gratis gids vir 2026',
+  'description' => 'Leer hoe om PDF-lêers gratis saam te voeg in 2026. Kombineer verskeie dokumente in een lêer terwyl bladsye georganiseer en maklik deelbaar bly. Voeg jou PDF\'s vandag saam!',
+  'main-heading' => 'Hoe om PDF-lêers saam te voeg: Die volledige gratis gids vir 2026',
+
+  'intro-heading' => 'Wanneer jy te veel lêers het en een dokument nodig het',
+  'intro-p1' => 'Enigiemand wat al \'n projekvoorstel, \'n beurs-aansoek, \'n kliënteverslag of selfs \'n eenvoudige stel instruksies saamgestel het, ken die probleem. Die inhoud lê verspreid oor vier of vyf afsonderlike PDF-lêers. Jy het dit nodig in een netjiese dokument wat die ontvanger kan oopmaak, deurblaai en druk sonder om tussen lêers te wissel.',
+  'intro-p2' => 'Die saamvoeging van PDF\'s is een van die algemeenste dokumenttake in die professionele en akademiese lewe, en dit is een van die maklikste om gratis te doen. Hierdie gids dek elke betroubare metode wat in 2026 beskikbaar is, van blaaier-gebaseerde nutsgoed wat geen sagteware vereis nie tot rekenaar-gebaseerde benaderings wat jou lêers heeltemal plaaslik hou. Teen die einde sal jy weet watter metode by jou situasie pas en enige stel PDF\'s binne twee minute kan saamvoeg.',
+
+  'what-heading' => 'Wat die saamvoeging van \'n PDF werklik doen',
+  'what-p1' => 'Wanneer jy PDF-lêers saamvoeg, kombineer jy die bladsye van verskeie afsonderlike PDF-dokumente in \'n enkele PDF-lêer. Die volgorde van die bladsye in die uitset stem ooreen met die volgorde wat jy spesifiseer tydens die saamvoeging. Die inhoud van elke bladsy word presies behou, insluitend beelde, lettertipes, formatering en enige interaktiewe elemente soos hiperskakels.',
+  'what-p2' => 'Saamvoeging herrender of herverwerk geen inhoud nie. Dit is nader aan die inbind van afsonderlike boekies in een volume as aan kopieer en plak. Dit beteken die kwaliteit van die uitset stem ooreen met die kwaliteit van die insette, en die proses is verliesloos.',
+
+  'method1-heading' => 'Metode 1: PDFTools se saamvoeg-nutsmiddel (Gratis, geen sagteware)',
+  'method1-intro' => 'Die vinnigste metode vir die meeste mense is die gratis __MERGE_LINK__ by PDFTools. Dit hanteer die hele proses in \'n blaaier sonder enige installasie, rekening of lêergroottebeperking.',
+  'method1-step1' => 'Maak jou blaaier oop en gaan na die PDFTools saamvoeg-PDF-nutsmiddel.',
+  'method1-step2' => 'Klik op die oplaai-area of sleep jou PDF-lêers direk na die bladsy. Jy kan verskeie lêers gelyktydig oplaai.',
+  'method1-step3' => 'Sleep die lêer-duimnaelsketse om hulle in die volgorde te rangskik wat jy in die finale dokument wil hê.',
+  'method1-step4' => 'Klik op die Saamvoeg-knoppie en wag vir verwerking. Die meeste stelle lêers word binne 30 sekondes gekombineer.',
+  'method1-step5' => 'Laai jou saamgevoegde PDF af. Al die oorspronklike lêers op jou toestel bly onveranderd.',
+  'method1-note' => 'Lêers word outomaties na een uur van die bediener verwyder en geen registrasie word vereis nie. Jy kan ook lêers direk vanaf Google Drive of Dropbox invoer, wat handig is wanneer jou dokumente reeds in die wolk gestoor word. Vir meer oor die bestuur van groot saamgevoegde dokumente, sien die gids oor __COMPRESS_GUIDE_LINK__.',
+
+  'method2-heading' => 'Metode 2: Adobe Acrobat Reader Pro',
+  'method2-intro' => 'As jy Adobe Acrobat Pro geïnstalleer het, gee die Combine Files-nutsmiddel jou die meeste beheer oor saamvoeging, insluitend die vermoë om bladsye te herrangskik, spesifieke bladsye uit elke bronlêer te onttrek, en die saamvoeging te voorskou voordat dit afgehandel word.',
+  'method2-step1' => 'Maak Adobe Acrobat Pro oop.',
+  'method2-step2' => 'Gaan na Tools en kies Combine Files.',
+  'method2-step3' => 'Klik Add Files en kies elke PDF wat jy wil saamvoeg.',
+  'method2-step4' => 'Sleep die lêerpanele om die volgorde in te stel. Jy kan ook elke lêer uitbrei om spesifieke bladsye daaruit te kies eerder as om die hele dokument in te sluit.',
+  'method2-step5' => 'Klik Combine. Acrobat verwerk die lêers en maak die saamgevoegde resultaat oop.',
+  'method2-step6' => 'Stoor die saamgevoegde lêer met File en dan Save As.',
+  'method2-note' => 'Hierdie metode is veral nuttig wanneer jy geselekteerde bladsye eerder as hele dokumente moet saamvoeg, of wanneer jy met wagwoordbeskermde lêers werk wat outentisering vereis voordat hulle saamgevoeg kan word.',
+
+  'method3-heading' => 'Metode 3: Preview op Mac (Ingebou, geen oplaai nodig)',
+  'method3-intro' => 'Mac-gebruikers het \'n kragtige gratis saamvoeg-opsie wat direk in die bedryfstelsel ingebou is deur die Preview-toepassing. Niks hoef geïnstalleer te word nie en geen lêers word iewers opgelaai nie.',
+  'method3-step1' => 'Maak die eerste PDF in Preview oop.',
+  'method3-step2' => 'Gaan na View en kies Thumbnails om die bladsy-paneel aan die linkerkant te wys.',
+  'method3-step3' => 'Maak die tweede PDF in \'n aparte Preview-venster oop.',
+  'method3-step4' => 'Kies vanuit die tweede Preview-venster al die bladsy-duimnaelsketse wat jy wil byvoeg. Jy kan almal kies met Command+A of individuele duimnaelsketse klik terwyl jy Command hou.',
+  'method3-step5' => 'Sleep die gekose duimnaelsketse vanuit die tweede venster na die duimnaelskets-paneel van die eerste venster. Laat dit val by die posisie waar jy wil hê dit moet verskyn.',
+  'method3-step6' => 'Herhaal vir enige addisionele lêers.',
+  'method3-step7' => 'Stoor die gekombineerde dokument met File en dan Save.',
+  'method3-tip' => 'Wenk: In Preview kan jy ook bladsye herrangskik ná saamvoeging deur duimnaelsketse binne die paneel te sleep, en ongewenste bladsye verwyder deur hulle te kies en Delete te druk.',
+
+  'method4-heading' => 'Metode 4: Google Drive (Gratis vir enigiemand met \'n Google-rekening)',
+  'method4-intro' => 'Google Drive voeg nie PDF\'s direk saam nie, maar om dit met Google Docs te kombineer, bied \'n gratis uitweg wat goed werk vir teksgebaseerde PDF\'s.',
+  'method4-step1' => 'Laai al jou PDF\'s na Google Drive op.',
+  'method4-step2' => 'Regs-klik elke PDF en maak dit oop met Google Docs. Dit skakel elke PDF om in \'n Google Doc.',
+  'method4-step3' => 'Kopieer die inhoud van elke addisionele Google Doc en plak dit in die eerste een.',
+  'method4-step4' => 'Laai die gekombineerde Google Doc af as \'n PDF via File, dan Download, dan PDF Document.',
+  'method4-note' => 'Hierdie metode werk die beste vir teks-swaar dokumente. PDF\'s met komplekse uitleg, beelde of pasgemaakte lettertipes behou moontlik nie perfekte formatering deur die Google Docs-omskakeling nie.',
+
+  'order-heading' => 'Die regte bladsyvolgorde kies voordat jy saamvoeg',
+  'order-p1' => 'Die algemeenste fout wanneer PDF\'s saamgevoeg word, is om nie deeglik oor die bladsyvolgorde te dink voordat jy begin nie. \'n Paar minute se beplanning voorkom die frustrasie om die verkeerde bladsyvolgorde te ontdek nadat die saamvoeging voltooi is.',
+  'order-p2' => 'Vir \'n dokument met verskeie afdelings, rangskik die lêers in die volgorde wat \'n leser sou teëkom: voorblad, inhoudsopgawe, hoofafdelings in logiese volgorde, bylae, verwysings. Noem jou lêers met nommers aan die begin as die nutsmiddel nie visuele herrangskikking ondersteun nie, sodat hulle korrek volgens lêernaam sorteer.',
+  'order-p3' => 'As jy uiteindelik met bladsye in die verkeerde volgorde sit ná saamvoeging, kan jy die saamgevoegde PDF in afdelings verdeel, hulle herrangskik, en weer saamvoeg deur die __SPLIT_LINK__ saam met die __MERGE_LINK__ te gebruik.',
+
+  'size-heading' => 'Lêergrootte in saamgevoegde PDF\'s bestuur',
+  'size-p1' => 'Die saamvoeging van PDF\'s verhoog nie die lêergrootte verder as die gekombineerde grootte van die insette nie. \'n Saamgevoegde dokument wat vier groot lêers kombineer, kan egter maklik 40 of 50 MB bereik, wat die meeste e-pos-aanhegselperke oorskry. Om die saamgevoegde lêer deur die __COMPRESS_LINK__ by PDFTools te stuur nadat dit saamgevoeg is, verminder tipies die grootte met 50 tot 70 persent sonder enige sigbare kwaliteitsverandering op die skerm.',
+  'size-p2' => 'Vir \'n volledige uiteensetting van kompressie-instellings en watter resultate om te verwag, sien die gids oor __COMPRESS_QUALITY_GUIDE_LINK__.',
+
+  'conclusion-heading' => 'Gevolgtrekking',
+  'conclusion-p1' => 'Die saamvoeging van PDF\'s is een van die eenvoudigste dokumenttake sodra jy die regte nutsmiddel vir jou situasie ken. Vir die meeste mense hanteer die gratis blaaier-gebaseerde nutsmiddel by PDFTools die taak binne twee minute sonder enige sagteware. Mac-gebruikers het die bykomende gerief van Preview se sleep-en-los-koppelvlak wat alles plaaslik hou. Adobe Acrobat Pro is die regte keuse wanneer jy fyn beheer nodig het oor watter bladsye uit elke bronlêer in die uitset verskyn.',
+  'conclusion-p2' => 'Ná saamvoeging, as die gekombineerde lêer te groot is om te e-pos, verminder die __COMPRESS_LINK__ by PDFTools dit vinnig. Om die saamgevoegde dokument na \'n redigeerbare formaat om te skakel, is die __WORD_LINK__ gratis by PDFTools beskikbaar.',
+
+  'faq-heading' => 'Gereelde vrae',
+  'faq1-q' => 'Kan ek wagwoordbeskermde PDF\'s saamvoeg?',
+  'faq1-a' => 'Ja, maar jy het die korrekte wagwoord vir elke beskermde lêer nodig. Die meeste saamvoeg-nutsgoed sal jou vra om die wagwoord in te voer wanneer jy \'n beskermde PDF oplaai. Sodra dit ontsluit is, gaan die saamvoeging normaal voort. Die uitset-PDF sal nie die wagwoordbeskerming van die bronlêers oorerf nie, tensy jy dit apart byvoeg.',
+  'faq2-q' => 'Verminder die saamvoeging van PDF\'s hul kwaliteit?',
+  'faq2-a' => 'Nee. Saamvoeging is \'n strukturele bewerking wat bladsye kombineer sonder om enige inhoud te herrender. Die beelde, lettertipes en formatering op elke bladsy is identies in die uitset aan wat dit in die bronlêer was. Geen kompressie of kwaliteitsvermindering vind plaas tydens die saamvoegproses self nie.',
+  'faq3-q' => 'Is daar \'n beperking op hoeveel PDF\'s ek op een slag kan saamvoeg?',
+  'faq3-a' => 'Vir die aanlyn-nutsmiddel by PDFTools is daar geen vermelde beperkings op die aantal lêers of totale lêergrootte nie. Vir rekenaar-nutsgoed soos Preview of Acrobat is die enigste beperking jou rekenaar se beskikbare geheue.',
+  'faq4-q' => 'Kan ek net spesifieke bladsye uit elke PDF saamvoeg eerder as hele lêers?',
+  'faq4-a' => 'Ja. Adobe Acrobat Pro laat jou spesifieke bladsye uit elke bronlêer kies tydens die Combine Files-werkvloei. Preview op Mac laat jou individuele bladsy-duimnaelsketse sleep eerder as hele lêers. Vir die aanlyn-nutsmiddel, voeg die volledige lêers saam en gebruik dan die verdeel-nutsmiddel om enige bladsye wat jy nie nodig het nie, te verwyder.',
+  'faq5-q' => 'Waarom lyk my saamgevoegde PDF anders as die oorspronklikes?',
+  'faq5-a' => 'Dit gebeur selde met hoë-kwaliteit nutsgoed. As dit wel gebeur, word dit gewoonlik veroorsaak deur lettertipe-vervanging wanneer \'n lettertipe wat in een bron-PDF ingebed is, in stryd is met lettertipedata in \'n ander. In Adobe Acrobat Pro kan die PDF Optimizer help om lettertipedata regoor die saamgevoegde uitset te normaliseer.',
+);

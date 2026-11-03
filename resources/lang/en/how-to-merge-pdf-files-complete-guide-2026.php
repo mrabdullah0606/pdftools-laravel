@@ -1,0 +1,78 @@
+<?php
+
+return [
+    'title' => 'How to Merge PDF Files: Complete Free Guide for 2026 Now',
+    'description' => 'Learn how to merge PDF files for free in 2026. Combine multiple documents into one file while keeping pages organized and easy to share. Merge your PDFs today!',
+    'main-heading' => 'How to Merge PDF Files: The Complete Free Guide for 2026',
+
+    'intro-heading' => 'When You Have Too Many Files and Need One Document',
+    'intro-p1' => 'Anyone who has assembled a project proposal, a grant application, a client report, or even a simple set of instructions knows the problem. The content lives in four or five separate PDF files. You need it in one clean document that the recipient can open, scroll through, and print without switching between files.',
+    'intro-p2' => 'Merging PDFs is one of the most common document tasks in professional and academic life, and it is one of the easiest to do for free. This guide covers every reliable method available in 2026, from browser-based tools that require no software to desktop approaches that keep your files entirely local. By the end you will know which method suits your situation and be able to merge any set of PDFs in under two minutes.',
+
+    'what-heading' => 'What Merging a PDF Actually Does',
+    'what-p1' => 'When you merge PDF files, you are combining the pages of multiple separate PDF documents into a single PDF file. The order of the pages in the output matches the order you specify when combining. The content of each page is preserved exactly, including images, fonts, formatting, and any interactive elements like hyperlinks.',
+    'what-p2' => 'Merging does not re-render or reprocess any content. It is closer to binding separate booklets into one volume than to copying and pasting. This means the quality of the output matches the quality of the inputs, and the process is lossless.',
+
+    'method1-heading' => 'Method 1: PDFTools Merge Tool (Free, No Software)',
+    'method1-intro' => 'The fastest method for most people is the free __MERGE_LINK__ at PDFTools. It handles the entire process in a browser without any installation, account, or file size limit.',
+    'method1-step1' => 'Open your browser and go to the PDFTools merge PDF tool.',
+    'method1-step2' => 'Click the upload area or drag your PDF files directly onto the page. You can upload multiple files at once.',
+    'method1-step3' => 'Drag the file thumbnails to arrange them in the order you want in the final document.',
+    'method1-step4' => 'Click the Merge button and wait for processing. Most sets of files combine in under 30 seconds.',
+    'method1-step5' => 'Download your merged PDF. All original files on your device remain unchanged.',
+    'method1-note' => 'Files are automatically deleted from the server after one hour and no registration is required. You can also import files directly from Google Drive or Dropbox, which is useful when your documents are already stored in the cloud. For more on managing large merged documents, see the guide on __COMPRESS_GUIDE_LINK__.',
+
+    'method2-heading' => 'Method 2: Adobe Acrobat Reader Pro',
+    'method2-intro' => 'If you have Adobe Acrobat Pro installed, the Combine Files tool gives you the most control over merging, including the ability to rearrange pages, extract specific pages from each source file, and preview the merge before finalising.',
+    'method2-step1' => 'Open Adobe Acrobat Pro.',
+    'method2-step2' => 'Go to Tools and select Combine Files.',
+    'method2-step3' => 'Click Add Files and select each PDF you want to merge.',
+    'method2-step4' => 'Drag the file panels to set the order. You can also expand each file to select specific pages from it rather than including the entire document.',
+    'method2-step5' => 'Click Combine. Acrobat processes the files and opens the merged result.',
+    'method2-step6' => 'Save the merged file with File then Save As.',
+    'method2-note' => 'This method is particularly useful when you need to merge selected pages rather than entire documents, or when working with password-protected files that require authentication before merging.',
+
+    'method3-heading' => 'Method 3: Preview on Mac (Built-In, No Upload Required)',
+    'method3-intro' => 'Mac users have a powerful free merging option built directly into the operating system through the Preview application. Nothing needs to be installed and no files are uploaded anywhere.',
+    'method3-step1' => 'Open the first PDF in Preview.',
+    'method3-step2' => 'Go to View and select Thumbnails to display the page panel on the left.',
+    'method3-step3' => 'Open the second PDF in a separate Preview window.',
+    'method3-step4' => 'From the second Preview window, select all the page thumbnails you want to add. You can select all with Command+A or click individual thumbnails while holding Command.',
+    'method3-step5' => 'Drag the selected thumbnails from the second window into the thumbnail panel of the first window. Drop them at the position where you want them to appear.',
+    'method3-step6' => 'Repeat for any additional files.',
+    'method3-step7' => 'Save the combined document with File then Save.',
+    'method3-tip' => 'Pro tip: In Preview you can also reorder pages after merging by dragging thumbnails within the panel, and delete unwanted pages by selecting them and pressing Delete.',
+
+    'method4-heading' => 'Method 4: Google Drive (Free for Anyone with a Google Account)',
+    'method4-intro' => 'Google Drive does not merge PDFs directly, but combining it with Google Docs provides a free workaround that works well for text-based PDFs.',
+    'method4-step1' => 'Upload all your PDFs to Google Drive.',
+    'method4-step2' => 'Right-click each PDF and open it with Google Docs. This converts each PDF to a Google Doc.',
+    'method4-step3' => 'Copy the content from each additional Google Doc and paste it into the first one.',
+    'method4-step4' => 'Download the combined Google Doc as a PDF through File then Download then PDF Document.',
+    'method4-note' => 'This method works best for text-heavy documents. PDFs with complex layouts, images, or custom fonts may not retain perfect formatting through the Google Docs conversion.',
+
+    'order-heading' => 'Choosing the Right Page Order Before You Merge',
+    'order-p1' => 'The most common mistake when merging PDFs is not thinking through the page order before starting. A few minutes of planning prevents the frustration of discovering the wrong page order after the merge is complete.',
+    'order-p2' => 'For a multi-section document, lay out the files in the order a reader would encounter them: cover page, table of contents, main sections in logical sequence, appendices, references. Name your files with numbers at the start if the tool does not support visual reordering, so they sort correctly by filename.',
+    'order-p3' => 'If you end up with pages in the wrong order after merging, you can split the merged PDF into sections, reorder them, and merge again using the __SPLIT_LINK__ alongside the __MERGE_LINK__.',
+
+    'size-heading' => 'Managing File Size in Merged PDFs',
+    'size-p1' => 'Merging PDFs does not increase the file size beyond the combined size of the inputs. However, a merged document that combines four large files can easily reach 40 or 50 MB, which exceeds most email attachment limits. Running the merged file through the __COMPRESS_LINK__ at PDFTools after merging typically reduces the size by 50 to 70 percent without any visible quality change on screen.',
+    'size-p2' => 'For a full breakdown of compression settings and what results to expect, see the guide on __COMPRESS_QUALITY_GUIDE_LINK__.',
+
+    'conclusion-heading' => 'Conclusion',
+    'conclusion-p1' => "Merging PDFs is one of the most straightforward document tasks once you know the right tool for your situation. For most people, the free browser-based tool at PDFTools handles the job in under two minutes with no software required. Mac users have the added convenience of Preview's drag-and-drop interface that keeps everything local. Adobe Acrobat Pro is the right choice when you need fine control over which pages from each source file appear in the output.",
+    'conclusion-p2' => 'After merging, if the combined file is too large to email, the __COMPRESS_LINK__ at PDFTools reduces it quickly. For converting the merged document to an editable format, the __WORD_LINK__ is available free at PDFTools.',
+
+    'faq-heading' => 'Frequently Asked Questions',
+    'faq1-q' => 'Can I merge password-protected PDFs?',
+    'faq1-a' => 'Yes, but you need the correct password for each protected file. Most merge tools will prompt you to enter the password when you upload a protected PDF. Once unlocked, the merge proceeds normally. The output PDF will not inherit the password protection from the source files unless you add it separately.',
+    'faq2-q' => 'Does merging PDFs reduce their quality?',
+    'faq2-a' => 'No. Merging is a structural operation that combines pages without re-rendering any content. The images, fonts, and formatting in each page are identical in the output to what they were in the source file. No compression or quality reduction occurs during the merge process itself.',
+    'faq3-q' => 'Is there a limit to how many PDFs I can merge at once?',
+    'faq3-a' => "For the online tool at PDFTools, there are no stated limits on the number of files or total file size. For desktop tools like Preview or Acrobat, the only limit is your computer's available memory.",
+    'faq4-q' => 'Can I merge just specific pages from each PDF rather than entire files?',
+    'faq4-a' => 'Yes. Adobe Acrobat Pro lets you select specific pages from each source file during the Combine Files workflow. Preview on Mac lets you drag individual page thumbnails rather than entire files. For the online tool, merge the full files and then use the split tool to remove any pages you do not need.',
+    'faq5-q' => 'Why does my merged PDF look different from the originals?',
+    'faq5-a' => 'This rarely happens with high-quality tools. If it does, it is usually caused by font substitution when a font embedded in one source PDF conflicts with font data in another. In Adobe Acrobat Pro, the PDF Optimizer can help normalise font data across the merged output.',
+];

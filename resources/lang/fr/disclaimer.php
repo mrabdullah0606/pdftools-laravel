@@ -1,0 +1,25 @@
+<?php
+
+return array (
+  'title' => 'Avis de non-responsabilité - PDFTools.net',
+  'description' => 'Lisez notre clause de non-responsabilité pour comprendre les termes et les limites d\'utilisation des services et outils PDFTools.net.',
+  'hero-title' => 'Clause de non-responsabilité',
+  'hero-subtitle' => 'Informations importantes sur l\'utilisation de nos services',
+  'intro-text' => 'Les informations et les outils fournis sur ',
+  'a' => 'pdftools.net',
+  'intro-text2' => '(le « Site ») sont destinés uniquement à une information générale et à une utilisation pratique. Tous les contenus et outils du Site sont proposés de bonne foi. Cependant, nous ne garantissons pas l\'exactitude, la fiabilité, l\'exhaustivité ou l\'adéquation de toute information ou outil disponible sur le Site. Les utilisateurs doivent comprendre que le Site peut contenir des erreurs ou des omissions.',
+  'service-as-is-title' => 'Service fourni tel quel',
+  'service-as-is-text' => 'Tous les services du Site sont fournis « TELS QUELS » et « SELON LA DISPONIBILITÉ ». Le Site et ses outils présentent tous les défauts, défauts ou limitations. Aucune garantie n\'est expresse ou implicite. PDF Tools ne fait aucune promesse concernant les performances, les résultats ou la fiabilité des outils. Les utilisateurs acceptent l\'entière responsabilité de l\'utilisation du Site. Le Site ne garantit pas un accès ininterrompu, un fonctionnement sans bug ou que les fichiers traités avec les outils seront exempts d\'erreurs.',
+  'liability-title' => 'Limitation de responsabilité',
+  'liability-text' => 'PDFTools.net et ses sociétés affiliées ne sont pas responsables de toute perte ou dommage pouvant survenir lors de l\'utilisation du site. Cela inclut la perte de données, la corruption de fichiers ou d\'autres problèmes causés par l\'utilisation des outils. Les utilisateurs conviennent que toute confiance dans les informations ou les outils du Site est entièrement à leurs propres risques. Nous ne sommes pas responsables des conséquences financières, techniques ou personnelles pouvant découler de l\'utilisation du Site.',
+  'external-links-title' => 'Liens externes',
+  'external-links-text' => 'Le Site peut inclure des liens vers des sites Internet et des contenus fournis par des tiers. PDFTools.net n\'examine ni ne surveille ces sites Web tiers. L\'exactitude, l\'exhaustivité ou la fiabilité du contenu des sites liés ne sont pas garanties. Les utilisateurs doivent comprendre que ces liens sont proposés uniquement pour des raisons de commodité. PDFTools.net n\'approuve, ne garantit ni n\'assume la responsabilité des informations contenues dans les sites Web externes.',
+  'no-advice-title' => 'Aucun conseil professionnel',
+  'no-advice-text' => 'Les informations fournies sur le Site sont uniquement destinées à la connaissance générale. L\'utilisation du Site et de ses outils ne crée pas de relation professionnelle entre les utilisateurs et PDFTools.net. Les utilisateurs ne doivent pas fonder leurs décisions juridiques, commerciales ou autres uniquement sur le contenu disponible sur le site. Demandez toujours conseil à un professionnel qualifié pour des questions ou des préoccupations spécifiques.',
+  'user-responsibility-title' => 'Responsabilité de l\'utilisateur',
+  'user-responsibility-text' => 'Les utilisateurs sont responsables de s\'assurer que tous les fichiers qu\'ils téléchargent ou traitent via le site sont conformes aux lois applicables. PDFTools.net ne vérifie pas la légalité ou la sécurité des fichiers téléchargés par les utilisateurs. Le Site doit être utilisé de manière responsable et dans les limites du jugement personnel et professionnel.',
+  'agreement-notice-text' => 'En utilisant',
+  'agreement-notice-text2' => 'les utilisateurs acceptent cette clause de non-responsabilité. Les utilisateurs acceptent les termes et comprennent que PDFTools.net ne fournit aucune garantie. Les Utilisateurs reconnaissent utiliser le Site à leurs propres risques et sont seuls responsables des résultats. Tous les contenus et outils du Site doivent être utilisés avec précaution et en tenant compte des erreurs ou limitations possibles.',
+  'titles' => 'Avis de non-responsabilité PDFTools.net – Informations importantes pour une utilisation sûre des outils',
+  'descriptions' => 'Lisez la clause de non-responsabilité officielle de PDFTools.net pour comprendre le fonctionnement de nos outils, les limitations d\'utilisation et les responsabilités des utilisateurs. Restez informé et utilisez nos services en toute confiance et de manière responsable.',
+);

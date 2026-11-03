@@ -1,0 +1,73 @@
+<?php
+
+return [
+    'title' => 'How to Convert PDF to Word Without Losing Format Easily!',
+    'description' => 'Learn how to convert PDF to Word without losing formatting. Keep fonts, images, tables, and layouts intact with simple steps. Try it today! Start converting!',
+    'main-heading' => 'How to Convert PDF to Word Without Losing Formatting',
+
+    'intro-heading' => 'The Challenge of PDF to Word Conversion',
+    'intro-p1' => 'PDFs and Word documents are built on completely different principles. A PDF locks down the visual presentation of a document and does not store structural information about paragraphs, headings, or table cells as editable objects. A Word document stores content as structured, editable elements. Converting from one to the other means reconstructing that structure from the visual layout, which is an imperfect process.',
+    'intro-p2' => 'The quality of the conversion depends on three things: the quality of the original PDF, the type of content it contains, and the tool used to convert it. Understanding these factors helps you set realistic expectations and choose the right approach for each situation.',
+
+    'what-heading' => 'What Converts Well and What Does Not',
+    'what-p1' => 'PDFs that were created from a Word or Office document, sometimes called born-digital PDFs, convert back to Word with high fidelity. The text, basic formatting, fonts, and simple tables come through cleanly. This is because the original document structure is partially preserved in the PDF\'s internal data.',
+    'what-p2' => 'Scanned PDFs where the content is stored as an image rather than actual text require an OCR step before conversion. Without OCR, the PDF to Word converter has no text to extract, and the output will be a Word document containing an image of each page rather than editable text.',
+    'what-p3' => 'PDFs with complex multi-column layouts, unusual table structures, text over images, or decorative formatting often require manual adjustment after conversion. The converter can extract the text accurately but may not perfectly reconstruct the visual arrangement.',
+
+    'method1-heading' => 'Method 1: PDFTools PDF to Word Converter',
+    'method1-intro' => 'The __PDF_TO_WORD_LINK__ at PDFTools is the fastest free option for converting most standard PDFs to editable Word documents. No account or software is required.',
+    'method1-step1' => 'Go to the PDF to Word tool in your browser.',
+    'method1-step2' => 'Upload your PDF from your device, Google Drive, or Dropbox.',
+    'method1-step3' => 'The converter extracts the text and reconstructs the document structure, applying formatting where it can be identified.',
+    'method1-step4' => 'Download the resulting DOCX file.',
+    'method1-note' => 'For a step-by-step walkthrough of this process with tips on getting the best results, see the __PDF_CONVERSION_GUIDE_LINK__ at PDFTools.',
+
+    'method2-heading' => 'Method 2: Adobe Acrobat Pro (Most Accurate)',
+    'method2-intro' => 'Adobe Acrobat Pro produces the highest quality PDF to Word conversions available in commercial software. Its export engine reconstructs tables, column layouts, and text flows with greater accuracy than most other tools.',
+    'method2-step1' => 'Open the PDF in Adobe Acrobat Pro.',
+    'method2-step2' => 'Go to File and select Export To.',
+    'method2-step3' => 'Choose Microsoft Word then Word Document.',
+    'method2-step4' => 'In the export settings, select the appropriate OCR language if the PDF contains scanned content.',
+    'method2-step5' => 'Click Export and choose where to save the DOCX file.',
+    'method2-note' => 'Acrobat Pro\'s conversion is particularly strong for complex documents with tables, multi-column text, and mixed content. The output typically requires less manual correction than conversions from other tools.',
+
+    'method3-heading' => 'Method 3: Google Docs (Free, Browser-Based)',
+    'method3-intro' => 'Google Drive can convert a PDF to an editable Google Doc by opening the PDF with Google Docs. The resulting content can then be downloaded as a DOCX file.',
+    'method3-step1' => 'Upload your PDF to Google Drive.',
+    'method3-step2' => 'Right-click the PDF and select Open with Google Docs.',
+    'method3-step3' => 'Google Docs extracts the text and renders it as editable content.',
+    'method3-step4' => 'Go to File, select Download, and choose Microsoft Word.',
+    'method3-note' => 'This method works well for text-heavy PDFs and is completely free. Complex layouts and tables may need significant manual correction. The OCR included in this process handles scanned content reasonably well for standard document types.',
+
+    'method4-heading' => 'Method 4: Microsoft Word (Direct Open)',
+    'method4-intro' => 'Recent versions of Microsoft Word can open PDF files directly and perform the conversion automatically.',
+    'method4-step1' => 'Open Word and go to File then Open.',
+    'method4-step2' => 'Select your PDF file.',
+    'method4-step3' => 'Word displays a message explaining that it will convert the PDF to an editable document. Click OK.',
+    'method4-step4' => 'Word opens the converted document. Save it as DOCX.',
+    'method4-note' => 'Word\'s built-in conversion is convenient for users already working in Word and handles most standard PDFs well. For scanned PDFs, the result depends on whether Word\'s built-in OCR can identify the text accurately.',
+
+    'improving-heading' => 'Improving Conversion Results',
+    'improving-p1' => 'For the best conversion output regardless of which tool you use, there are a few practical steps that consistently improve results.',
+    'improving-p2' => 'If the PDF is large, splitting it into sections before converting often produces cleaner output per section than converting the entire document at once. The converter can focus on each section\'s structure without being confused by transitions between very different layout types.',
+    'improving-p3' => 'After conversion, use Word\'s Find and Replace (Ctrl+H or Cmd+H) to quickly locate and fix common conversion artefacts: extra spaces between words, hyphenated words split across lines, and inconsistent heading formatting.',
+    'improving-p4' => 'For multi-column documents, the converter may linearise the columns into a single text flow. Check the output against the original PDF page by page to ensure content is in the right order before editing.',
+    'improving-p5' => 'For converting documents in the other direction, from Word back to PDF after editing, the __WORD_TO_PDF_LINK__ at PDFTools produces a clean result. The __WORD_TO_PDF_GUIDE_LINK__ covers how to ensure the output matches the Word document exactly.',
+
+    'conclusion-heading' => 'Conclusion',
+    'conclusion-p1' => 'PDF to Word conversion works well for most standard documents and is available for free using the tools described in this guide. The quality of the output depends primarily on the type of PDF being converted: born-digital PDFs with simple layouts convert cleanly, while scanned PDFs and complex multi-column layouts need more post-conversion cleanup.',
+    'conclusion-p2' => 'For occasional conversions, the free online tool at PDFTools is the quickest starting point. For high-volume or complex conversions where accuracy is critical, Adobe Acrobat Pro produces the most reliable results. For free alternatives, Google Docs handles most standard PDFs well and adds useful OCR capability for scanned content.',
+    'conclusion-p3' => 'Start with the __PDF_TO_WORD_LINK__ at PDFTools for fast, free conversion. For the full step-by-step guide with tips on specific document types, see the __PDF_CONVERSION_GUIDE_LINK__. After editing the converted document, convert it back to PDF cleanly using the __WORD_TO_PDF_LINK__.',
+
+    'faq-heading' => 'Frequently Asked Questions',
+    'faq1-q' => 'Why does the converted Word document look different from the PDF?',
+    'faq1-a' => 'PDF to Word conversion reconstructs document structure from visual layout, which is an imperfect reverse-engineering process. Complex layouts with columns, text over images, and non-standard table structures often require manual correction after conversion. For simple text documents, the output is usually very close to the original.',
+    'faq2-q' => 'Can I convert a scanned PDF to Word?',
+    'faq2-a' => 'Yes, but OCR is required first. Google Docs performs OCR automatically when you open a PDF. Adobe Acrobat Pro also applies OCR during conversion. PDFTools\'s converter attempts text extraction but performs best on digital PDFs. For dedicated OCR conversion, Google Drive\'s open-with-Google-Docs method or Acrobat Pro produces the most accurate results for scanned documents.',
+    'faq3-q' => 'Will the formatting be exactly the same as the original Word document?',
+    'faq3-a' => 'If the PDF was created from a Word document and you are converting it back, the formatting will be very close but rarely identical. Some spacing, font size, and paragraph structure may differ slightly. For documents where exact formatting must be preserved, work from the original Word source file rather than converting from PDF.',
+    'faq4-q' => 'Does the converter preserve hyperlinks?',
+    'faq4-a' => 'Yes, in most cases. PDFs that contain clickable hyperlinks typically have those links preserved in the Word output. However, hyperlinks embedded in complex layouts or over images may not be preserved consistently.',
+    'faq5-q' => 'Can I convert multiple PDFs to Word at the same time?',
+    'faq5-a' => 'PDFTools supports batch conversion for users who need to process multiple files. Upload several PDFs at once and download the converted Word files together. For very large batches, see the __WORKFLOW_TIPS_LINK__ for more efficient document handling approaches.',
+];

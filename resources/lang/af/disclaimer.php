@@ -1,0 +1,25 @@
+<?php
+
+return array (
+  'title' => 'Vrywaring - PDFTools.net',
+  'description' => 'Lees ons vrywaring om die bepalings en beperkings van die gebruik van PDFTools.net-dienste en -nutsmiddels te verstaan.',
+  'hero-title' => 'Disclaimer',
+  'hero-subtitle' => 'Belangrike inligting oor die gebruik van ons dienste',
+  'intro-text' => 'Die inligting en gereedskap verskaf op ',
+  'a' => 'pdftools.net',
+  'intro-text2' => '(die "werf") is slegs bedoel vir algemene inligting en praktiese gebruik. Alle inhoud en gereedskap op die webwerf word te goeder trou aangebied. Ons waarborg egter nie die akkuraatheid, betroubaarheid, volledigheid of geskiktheid van enige inligting of hulpmiddel wat op die webwerf beskikbaar is nie. Gebruikers moet verstaan ​​dat die webwerf foute of weglatings kan bevat.',
+  'service-as-is-title' => 'Diens gelewer soos dit is',
+  'service-as-is-text' => 'Alle dienste op die webwerf word verskaf op \'n "AS IS" en "AS BESKIKBAAR" basis. Die webwerf en sy gereedskap kom met alle foute, defekte of beperkings. Geen waarborge word uitgedruk of geïmpliseer nie. PDF Tools maak geen beloftes aangaande die werkverrigting, resultate of betroubaarheid van die gereedskap nie. Gebruikers aanvaar volle verantwoordelikheid vir die gebruik van die webwerf. Die webwerf waarborg nie ononderbroke toegang, foutvrye werking, of dat lêers wat met die gereedskap verwerk word, vry van foute sal wees nie.',
+  'liability-title' => 'Beperking van aanspreeklikheid',
+  'liability-text' => 'PDFTools.net en sy affiliasies is nie aanspreeklik vir enige verlies of skade wat mag voorkom as gevolg van die gebruik van die webwerf nie. Dit sluit dataverlies, lêerkorrupsie of ander probleme in wat veroorsaak word deur die gebruik van die gereedskap. Gebruikers stem in dat enige vertroue op die webwerf se inligting of gereedskap heeltemal op hul eie risiko is. Ons is nie verantwoordelik vir enige finansiële, tegniese of persoonlike gevolge wat mag voortspruit uit die gebruik van die webwerf nie.',
+  'external-links-title' => 'Eksterne skakels',
+  'external-links-text' => 'Die webwerf kan skakels insluit na webwerwe en inhoud wat deur derde partye verskaf word. PDFTools.net hersien of monitor nie hierdie derdeparty-webwerwe nie. Die akkuraatheid, volledigheid of betroubaarheid van die inhoud op gekoppelde werwe word nie gewaarborg nie. Gebruikers moet verstaan ​​dat hierdie skakels slegs vir gerief aangebied word. PDFTools.net onderskryf, waarborg of aanvaar nie verantwoordelikheid vir enige inligting op eksterne webwerwe nie.',
+  'no-advice-title' => 'Geen professionele advies nie',
+  'no-advice-text' => 'Inligting wat op die webwerf verskaf word, is slegs bedoel vir algemene kennis. Die gebruik van die webwerf en sy gereedskap skep nie \'n professionele verhouding tussen gebruikers en PDFTools.net nie. Gebruikers moet nie wetlike, besigheids- of ander besluite uitsluitlik baseer op die inhoud wat op die webwerf beskikbaar is nie. Soek altyd advies van \'n gekwalifiseerde professionele persoon vir spesifieke vrae of bekommernisse.',
+  'user-responsibility-title' => 'Gebruikersverantwoordelikheid',
+  'user-responsibility-text' => 'Gebruikers is verantwoordelik om te verseker dat enige lêers wat hulle oplaai of deur die webwerf verwerk aan toepaslike wette voldoen. PDFTools.net kontroleer nie die wettigheid of veiligheid van lêers wat deur gebruikers opgelaai is nie. Die webwerf moet verantwoordelik en binne die perke van persoonlike en professionele oordeel gebruik word.',
+  'agreement-notice-text' => 'Deur die gebruik van',
+  'agreement-notice-text2' => 'gebruikers stem in tot hierdie vrywaring. Gebruikers aanvaar die bepalings en verstaan ​​dat PDFTools.net geen waarborge bied nie. Gebruikers erken dat hulle die webwerf op hul eie risiko gebruik en is uitsluitlik verantwoordelik vir die resultate. Alle inhoud en gereedskap op die webwerf moet versigtig gebruik word en met inagneming van moontlike foute of beperkings.',
+  'titles' => 'PDFTools.net Vrywaring – Belangrike inligting vir veilige gebruik van gereedskap',
+  'descriptions' => 'Lees die amptelike vrywaring vir PDFTools.net om te verstaan ​​hoe ons gereedskap werk, gebruiksbeperkings en gebruikersverantwoordelikhede. Bly op hoogte en gebruik ons ​​dienste met selfvertroue en verantwoordelik.',
+);

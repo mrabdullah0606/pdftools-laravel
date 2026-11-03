@@ -1,0 +1,78 @@
+<?php
+
+return array (
+  'title' => 'Jak sloučit PDF soubory: Kompletní bezplatný průvodce pro rok 2026',
+  'description' => 'Naučte se, jak zdarma sloučit PDF soubory v roce 2026. Spojte více dokumentů do jednoho souboru a udržte stránky přehledné a snadno sdílené. Sloučte své PDF soubory ještě dnes!',
+  'main-heading' => 'Jak sloučit PDF soubory: Kompletní bezplatný průvodce pro rok 2026',
+
+  'intro-heading' => 'Když máte příliš mnoho souborů a potřebujete jeden dokument',
+  'intro-p1' => 'Každý, kdo někdy sestavoval projektový návrh, žádost o grant, zprávu pro klienta nebo třeba jen jednoduchý soubor pokynů, zná tento problém. Obsah je rozdělen do čtyř nebo pěti samostatných PDF souborů. Potřebujete jej v jednom přehledném dokumentu, který příjemce může otevřít, procházet a vytisknout bez přepínání mezi soubory.',
+  'intro-p2' => 'Slučování PDF souborů patří mezi nejběžnější úkony s dokumenty v profesním i akademickém životě a zároveň je jedním z nejjednodušších, které lze provést zdarma. Tento průvodce pokrývá všechny spolehlivé metody dostupné v roce 2026, od nástrojů fungujících přímo v prohlížeči, které nevyžadují žádný software, až po desktopová řešení, díky nimž zůstanou vaše soubory zcela lokální. Na konci budete vědět, která metoda se hodí právě pro vaši situaci, a dokážete sloučit libovolnou sadu PDF souborů za méně než dvě minuty.',
+
+  'what-heading' => 'Co sloučení PDF ve skutečnosti znamená',
+  'what-p1' => 'Když slučujete PDF soubory, spojujete stránky několika samostatných PDF dokumentů do jednoho jediného PDF souboru. Pořadí stránek ve výsledném souboru odpovídá pořadí, které zadáte při slučování. Obsah každé stránky zůstává přesně zachován, včetně obrázků, písem, formátování i interaktivních prvků, jako jsou hypertextové odkazy.',
+  'what-p2' => 'Slučování žádný obsah znovu nevykresluje ani nezpracovává. Je to spíše svázání samostatných brožur do jednoho svazku než kopírování a vkládání. To znamená, že kvalita výstupu odpovídá kvalitě vstupů a celý proces probíhá bezeztrátově.',
+
+  'method1-heading' => 'Metoda 1: Nástroj pro slučování PDFTools (zdarma, bez softwaru)',
+  'method1-intro' => 'Nejrychlejší metodou pro většinu lidí je bezplatný __MERGE_LINK__ na PDFTools. Celý proces proběhne v prohlížeči bez nutnosti instalace, účtu nebo omezení velikosti souboru.',
+  'method1-step1' => 'Otevřete prohlížeč a přejděte na nástroj PDFTools pro slučování PDF.',
+  'method1-step2' => 'Klikněte na oblast pro nahrání nebo přetáhněte své PDF soubory přímo na stránku. Nahrát můžete i více souborů najednou.',
+  'method1-step3' => 'Přetažením miniatur souborů je uspořádejte v pořadí, ve kterém je chcete mít ve výsledném dokumentu.',
+  'method1-step4' => 'Klikněte na tlačítko sloučit a počkejte na dokončení zpracování. Většina sad souborů se sloučí za méně než 30 sekund.',
+  'method1-step5' => 'Stáhněte si sloučené PDF. Všechny původní soubory ve vašem zařízení zůstanou beze změny.',
+  'method1-note' => 'Soubory se ze serveru automaticky odstraní po jedné hodině a registrace není nutná. Soubory můžete také importovat přímo z Google Drive nebo Dropboxu, což je užitečné, pokud jsou vaše dokumenty už uložené v cloudu. Více o práci s velkými sloučenými dokumenty najdete v průvodci o __COMPRESS_GUIDE_LINK__.',
+
+  'method2-heading' => 'Metoda 2: Adobe Acrobat Reader Pro',
+  'method2-intro' => 'Pokud máte nainstalovaný Adobe Acrobat Pro, nástroj Combine Files vám dává nejvíce kontroly nad slučováním, včetně možnosti přeuspořádat stránky, extrahovat konkrétní stránky z jednotlivých zdrojových souborů a před dokončením zobrazit náhled sloučení.',
+  'method2-step1' => 'Otevřete Adobe Acrobat Pro.',
+  'method2-step2' => 'Přejděte na Tools a vyberte Combine Files.',
+  'method2-step3' => 'Klikněte na Add Files a vyberte každý PDF soubor, který chcete sloučit.',
+  'method2-step4' => 'Přetažením panelů souborů nastavte jejich pořadí. Každý soubor můžete také rozbalit a vybrat z něj konkrétní stránky místo zahrnutí celého dokumentu.',
+  'method2-step5' => 'Klikněte na Combine. Acrobat soubory zpracuje a otevře sloučený výsledek.',
+  'method2-step6' => 'Sloučený soubor uložte pomocí File a poté Save As.',
+  'method2-note' => 'Tato metoda je obzvlášť užitečná, pokud potřebujete sloučit pouze vybrané stránky místo celých dokumentů, nebo když pracujete se soubory chráněnými heslem, které vyžadují před sloučením ověření.',
+
+  'method3-heading' => 'Metoda 3: Preview na Macu (vestavěná funkce, bez nutnosti nahrávání)',
+  'method3-intro' => 'Uživatelé Macu mají k dispozici výkonnou bezplatnou možnost slučování zabudovanou přímo do operačního systému prostřednictvím aplikace Preview. Nemusíte nic instalovat a žádné soubory se nikam nenahrávají.',
+  'method3-step1' => 'Otevřete první PDF v Preview.',
+  'method3-step2' => 'Přejděte na View a vyberte Thumbnails, čímž zobrazíte panel stránek vlevo.',
+  'method3-step3' => 'Otevřete druhý PDF v samostatném okně Preview.',
+  'method3-step4' => 'V druhém okně Preview vyberte všechny miniatury stránek, které chcete přidat. Všechny můžete vybrat pomocí Command+A, nebo klikat na jednotlivé miniatury při podržení klávesy Command.',
+  'method3-step5' => 'Přetáhněte vybrané miniatury z druhého okna do panelu miniatur prvního okna. Umístěte je tam, kde se mají v dokumentu objevit.',
+  'method3-step6' => 'Postup opakujte pro všechny další soubory.',
+  'method3-step7' => 'Uložte spojený dokument pomocí File a poté Save.',
+  'method3-tip' => 'Tip: V Preview můžete stránky po sloučení také znovu přeuspořádat přetažením miniatur v panelu a nežádoucí stránky odstranit jejich výběrem a stisknutím Delete.',
+
+  'method4-heading' => 'Metoda 4: Google Drive (zdarma pro každého s účtem Google)',
+  'method4-intro' => 'Google Drive neslučuje PDF soubory přímo, ale v kombinaci s Google Docs nabízí bezplatné řešení, které dobře funguje u textově zaměřených PDF souborů.',
+  'method4-step1' => 'Nahrajte všechny své PDF soubory na Google Drive.',
+  'method4-step2' => 'Klikněte pravým tlačítkem na každý PDF soubor a otevřete jej pomocí Google Docs. Tím se každý PDF soubor převede na dokument Google Docs.',
+  'method4-step3' => 'Zkopírujte obsah z každého dalšího dokumentu Google Docs a vložte ho do prvního.',
+  'method4-step4' => 'Stáhněte spojený dokument Google Docs jako PDF přes File, poté Download a poté PDF Document.',
+  'method4-note' => 'Tato metoda funguje nejlépe u dokumentů s převahou textu. PDF soubory se složitým rozvržením, obrázky nebo vlastními písmy nemusí při převodu přes Google Docs zachovat dokonalé formátování.',
+
+  'order-heading' => 'Výběr správného pořadí stránek před sloučením',
+  'order-p1' => 'Nejčastější chybou při slučování PDF souborů je nedostatečné promyšlení pořadí stránek před samotným začátkem. Pár minut plánování předejde frustraci ze zjištění špatného pořadí stránek až po dokončení sloučení.',
+  'order-p2' => 'U vícesekčního dokumentu uspořádejte soubory v pořadí, v jakém by je čtenář postupně procházel: titulní stránka, obsah, hlavní části v logickém sledu, přílohy, reference. Pokud nástroj nepodporuje vizuální přeuspořádání, pojmenujte soubory na začátku čísly, aby se správně řadily podle názvu souboru.',
+  'order-p3' => 'Pokud po sloučení zjistíte, že stránky jsou ve špatném pořadí, můžete sloučené PDF rozdělit na části, přeuspořádat je a znovu sloučit pomocí __SPLIT_LINK__ společně s __MERGE_LINK__.',
+
+  'size-heading' => 'Správa velikosti souboru u sloučených PDF',
+  'size-p1' => 'Slučování PDF souborů nezvyšuje velikost souboru nad součet velikostí vstupů. Sloučený dokument, který spojuje čtyři velké soubory, ale může snadno dosáhnout 40 nebo 50 MB, což překračuje limity většiny e-mailových příloh. Zpracování sloučeného souboru pomocí __COMPRESS_LINK__ na PDFTools po sloučení obvykle sníží velikost o 50 až 70 procent bez viditelné změny kvality na obrazovce.',
+  'size-p2' => 'Podrobný přehled nastavení komprese a očekávaných výsledků najdete v průvodci o __COMPRESS_QUALITY_GUIDE_LINK__.',
+
+  'conclusion-heading' => 'Závěr',
+  'conclusion-p1' => 'Slučování PDF souborů patří mezi nejjednodušší úkony s dokumenty, jakmile znáte správný nástroj pro svou situaci. Pro většinu lidí zvládne tuto práci bezplatný nástroj v prohlížeči na PDFTools za méně než dvě minuty bez potřeby jakéhokoli softwaru. Uživatelé Macu mají navíc k dispozici pohodlné rozhraní Preview s přetahováním myší, které vše udrží lokálně. Adobe Acrobat Pro je správnou volbou, pokud potřebujete přesnou kontrolu nad tím, které stránky z jednotlivých zdrojových souborů se ve výstupu objeví.',
+  'conclusion-p2' => 'Pokud je po sloučení výsledný soubor příliš velký na odeslání e-mailem, __COMPRESS_LINK__ na PDFTools jej rychle zmenší. Pro převod sloučeného dokumentu do upravitelného formátu je na PDFTools zdarma k dispozici __WORD_LINK__.',
+
+  'faq-heading' => 'Často kladené otázky',
+  'faq1-q' => 'Mohu sloučit PDF soubory chráněné heslem?',
+  'faq1-a' => 'Ano, ale pro každý chráněný soubor potřebujete správné heslo. Většina slučovacích nástrojů vás při nahrání chráněného PDF vyzve k zadání hesla. Jakmile je soubor odemčen, sloučení proběhne běžným způsobem. Výsledné PDF nezdědí ochranu heslem ze zdrojových souborů, pokud ji nepřidáte samostatně.',
+  'faq2-q' => 'Snižuje slučování PDF jejich kvalitu?',
+  'faq2-a' => 'Ne. Slučování je strukturální operace, která spojuje stránky bez opětovného vykreslování jakéhokoli obsahu. Obrázky, písma a formátování na každé stránce jsou ve výstupu naprosto identické s tím, jak vypadaly ve zdrojovém souboru. Během samotného procesu slučování nedochází k žádné kompresi ani snížení kvality.',
+  'faq3-q' => 'Existuje limit na počet PDF souborů, které mohu naráz sloučit?',
+  'faq3-a' => 'U online nástroje na PDFTools nejsou stanoveny žádné limity na počet souborů ani celkovou velikost souborů. U desktopových nástrojů, jako je Preview nebo Acrobat, je jediným omezením dostupná paměť vašeho počítače.',
+  'faq4-q' => 'Mohu sloučit jen konkrétní stránky z jednotlivých PDF souborů místo celých souborů?',
+  'faq4-a' => 'Ano. Adobe Acrobat Pro vám umožňuje během procesu Combine Files vybrat konkrétní stránky z každého zdrojového souboru. Preview na Macu umožňuje přetahovat jednotlivé miniatury stránek místo celých souborů. U online nástroje sloučte celé soubory a poté pomocí nástroje pro rozdělení odstraňte stránky, které nepotřebujete.',
+  'faq5-q' => 'Proč vypadá moje sloučené PDF jinak než originály?',
+  'faq5-a' => 'U kvalitních nástrojů se to stává jen zřídka. Pokud k tomu dojde, obvykle je to způsobeno nahrazením písma, když písmo vložené do jednoho zdrojového PDF koliduje s daty písma v jiném souboru. V Adobe Acrobat Pro může nástroj PDF Optimizer pomoci sjednotit data písem napříč sloučeným výstupem.',
+);

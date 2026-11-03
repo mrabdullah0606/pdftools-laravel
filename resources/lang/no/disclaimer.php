@@ -1,0 +1,25 @@
+<?php
+
+return array (
+  'title' => 'Ansvarsfraskrivelse - PDFTools.net',
+  'description' => 'Les vår ansvarsfraskrivelse for å forstå vilkårene og begrensningene for bruk av PDFTools.net-tjenester og verktøy.',
+  'hero-title' => 'Ansvarsfraskrivelse',
+  'hero-subtitle' => 'Viktig informasjon om bruk av våre tjenester',
+  'intro-text' => 'Informasjonen og verktøyene som er gitt på ',
+  'a' => 'pdftools.net',
+  'intro-text2' => '("Nettstedet") er kun ment for generell informasjon og praktisk bruk. Alt innhold og verktøy på nettstedet tilbys i god tro. Vi garanterer imidlertid ikke nøyaktigheten, påliteligheten, fullstendigheten eller egnetheten til informasjon eller verktøy som er tilgjengelig på nettstedet. Brukere bør forstå at nettstedet kan inneholde feil eller utelatelser.',
+  'service-as-is-title' => 'Tjenesten leveres som den er',
+  'service-as-is-text' => 'Alle tjenester på nettstedet tilbys på "SOM DE ER" og "SOM TILGJENGELIG". Nettstedet og dets verktøy kommer med alle feil, mangler eller begrensninger. Ingen garantier er uttrykt eller underforstått. PDF Tools gir ingen løfter angående ytelsen, resultatene eller påliteligheten til verktøyene. Brukere aksepterer fullt ansvar for å bruke nettstedet. Siden garanterer ikke uavbrutt tilgang, feilfri drift, eller at filer som behandles med verktøyene vil være feilfrie.',
+  'liability-title' => 'Ansvarsbegrensning',
+  'liability-text' => 'PDFTools.net og dets tilknyttede selskaper er ikke ansvarlige for tap eller skade som kan oppstå ved bruk av nettstedet. Dette inkluderer tap av data, filkorrupsjon eller andre problemer forårsaket av bruk av verktøyene. Brukere samtykker i at all tillit til nettstedets informasjon eller verktøy er helt på egen risiko. Vi er ikke ansvarlige for økonomiske, tekniske eller personlige konsekvenser som kan oppstå ved bruk av nettstedet.',
+  'external-links-title' => 'Eksterne lenker',
+  'external-links-text' => 'Siden kan inneholde lenker til nettsteder og innhold levert av tredjeparter. PDFTools.net vurderer eller overvåker ikke disse tredjepartsnettstedene. Nøyaktigheten, fullstendigheten eller påliteligheten til innholdet på koblede nettsteder er ikke garantert. Brukere bør forstå at disse koblingene kun tilbys for enkelhets skyld. PDFTools.net støtter, garanterer eller påtar seg ikke ansvar for informasjon på eksterne nettsteder.',
+  'no-advice-title' => 'Ingen profesjonelle råd',
+  'no-advice-text' => 'Informasjon gitt på nettstedet er kun ment for generell kunnskap. Bruken av nettstedet og dets verktøy skaper ikke et profesjonelt forhold mellom brukere og PDFTools.net. Brukere bør ikke basere juridiske, forretningsmessige eller andre avgjørelser utelukkende på innholdet som er tilgjengelig på nettstedet. Søk alltid råd fra en kvalifisert fagperson for spesifikke spørsmål eller bekymringer.',
+  'user-responsibility-title' => 'Brukeransvar',
+  'user-responsibility-text' => 'Brukere er ansvarlige for å sikre at alle filer de laster opp eller behandler gjennom nettstedet er i samsvar med gjeldende lover. PDFTools.net sjekker ikke lovligheten eller sikkerheten til filer lastet opp av brukere. Nettstedet bør brukes ansvarlig og innenfor grensene for personlig og profesjonell vurdering.',
+  'agreement-notice-text' => 'Ved å bruke',
+  'agreement-notice-text2' => 'brukere godtar denne ansvarsfraskrivelsen. Brukere aksepterer vilkårene og forstår at PDFTools.net ikke gir noen garantier. Brukere erkjenner at de bruker nettstedet på egen risiko og er eneansvarlig for resultatene. Alt innhold og verktøy på nettstedet bør brukes forsiktig og med hensyn til mulige feil eller begrensninger.',
+  'titles' => 'PDFTools.net Ansvarsfraskrivelse – Viktig informasjon for sikker bruk av verktøy',
+  'descriptions' => 'Les den offisielle ansvarsfraskrivelsen for PDFTools.net for å forstå hvordan verktøyene våre fungerer, bruksbegrensninger og brukeransvar. Hold deg informert og bruk tjenestene våre trygt og ansvarlig.',
+);

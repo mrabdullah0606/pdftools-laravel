@@ -1,0 +1,25 @@
+<?php
+
+return array (
+  'title' => 'Yasal Uyarı - PDFTools.net',
+  'description' => 'PDFTools.net hizmetlerini ve araçlarını kullanma şartlarını ve sınırlamalarını anlamak için sorumluluk reddi beyanımızı okuyun.',
+  'hero-title' => 'Sorumluluk reddi beyanı',
+  'hero-subtitle' => 'Hizmetlerimizi kullanmayla ilgili önemli bilgiler',
+  'intro-text' => 'Sağlanan bilgi ve araçlar ',
+  'a' => 'pdftools.net',
+  'intro-text2' => '("Site") yalnızca genel bilgilendirme ve pratik kullanıma yöneliktir. Sitedeki tüm içerik ve araçlar iyi niyetle sunulmaktadır. Ancak Sitede bulunan herhangi bir bilgi veya aracın doğruluğunu, güvenilirliğini, eksiksizliğini veya uygunluğunu garanti etmiyoruz. Kullanıcılar Sitenin hatalar veya eksiklikler içerebileceğini anlamalıdır.',
+  'service-as-is-title' => 'Hizmet Olduğu Gibi Sağlanıyor',
+  'service-as-is-text' => 'Sitedeki tüm hizmetler "OLDUĞU GİBİ" ve "MEVCUT OLDUĞU ŞEKİLDE" sağlanmaktadır. Site ve araçları tüm hatalarla, kusurlarla veya sınırlamalarla birlikte gelir. Açık veya zımni hiçbir garanti verilmemektedir. PDF Araçları, araçların performansı, sonuçları veya güvenilirliği konusunda herhangi bir vaatte bulunmaz. Kullanıcılar Siteyi kullanmanın tüm sorumluluğunu kabul ederler. Site, kesintisiz erişimi, hatasız çalışmayı veya araçlarla işlenen dosyaların hatasız olacağını garanti etmez.',
+  'liability-title' => 'Sorumluluğun Sınırlandırılması',
+  'liability-text' => 'PDFTools.net ve bağlı kuruluşları, Sitenin kullanılmasından kaynaklanabilecek hiçbir kayıp veya zarardan sorumlu değildir. Buna veri kaybı, dosya bozulması veya araçların kullanılmasından kaynaklanan diğer sorunlar dahildir. Kullanıcılar, Sitenin bilgilerine veya araçlarına güvenmenin riskinin tamamen kendilerine ait olduğunu kabul ederler. Sitenin kullanımından doğabilecek hiçbir mali, teknik veya kişisel sonuçtan sorumlu değiliz.',
+  'external-links-title' => 'Dış Bağlantılar',
+  'external-links-text' => 'Site, üçüncü taraflarca sağlanan web sitelerine ve içeriğe bağlantılar içerebilir. PDFTools.net bu üçüncü taraf web sitelerini incelemez veya izlemez. Bağlantı verilen sitelerdeki içeriğin doğruluğu, eksiksizliği veya güvenilirliği garanti edilmez. Kullanıcılar bu bağlantıların yalnızca kolaylık sağlamak amacıyla sunulduğunu anlamalıdır. PDFTools.net, harici web sitelerindeki hiçbir bilgiyi onaylamaz, garanti etmez veya bunların sorumluluğunu üstlenmez.',
+  'no-advice-title' => 'Profesyonel Tavsiye Yok',
+  'no-advice-text' => 'Sitede sunulan bilgiler yalnızca genel bilgi amaçlıdır. Sitenin ve araçlarının kullanımı, kullanıcılar ile PDFTools.net arasında profesyonel bir ilişki oluşturmaz. Kullanıcılar hukuki, ticari veya diğer kararlarını yalnızca Sitede bulunan içeriğe dayandırmamalıdır. Belirli sorular veya endişeleriniz için her zaman kalifiye bir profesyonelden tavsiye alın.',
+  'user-responsibility-title' => 'Kullanıcı Sorumluluğu',
+  'user-responsibility-text' => 'Kullanıcılar, Site aracılığıyla yükledikleri veya işledikleri tüm dosyaların yürürlükteki yasalara uygun olmasını sağlamaktan sorumludur. PDFTools.net, kullanıcılar tarafından yüklenen dosyaların yasallığını veya güvenliğini kontrol etmez. Site sorumlu bir şekilde ve kişisel ve profesyonel muhakeme sınırları dahilinde kullanılmalıdır.',
+  'agreement-notice-text' => 'Kullanarak',
+  'agreement-notice-text2' => 'kullanıcılar bu sorumluluk reddini kabul ederler. Kullanıcılar şartları kabul eder ve PDFTools.net\'in hiçbir garanti vermediğini anlar. Kullanıcılar, Siteyi kullanma riskinin kendilerine ait olduğunu ve sonuçlardan yalnızca kendilerinin sorumlu olduğunu kabul ederler. Sitede yer alan tüm içerik ve araçların dikkatli ve olası hata veya sınırlamalar dikkate alınarak kullanılması gerekmektedir.',
+  'titles' => 'PDFTools.net Yasal Uyarı – Güvenli Araç Kullanımı için Önemli Bilgiler',
+  'descriptions' => 'Araçlarımızın nasıl çalıştığını, kullanım sınırlamalarını ve kullanıcı sorumluluklarını anlamak için PDFTools.net\'in resmi sorumluluk reddi beyanını okuyun. Bilgi sahibi olun ve hizmetlerimizi güvenle ve sorumlu bir şekilde kullanın.',
+);

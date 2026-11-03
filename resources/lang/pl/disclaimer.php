@@ -1,0 +1,25 @@
+<?php
+
+return array (
+  'title' => 'Zastrzeżenie - PDFTools.net',
+  'description' => 'Przeczytaj nasze zastrzeżenie, aby zrozumieć warunki i ograniczenia korzystania z usług i narzędzi PDFTools.net.',
+  'hero-title' => 'Zastrzeżenie',
+  'hero-subtitle' => 'Ważne informacje dotyczące korzystania z naszych usług',
+  'intro-text' => 'Informacje i narzędzia dostępne na ',
+  'a' => 'pdftools.net',
+  'intro-text2' => '(„Witryna”) służą wyłącznie celom informacyjnym i praktycznym. Cała zawartość i narzędzia zawarte w Witrynie są oferowane w dobrej wierze. Nie gwarantujemy jednak dokładności, niezawodności, kompletności ani przydatności jakichkolwiek informacji lub narzędzi dostępnych w Witrynie. Użytkownicy powinni mieć świadomość, że Witryna może zawierać błędy lub pominięcia.',
+  'service-as-is-title' => 'Usługa świadczona w stanie, w jakim jest',
+  'service-as-is-text' => 'Wszystkie usługi w Witrynie są świadczone na zasadzie „TAK JAK JEST” i „W MIARĘ DOSTĘPNOŚCI”. Witryna i jej narzędzia mają wszelkie wady, defekty i ograniczenia. Nie udziela się żadnych gwarancji wyraźnych ani dorozumianych. Narzędzia PDF nie składają żadnych obietnic dotyczących wydajności, wyników lub niezawodności narzędzi. Użytkownicy przyjmują pełną odpowiedzialność za korzystanie z Witryny. Serwis nie gwarantuje nieprzerwanego dostępu, wolnego od błędów działania ani tego, że pliki przetwarzane za pomocą narzędzi będą wolne od błędów.',
+  'liability-title' => 'Ograniczenie odpowiedzialności',
+  'liability-text' => 'PDFTools.net i jego podmioty stowarzyszone nie ponoszą odpowiedzialności za jakiekolwiek straty lub szkody, które mogą wystąpić w wyniku korzystania z Witryny. Obejmuje to utratę danych, uszkodzenie plików lub inne problemy spowodowane użyciem narzędzi. Użytkownicy zgadzają się, że poleganie na informacjach lub narzędziach dostępnych w Witrynie odbywa się wyłącznie na ich własne ryzyko. Nie ponosimy odpowiedzialności za jakiekolwiek konsekwencje finansowe, techniczne lub osobiste, które mogą wyniknąć z korzystania z Witryny.',
+  'external-links-title' => 'Linki zewnętrzne',
+  'external-links-text' => 'W Serwisie mogą znajdować się linki do stron internetowych i treści udostępnianych przez osoby trzecie. PDFTools.net nie przegląda ani nie monitoruje witryn stron trzecich. Nie gwarantuje się dokładności, kompletności ani wiarygodności treści witryn, do których prowadzą linki. Użytkownicy powinni zrozumieć, że te linki są oferowane wyłącznie dla wygody. PDFTools.net nie popiera, nie gwarantuje ani nie ponosi odpowiedzialności za jakiekolwiek informacje znajdujące się na zewnętrznych stronach internetowych.',
+  'no-advice-title' => 'Żadnych profesjonalnych porad',
+  'no-advice-text' => 'Informacje zawarte w Serwisie mają wyłącznie charakter wiedzy ogólnej. Korzystanie z Witryny i jej narzędzi nie tworzy relacji zawodowej pomiędzy użytkownikami a PDFTools.net. Użytkownicy nie powinni opierać decyzji prawnych, biznesowych lub innych wyłącznie na treściach dostępnych w Serwisie. W przypadku konkretnych pytań lub wątpliwości należy zawsze zasięgnąć porady wykwalifikowanego specjalisty.',
+  'user-responsibility-title' => 'Odpowiedzialność użytkownika',
+  'user-responsibility-text' => 'Użytkownicy są odpowiedzialni za zapewnienie, że wszelkie pliki, które przesyłają lub przetwarzają za pośrednictwem Witryny, są zgodne z obowiązującymi przepisami. PDFTools.net nie sprawdza legalności i bezpieczeństwa plików przesyłanych przez użytkowników. Z Witryny należy korzystać w sposób odpowiedzialny i w granicach własnego osądu osobistego i zawodowego.',
+  'agreement-notice-text' => 'Używając',
+  'agreement-notice-text2' => 'użytkownicy wyrażają zgodę na to zastrzeżenie. Użytkownicy akceptują warunki i rozumieją, że PDFTools.net nie udziela żadnych gwarancji. Użytkownicy potwierdzają, że korzystają z Witryny na własne ryzyko i ponoszą wyłączną odpowiedzialność za wyniki. Ze wszystkich treści i narzędzi dostępnych w Witrynie należy korzystać ostrożnie, biorąc pod uwagę możliwe błędy i ograniczenia.',
+  'titles' => 'Zastrzeżenie PDFTools.net – ważne informacje dotyczące bezpiecznego użytkowania narzędzi',
+  'descriptions' => 'Przeczytaj oficjalne zastrzeżenie dotyczące PDFTools.net, aby zrozumieć, jak działają nasze narzędzia, ograniczenia użytkowania i obowiązki użytkowników. Bądź na bieżąco i korzystaj z naszych usług pewnie i odpowiedzialnie.',
+);

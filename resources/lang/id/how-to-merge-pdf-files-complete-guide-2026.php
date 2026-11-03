@@ -1,0 +1,78 @@
+<?php
+
+return array (
+  'title' => 'Cara Menggabungkan File PDF: Panduan Gratis Lengkap untuk 2026',
+  'description' => 'Pelajari cara menggabungkan file PDF secara gratis di tahun 2026. Satukan beberapa dokumen menjadi satu file sambil menjaga halaman tetap tersusun rapi dan mudah dibagikan. Gabungkan PDF Anda sekarang!',
+  'main-heading' => 'Cara Menggabungkan File PDF: Panduan Gratis Lengkap untuk 2026',
+
+  'intro-heading' => 'Ketika Anda Punya Terlalu Banyak File dan Butuh Satu Dokumen',
+  'intro-p1' => 'Siapa pun yang pernah menyusun proposal proyek, pengajuan hibah, laporan klien, atau bahkan sekadar kumpulan instruksi sederhana pasti tahu masalah ini. Kontennya tersebar di empat atau lima file PDF yang terpisah. Anda membutuhkannya dalam satu dokumen yang rapi, yang bisa dibuka, digulir, dan dicetak oleh penerima tanpa harus berpindah-pindah antar file.',
+  'intro-p2' => 'Menggabungkan PDF adalah salah satu tugas dokumen paling umum dalam kehidupan profesional maupun akademis, dan sekaligus salah satu yang paling mudah dilakukan secara gratis. Panduan ini membahas semua metode andal yang tersedia di tahun 2026, mulai dari alat berbasis browser yang tidak memerlukan perangkat lunak hingga pendekatan desktop yang menjaga file Anda tetap sepenuhnya lokal. Pada akhirnya, Anda akan tahu metode mana yang paling cocok untuk situasi Anda dan mampu menggabungkan sekumpulan PDF apa pun dalam waktu kurang dari dua menit.',
+
+  'what-heading' => 'Apa yang Sebenarnya Terjadi Saat Menggabungkan PDF',
+  'what-p1' => 'Saat Anda menggabungkan file PDF, Anda sedang menyatukan halaman-halaman dari beberapa dokumen PDF terpisah menjadi satu file PDF. Urutan halaman pada hasil akhir sesuai dengan urutan yang Anda tentukan saat menggabungkan. Konten setiap halaman dipertahankan secara persis, termasuk gambar, font, format, dan elemen interaktif seperti hyperlink.',
+  'what-p2' => 'Proses penggabungan tidak me-render ulang atau memproses ulang konten apa pun. Prosesnya lebih mirip menjilid beberapa buklet terpisah menjadi satu volume daripada menyalin dan menempel. Ini berarti kualitas hasilnya sama persis dengan kualitas file sumber, dan prosesnya tidak menghilangkan kualitas sedikit pun.',
+
+  'method1-heading' => 'Metode 1: Alat Penggabung PDFTools (Gratis, Tanpa Perangkat Lunak)',
+  'method1-intro' => 'Metode tercepat bagi kebanyakan orang adalah __MERGE_LINK__ gratis di PDFTools. Alat ini menangani seluruh proses di dalam browser tanpa instalasi, akun, atau batasan ukuran file apa pun.',
+  'method1-step1' => 'Buka browser Anda dan kunjungi alat gabung PDF PDFTools.',
+  'method1-step2' => 'Klik area unggah atau seret file PDF Anda langsung ke halaman tersebut. Anda dapat mengunggah beberapa file sekaligus.',
+  'method1-step3' => 'Seret thumbnail file untuk menyusunnya sesuai urutan yang Anda inginkan pada dokumen akhir.',
+  'method1-step4' => 'Klik tombol Merge dan tunggu proses selesai. Sebagian besar kumpulan file selesai digabung dalam waktu kurang dari 30 detik.',
+  'method1-step5' => 'Unduh PDF hasil gabungan Anda. Semua file asli di perangkat Anda tetap tidak berubah.',
+  'method1-note' => 'File akan otomatis dihapus dari server setelah satu jam dan tidak diperlukan pendaftaran. Anda juga dapat mengimpor file langsung dari Google Drive atau Dropbox, yang berguna jika dokumen Anda sudah tersimpan di cloud. Untuk informasi lebih lanjut tentang mengelola dokumen gabungan berukuran besar, lihat panduan tentang __COMPRESS_GUIDE_LINK__.',
+
+  'method2-heading' => 'Metode 2: Adobe Acrobat Reader Pro',
+  'method2-intro' => 'Jika Anda memiliki Adobe Acrobat Pro terpasang, alat Combine Files memberi Anda kendali paling besar atas proses penggabungan, termasuk kemampuan menyusun ulang halaman, mengekstrak halaman tertentu dari setiap file sumber, dan meninjau hasil gabungan sebelum difinalisasi.',
+  'method2-step1' => 'Buka Adobe Acrobat Pro.',
+  'method2-step2' => 'Buka Tools dan pilih Combine Files.',
+  'method2-step3' => 'Klik Add Files dan pilih setiap PDF yang ingin Anda gabungkan.',
+  'method2-step4' => 'Seret panel file untuk mengatur urutannya. Anda juga dapat memperluas setiap file untuk memilih halaman tertentu, alih-alih menyertakan seluruh dokumen.',
+  'method2-step5' => 'Klik Combine. Acrobat akan memproses file tersebut dan membuka hasil gabungannya.',
+  'method2-step6' => 'Simpan file hasil gabungan melalui File lalu Save As.',
+  'method2-note' => 'Metode ini sangat berguna ketika Anda perlu menggabungkan halaman tertentu saja alih-alih seluruh dokumen, atau saat bekerja dengan file yang dilindungi kata sandi yang memerlukan autentikasi sebelum digabungkan.',
+
+  'method3-heading' => 'Metode 3: Preview di Mac (Bawaan, Tanpa Perlu Unggah)',
+  'method3-intro' => 'Pengguna Mac memiliki opsi penggabungan gratis yang canggih dan sudah terpasang langsung dalam sistem operasi melalui aplikasi Preview. Tidak ada yang perlu diinstal dan tidak ada file yang diunggah ke mana pun.',
+  'method3-step1' => 'Buka PDF pertama di Preview.',
+  'method3-step2' => 'Buka View dan pilih Thumbnails untuk menampilkan panel halaman di sebelah kiri.',
+  'method3-step3' => 'Buka PDF kedua di jendela Preview yang terpisah.',
+  'method3-step4' => 'Dari jendela Preview kedua, pilih semua thumbnail halaman yang ingin Anda tambahkan. Anda dapat memilih semua dengan Command+A atau mengklik thumbnail satu per satu sambil menahan Command.',
+  'method3-step5' => 'Seret thumbnail yang dipilih dari jendela kedua ke panel thumbnail di jendela pertama. Lepaskan pada posisi tempat Anda ingin halaman tersebut muncul.',
+  'method3-step6' => 'Ulangi untuk file tambahan lainnya.',
+  'method3-step7' => 'Simpan dokumen gabungan melalui File lalu Save.',
+  'method3-tip' => 'Tips: di Preview Anda juga dapat menyusun ulang halaman setelah digabung dengan menyeret thumbnail di dalam panel, serta menghapus halaman yang tidak diinginkan dengan memilihnya lalu menekan Delete.',
+
+  'method4-heading' => 'Metode 4: Google Drive (Gratis untuk Siapa Saja yang Memiliki Akun Google)',
+  'method4-intro' => 'Google Drive tidak menggabungkan PDF secara langsung, tetapi mengombinasikannya dengan Google Docs memberikan cara alternatif gratis yang bekerja dengan baik untuk PDF berbasis teks.',
+  'method4-step1' => 'Unggah semua PDF Anda ke Google Drive.',
+  'method4-step2' => 'Klik kanan pada setiap PDF dan buka dengan Google Docs. Ini akan mengonversi setiap PDF menjadi Google Doc.',
+  'method4-step3' => 'Salin konten dari setiap Google Doc tambahan dan tempelkan ke dokumen pertama.',
+  'method4-step4' => 'Unduh Google Doc gabungan tersebut sebagai PDF melalui File lalu Download lalu PDF Document.',
+  'method4-note' => 'Metode ini paling cocok untuk dokumen yang didominasi teks. PDF dengan tata letak kompleks, gambar, atau font khusus mungkin tidak mempertahankan format sempurna saat dikonversi melalui Google Docs.',
+
+  'order-heading' => 'Menentukan Urutan Halaman yang Tepat Sebelum Menggabungkan',
+  'order-p1' => 'Kesalahan paling umum saat menggabungkan PDF adalah tidak memikirkan urutan halaman sebelum memulai. Beberapa menit perencanaan dapat mencegah rasa frustrasi karena menemukan urutan halaman yang salah setelah proses penggabungan selesai.',
+  'order-p2' => 'Untuk dokumen multi-bagian, susun file sesuai urutan yang akan ditemui pembaca: halaman sampul, daftar isi, bagian utama secara berurutan logis, lampiran, referensi. Beri nama file Anda dengan angka di awal jika alat yang digunakan tidak mendukung pengurutan visual, agar file tersebut terurut dengan benar berdasarkan nama file.',
+  'order-p3' => 'Jika ternyata halaman berada dalam urutan yang salah setelah digabung, Anda dapat memisahkan PDF hasil gabungan tersebut menjadi beberapa bagian, menyusunnya ulang, dan menggabungkannya kembali menggunakan __SPLIT_LINK__ bersama __MERGE_LINK__.',
+
+  'size-heading' => 'Mengelola Ukuran File pada PDF Gabungan',
+  'size-p1' => 'Menggabungkan PDF tidak menambah ukuran file melebihi total ukuran gabungan dari file sumbernya. Namun, dokumen gabungan yang menyatukan empat file besar bisa dengan mudah mencapai 40 atau 50 MB, yang melebihi sebagian besar batas lampiran email. Memproses file hasil gabungan melalui __COMPRESS_LINK__ di PDFTools setelah digabung biasanya mengurangi ukurannya sebesar 50 hingga 70 persen tanpa perubahan kualitas yang terlihat di layar.',
+  'size-p2' => 'Untuk penjelasan lengkap tentang pengaturan kompresi dan hasil yang bisa diharapkan, lihat panduan tentang __COMPRESS_QUALITY_GUIDE_LINK__.',
+
+  'conclusion-heading' => 'Kesimpulan',
+  'conclusion-p1' => 'Menggabungkan PDF adalah salah satu tugas dokumen paling sederhana begitu Anda tahu alat yang tepat untuk situasi Anda. Bagi kebanyakan orang, alat berbasis browser gratis di PDFTools menyelesaikan pekerjaan ini dalam waktu kurang dari dua menit tanpa memerlukan perangkat lunak. Pengguna Mac memiliki kenyamanan tambahan berupa antarmuka seret-dan-lepas Preview yang menjaga semuanya tetap lokal. Adobe Acrobat Pro adalah pilihan yang tepat ketika Anda memerlukan kendali yang lebih rinci atas halaman mana dari setiap file sumber yang akan muncul di hasil akhir.',
+  'conclusion-p2' => 'Setelah digabung, jika file gabungan terlalu besar untuk dikirim via email, __COMPRESS_LINK__ di PDFTools dapat mengecilkannya dengan cepat. Untuk mengonversi dokumen gabungan menjadi format yang dapat diedit, __WORD_LINK__ tersedia gratis di PDFTools.',
+
+  'faq-heading' => 'Pertanyaan yang Sering Diajukan',
+  'faq1-q' => 'Bisakah saya menggabungkan PDF yang dilindungi kata sandi?',
+  'faq1-a' => 'Bisa, tetapi Anda memerlukan kata sandi yang benar untuk setiap file yang dilindungi. Sebagian besar alat penggabung akan meminta Anda memasukkan kata sandi saat mengunggah PDF yang terproteksi. Setelah terbuka, proses penggabungan berjalan seperti biasa. PDF hasil akhir tidak akan otomatis mewarisi perlindungan kata sandi dari file sumber kecuali Anda menambahkannya secara terpisah.',
+  'faq2-q' => 'Apakah menggabungkan PDF mengurangi kualitasnya?',
+  'faq2-a' => 'Tidak. Penggabungan adalah operasi struktural yang menyatukan halaman tanpa me-render ulang konten apa pun. Gambar, font, dan format pada setiap halaman tetap identik antara hasil akhir dan file sumbernya. Tidak ada kompresi atau penurunan kualitas yang terjadi selama proses penggabungan itu sendiri.',
+  'faq3-q' => 'Apakah ada batasan jumlah PDF yang bisa digabungkan sekaligus?',
+  'faq3-a' => 'Untuk alat online di PDFTools, tidak ada batasan yang ditetapkan pada jumlah file atau total ukuran file. Untuk alat desktop seperti Preview atau Acrobat, satu-satunya batasan adalah memori yang tersedia di komputer Anda.',
+  'faq4-q' => 'Bisakah saya menggabungkan hanya halaman tertentu dari setiap PDF, bukan seluruh file?',
+  'faq4-a' => 'Bisa. Adobe Acrobat Pro memungkinkan Anda memilih halaman tertentu dari setiap file sumber selama proses Combine Files. Preview di Mac memungkinkan Anda menyeret thumbnail halaman individual, bukan seluruh file. Untuk alat online, gabungkan seluruh file terlebih dahulu, lalu gunakan alat pemisah untuk menghapus halaman yang tidak Anda butuhkan.',
+  'faq5-q' => 'Mengapa PDF hasil gabungan saya terlihat berbeda dari aslinya?',
+  'faq5-a' => 'Hal ini jarang terjadi pada alat berkualitas tinggi. Jika terjadi, biasanya disebabkan oleh substitusi font ketika font yang ditanamkan pada satu PDF sumber bertentangan dengan data font pada PDF lainnya. Di Adobe Acrobat Pro, PDF Optimizer dapat membantu menyelaraskan data font di seluruh hasil gabungan.',
+);

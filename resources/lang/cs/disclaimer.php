@@ -1,0 +1,25 @@
+<?php
+
+return array (
+  'title' => 'Prohlášení - PDFTools.net',
+  'description' => 'Přečtěte si naše prohlášení o vyloučení odpovědnosti, abyste porozuměli podmínkám a omezením používání služeb a nástrojů PDFTools.net.',
+  'hero-title' => 'Zřeknutí se odpovědnosti',
+  'hero-subtitle' => 'Důležité informace o používání našich služeb',
+  'intro-text' => 'Informace a nástroje uvedené na ',
+  'a' => 'pdftools.net',
+  'intro-text2' => '(dále jen „stránky“) jsou určeny pouze pro obecné informace a praktické použití. Veškerý obsah a nástroje na Stránkách jsou nabízeny v dobré víře. Nezaručujeme však přesnost, spolehlivost, úplnost nebo vhodnost jakýchkoli informací nebo nástrojů dostupných na Stránkách. Uživatelé by měli pochopit, že Stránka může obsahovat chyby nebo opomenutí.',
+  'service-as-is-title' => 'Služba poskytována tak, jak je',
+  'service-as-is-text' => 'Všechny služby na Stránkách jsou poskytovány „TAK, JAK JSOU“ a „JAK JSOU K DISPOZICI“. Stránky a jejich nástroje přicházejí se všemi chybami, defekty nebo omezeními. Nejsou vyjádřeny ani předpokládané žádné záruky. Nástroje PDF nečiní žádné sliby ohledně výkonu, výsledků nebo spolehlivosti nástrojů. Uživatelé přijímají plnou odpovědnost za používání stránek. Stránka nezaručuje nepřetržitý přístup, bezchybný provoz ani to, že soubory zpracované pomocí nástrojů budou bez chyb.',
+  'liability-title' => 'Omezení odpovědnosti',
+  'liability-text' => 'PDFTools.net a jeho přidružené společnosti nenesou odpovědnost za žádné ztráty nebo škody, které mohou nastat při používání stránek. To zahrnuje ztrátu dat, poškození souborů nebo jiné problémy způsobené používáním nástrojů. Uživatelé souhlasí s tím, že jakékoli spoléhání se na informace nebo nástroje Stránky je zcela na jejich vlastní riziko. Neneseme odpovědnost za žádné finanční, technické nebo osobní důsledky, které mohou vyplynout z používání stránek.',
+  'external-links-title' => 'Externí odkazy',
+  'external-links-text' => 'Stránky mohou obsahovat odkazy na webové stránky a obsah poskytovaný třetími stranami. PDFTools.net tyto webové stránky třetích stran nekontroluje ani nemonitoruje. Přesnost, úplnost nebo spolehlivost obsahu na odkazovaných stránkách není zaručena. Uživatelé by měli pochopit, že tyto odkazy jsou nabízeny pouze pro pohodlí. PDFTools.net neschvaluje, nezaručuje ani nepřebírá odpovědnost za jakékoli informace na externích webových stránkách.',
+  'no-advice-title' => 'Žádné odborné poradenství',
+  'no-advice-text' => 'Informace uvedené na Stránkách jsou určeny pouze pro všeobecnou znalost. Používání stránek a jejich nástrojů nevytváří profesionální vztah mezi uživateli a PDFTools.net. Uživatelé by neměli zakládat právní, obchodní nebo jiná rozhodnutí pouze na obsahu dostupném na Stránce. V případě konkrétních otázek nebo problémů vždy požádejte o radu kvalifikovaného odborníka.',
+  'user-responsibility-title' => 'Odpovědnost uživatele',
+  'user-responsibility-text' => 'Uživatelé jsou zodpovědní za to, že všechny soubory, které nahrávají nebo zpracovávají prostřednictvím webu, jsou v souladu s platnými zákony. PDFTools.net nekontroluje legálnost ani bezpečnost souborů nahraných uživateli. Stránky by měly být používány zodpovědně a v mezích osobního a profesionálního úsudku.',
+  'agreement-notice-text' => 'Použitím',
+  'agreement-notice-text2' => 'uživatelé souhlasí s tímto vyloučením odpovědnosti. Uživatelé souhlasí s podmínkami a rozumí, že PDFTools.net neposkytuje žádné záruky. Uživatelé berou na vědomí, že stránky používají na vlastní riziko a jsou výhradně odpovědní za výsledky. Veškerý obsah a nástroje na Stránkách by měly být používány opatrně as ohledem na možné chyby nebo omezení.',
+  'titles' => 'Prohlášení o PDFTools.net – důležité informace pro bezpečné používání nástroje',
+  'descriptions' => 'Přečtěte si oficiální prohlášení o vyloučení odpovědnosti pro PDFTools.net, abyste porozuměli tomu, jak naše nástroje fungují, omezení použití a odpovědnosti uživatele. Zůstaňte informováni a používejte naše služby sebevědomě a zodpovědně.',
+);

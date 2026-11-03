@@ -1,0 +1,78 @@
+<?php
+
+return array (
+  'title' => 'Sådan flettes PDF-filer sammen: Den komplette gratis guide til 2026',
+  'description' => 'Lær hvordan du fletter PDF-filer gratis i 2026. Kombiner flere dokumenter til én fil, mens siderne holdes organiserede og nemme at dele. Flet dine PDF-filer i dag!',
+  'main-heading' => 'Sådan flettes PDF-filer sammen: Den komplette gratis guide til 2026',
+
+  'intro-heading' => 'Når du har for mange filer og har brug for ét dokument',
+  'intro-p1' => 'Alle, der har samlet et projektforslag, en fondsansøgning, en kunderapport eller bare et simpelt sæt instruktioner, kender problemet. Indholdet ligger i fire eller fem separate PDF-filer. Du har brug for det i ét rent dokument, som modtageren kan åbne, scrolle igennem og udskrive uden at skulle skifte mellem filer.',
+  'intro-p2' => 'At flette PDF-filer er en af de mest almindelige dokumentopgaver i både arbejdslivet og studielivet, og det er også en af de nemmeste at gøre gratis. Denne guide dækker alle pålidelige metoder tilgængelige i 2026, fra browserbaserede værktøjer, der ikke kræver software, til desktopløsninger, der holder dine filer helt lokale. Når du er færdig, ved du, hvilken metode der passer til din situation, og kan flette et hvilket som helst sæt PDF-filer på under to minutter.',
+
+  'what-heading' => 'Hvad sker der egentlig, når man fletter en PDF',
+  'what-p1' => 'Når du fletter PDF-filer, kombinerer du siderne fra flere separate PDF-dokumenter til én samlet PDF-fil. Siderækkefølgen i den endelige fil følger den rækkefølge, du angiver, når du fletter dem sammen. Indholdet på hver side bevares nøjagtigt, herunder billeder, skrifttyper, formatering og interaktive elementer som hyperlinks.',
+  'what-p2' => 'Fletning gengiver eller behandler ikke indholdet på ny. Det minder mere om at indbinde separate hæfter til ét bind end om at kopiere og indsætte tekst. Det betyder, at kvaliteten af resultatet svarer nøjagtigt til kvaliteten af de originale filer, og processen er tabsfri.',
+
+  'method1-heading' => "Metode 1: PDFTools' fletteværktøj (gratis, ingen software)",
+  'method1-intro' => 'Den hurtigste metode for de fleste er det gratis __MERGE_LINK__ hos PDFTools. Det klarer hele processen i browseren uden installation, oprettelse af konto eller nogen grænse for filstørrelse.',
+  'method1-step1' => "Åbn din browser, og gå til PDFTools' værktøj til at flette PDF-filer.",
+  'method1-step2' => 'Klik på uploadområdet, eller træk dine PDF-filer direkte ind på siden. Du kan uploade flere filer på én gang.',
+  'method1-step3' => 'Træk sidernes miniaturebilleder for at arrangere dem i den rækkefølge, du ønsker i det endelige dokument.',
+  'method1-step4' => 'Klik på knappen Flet, og vent på behandlingen. De fleste sæt filer flettes sammen på under 30 sekunder.',
+  'method1-step5' => 'Download din flettede PDF. Alle originale filer på din enhed forbliver uændrede.',
+  'method1-note' => 'Filer slettes automatisk fra serveren efter en time, og der kræves ingen registrering. Du kan også importere filer direkte fra Google Drive eller Dropbox, hvilket er praktisk, hvis dine dokumenter allerede ligger i skyen. Læs mere om håndtering af store flettede dokumenter i guiden om __COMPRESS_GUIDE_LINK__.',
+
+  'method2-heading' => 'Metode 2: Adobe Acrobat Reader Pro',
+  'method2-intro' => 'Hvis du har Adobe Acrobat Pro installeret, giver værktøjet Combine Files dig den største kontrol over fletningen, herunder muligheden for at omarrangere sider, udtrække specifikke sider fra hver kildefil og forhåndsvise fletningen, før du afslutter.',
+  'method2-step1' => 'Åbn Adobe Acrobat Pro.',
+  'method2-step2' => 'Gå til Tools, og vælg Combine Files.',
+  'method2-step3' => 'Klik på Add Files, og vælg hver PDF-fil, du vil flette.',
+  'method2-step4' => 'Træk filpanelerne for at fastlægge rækkefølgen. Du kan også udvide hver fil for at vælge specifikke sider fra den i stedet for at inkludere hele dokumentet.',
+  'method2-step5' => 'Klik på Combine. Acrobat behandler filerne og åbner det flettede resultat.',
+  'method2-step6' => 'Gem den flettede fil via File og derefter Save As.',
+  'method2-note' => 'Denne metode er særligt nyttig, når du kun har brug for at flette udvalgte sider frem for hele dokumenter, eller når du arbejder med adgangskodebeskyttede filer, der kræver godkendelse, før de kan flettes.',
+
+  'method3-heading' => 'Metode 3: Preview på Mac (indbygget, ingen upload nødvendig)',
+  'method3-intro' => 'Mac-brugere har en kraftfuld gratis flettemulighed indbygget direkte i operativsystemet gennem programmet Preview. Der skal ikke installeres noget, og ingen filer uploades noget sted.',
+  'method3-step1' => 'Åbn den første PDF i Preview.',
+  'method3-step2' => 'Gå til View, og vælg Thumbnails for at vise sidepanelet i venstre side.',
+  'method3-step3' => 'Åbn den anden PDF i et separat Preview-vindue.',
+  'method3-step4' => 'Vælg alle de sideminiaturer i det andet Preview-vindue, du vil tilføje. Du kan vælge alle med Command+A eller klikke på enkelte miniaturer, mens du holder Command nede.',
+  'method3-step5' => 'Træk de valgte miniaturer fra det andet vindue over i miniaturepanelet i det første vindue. Slip dem på den position, hvor du vil have dem til at stå.',
+  'method3-step6' => 'Gentag for eventuelle yderligere filer.',
+  'method3-step7' => 'Gem det samlede dokument via File og derefter Save.',
+  'method3-tip' => 'Godt tip: I Preview kan du også omarrangere sider efter fletning ved at trække miniaturer rundt i panelet, og du kan slette uønskede sider ved at markere dem og trykke på Delete.',
+
+  'method4-heading' => 'Metode 4: Google Drive (gratis for alle med en Google-konto)',
+  'method4-intro' => 'Google Drive fletter ikke PDF-filer direkte, men ved at kombinere det med Google Docs får du en gratis løsning, der fungerer godt til tekstbaserede PDF-filer.',
+  'method4-step1' => 'Upload alle dine PDF-filer til Google Drive.',
+  'method4-step2' => 'Højreklik på hver PDF-fil, og åbn den med Google Docs. Dette konverterer hver PDF til et Google Doc.',
+  'method4-step3' => 'Kopiér indholdet fra hvert ekstra Google Doc, og indsæt det i det første.',
+  'method4-step4' => 'Download det samlede Google Doc som en PDF via File, derefter Download og så PDF Document.',
+  'method4-note' => 'Denne metode fungerer bedst til tekstbaserede dokumenter. PDF-filer med komplekse layouts, billeder eller specielle skrifttyper bevarer muligvis ikke formateringen perfekt gennem konverteringen i Google Docs.',
+
+  'order-heading' => 'Sådan vælger du den rigtige siderækkefølge, før du fletter',
+  'order-p1' => 'Den mest almindelige fejl, når man fletter PDF-filer, er ikke at gennemtænke siderækkefølgen, før man går i gang. Nogle få minutters planlægning forebygger frustrationen ved at opdage den forkerte siderækkefølge, efter fletningen er gennemført.',
+  'order-p2' => 'Til et dokument med flere afsnit skal du placere filerne i den rækkefølge, en læser ville støde på dem: forside, indholdsfortegnelse, hovedafsnit i logisk rækkefølge, bilag og referencer. Navngiv dine filer med tal i starten, hvis værktøjet ikke understøtter visuel omarrangering, så de sorteres korrekt efter filnavn.',
+  'order-p3' => 'Hvis du ender med sider i forkert rækkefølge efter fletningen, kan du splitte den flettede PDF op i afsnit, omarrangere dem og flette igen ved hjælp af __SPLIT_LINK__ sammen med __MERGE_LINK__.',
+
+  'size-heading' => 'Håndtering af filstørrelse i flettede PDF-filer',
+  'size-p1' => 'Fletning af PDF-filer øger ikke filstørrelsen ud over den samlede størrelse af de originale filer. Men et flettet dokument, der kombinerer fire store filer, kan sagtens nå op på 40 eller 50 MB, hvilket overstiger de fleste grænser for vedhæftede filer i e-mails. At køre den flettede fil gennem __COMPRESS_LINK__ hos PDFTools efter fletning reducerer typisk størrelsen med 50 til 70 procent uden nogen synlig kvalitetsforskel på skærmen.',
+  'size-p2' => 'For en fuldstændig gennemgang af komprimeringsindstillinger og hvilke resultater du kan forvente, se guiden om __COMPRESS_QUALITY_GUIDE_LINK__.',
+
+  'conclusion-heading' => 'Konklusion',
+  'conclusion-p1' => 'At flette PDF-filer er en af de mest ligetil dokumentopgaver, når du først kender det rigtige værktøj til din situation. For de fleste klarer det gratis browserbaserede værktøj hos PDFTools opgaven på under to minutter uden brug for software. Mac-brugere har den ekstra fordel af Previews træk-og-slip-grænseflade, der holder alt lokalt. Adobe Acrobat Pro er det rigtige valg, når du har brug for fin kontrol over, hvilke sider fra hver kildefil der skal indgå i resultatet.',
+  'conclusion-p2' => 'Hvis den samlede fil efter fletning er for stor til at sende via e-mail, reducerer __COMPRESS_LINK__ hos PDFTools den hurtigt. Til at konvertere det flettede dokument til et redigerbart format er __WORD_LINK__ tilgængeligt gratis hos PDFTools.',
+
+  'faq-heading' => 'Ofte stillede spørgsmål',
+  'faq1-q' => 'Kan jeg flette adgangskodebeskyttede PDF-filer?',
+  'faq1-a' => 'Ja, men du skal bruge den korrekte adgangskode til hver beskyttet fil. De fleste fletteværktøjer beder dig indtaste adgangskoden, når du uploader en beskyttet PDF. Når den er låst op, fortsætter fletningen normalt. Den resulterende PDF arver ikke adgangskodebeskyttelsen fra kildefilerne, medmindre du selv tilføjer den separat.',
+  'faq2-q' => 'Forringer fletning kvaliteten af PDF-filerne?',
+  'faq2-a' => 'Nej. Fletning er en strukturel handling, der kombinerer sider uden at gengive indholdet på ny. Billeder, skrifttyper og formatering på hver side er identiske i resultatet med, hvordan de var i kildefilen. Der sker ingen komprimering eller kvalitetsforringelse under selve fletteprocessen.',
+  'faq3-q' => 'Er der en grænse for, hvor mange PDF-filer jeg kan flette på én gang?',
+  'faq3-a' => 'For online-værktøjet hos PDFTools er der ingen angivne grænser for antallet af filer eller den samlede filstørrelse. For desktopværktøjer som Preview eller Acrobat er den eneste grænse din computers tilgængelige hukommelse.',
+  'faq4-q' => 'Kan jeg flette kun bestemte sider fra hver PDF i stedet for hele filerne?',
+  'faq4-a' => 'Ja. Adobe Acrobat Pro lader dig vælge specifikke sider fra hver kildefil under Combine Files-processen. Preview på Mac lader dig trække enkelte sideminiaturer i stedet for hele filer. Til online-værktøjet kan du flette de fulde filer og derefter bruge splitværktøjet til at fjerne de sider, du ikke har brug for.',
+  'faq5-q' => 'Hvorfor ser min flettede PDF anderledes ud end originalerne?',
+  'faq5-a' => 'Dette sker sjældent med værktøjer af høj kvalitet. Hvis det sker, skyldes det som regel skrifttypeerstatning, når en skrifttype indlejret i en kildefil er i konflikt med skrifttypedata i en anden. I Adobe Acrobat Pro kan PDF Optimizer hjælpe med at normalisere skrifttypedata på tværs af det flettede resultat.',
+);

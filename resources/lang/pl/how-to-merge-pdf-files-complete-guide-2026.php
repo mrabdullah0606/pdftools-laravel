@@ -1,0 +1,78 @@
+<?php
+
+return array (
+  'title' => 'Jak scalać pliki PDF: kompletny darmowy poradnik na 2026 rok',
+  'description' => 'Dowiedz się, jak za darmo scalać pliki PDF w 2026 roku. Połącz wiele dokumentów w jeden plik, zachowując uporządkowane strony i łatwość udostępniania. Scal swoje pliki PDF już dziś!',
+  'main-heading' => 'Jak scalać pliki PDF: kompletny darmowy poradnik na 2026 rok',
+
+  'intro-heading' => 'Gdy masz za dużo plików i potrzebujesz jednego dokumentu',
+  'intro-p1' => 'Każdy, kto kiedykolwiek składał ofertę projektową, wniosek o dotację, raport dla klienta czy nawet prostą instrukcję, zna ten problem. Treść znajduje się w czterech lub pięciu oddzielnych plikach PDF. Potrzebujesz jednego przejrzystego dokumentu, który odbiorca będzie mógł otworzyć, przewinąć i wydrukować bez przełączania się między plikami.',
+  'intro-p2' => 'Scalanie plików PDF to jedno z najczęstszych zadań związanych z dokumentami w życiu zawodowym i akademickim, a jednocześnie jedno z najłatwiejszych do wykonania za darmo. Ten poradnik obejmuje każdą sprawdzoną metodę dostępną w 2026 roku – od narzędzi przeglądarkowych niewymagających instalacji, po rozwiązania desktopowe, które pozwalają zachować pliki w pełni lokalnie. Po jego przeczytaniu będziesz wiedzieć, która metoda pasuje do Twojej sytuacji, i będziesz w stanie scalić dowolny zestaw plików PDF w niecałe dwie minuty.',
+
+  'what-heading' => 'Co tak naprawdę robi scalanie pliku PDF',
+  'what-p1' => 'Scalając pliki PDF, łączysz strony wielu oddzielnych dokumentów PDF w jeden plik. Kolejność stron w wyniku odpowiada kolejności, którą określisz podczas łączenia. Treść każdej strony zostaje zachowana dokładnie – łącznie z obrazami, czcionkami, formatowaniem oraz elementami interaktywnymi, takimi jak hiperłącza.',
+  'what-p2' => 'Scalanie nie renderuje ani nie przetwarza ponownie żadnej treści. Jest to bliższe oprawianiu osobnych broszur w jeden tom niż kopiowaniu i wklejaniu. Oznacza to, że jakość wyniku odpowiada jakości plików źródłowych, a cały proces jest bezstratny.',
+
+  'method1-heading' => 'Metoda 1: narzędzie do scalania PDFTools (darmowe, bez instalacji)',
+  'method1-intro' => 'Najszybszą metodą dla większości osób jest darmowe __MERGE_LINK__ w PDFTools. Cały proces odbywa się w przeglądarce, bez instalacji, zakładania konta czy limitu rozmiaru pliku.',
+  'method1-step1' => 'Otwórz przeglądarkę i przejdź do narzędzia PDFTools do scalania plików PDF.',
+  'method1-step2' => 'Kliknij obszar wgrywania lub przeciągnij pliki PDF bezpośrednio na stronę. Możesz przesłać wiele plików jednocześnie.',
+  'method1-step3' => 'Przeciągnij miniatury plików, aby ułożyć je w kolejności, w jakiej mają się znaleźć w ostatecznym dokumencie.',
+  'method1-step4' => 'Kliknij przycisk Scal i poczekaj na przetworzenie. Większość zestawów plików łączy się w mniej niż 30 sekund.',
+  'method1-step5' => 'Pobierz scalony plik PDF. Wszystkie oryginalne pliki na Twoim urządzeniu pozostają niezmienione.',
+  'method1-note' => 'Pliki są automatycznie usuwane z serwera po godzinie, a rejestracja nie jest wymagana. Możesz też importować pliki bezpośrednio z Google Drive lub Dropbox, co jest przydatne, gdy Twoje dokumenty są już przechowywane w chmurze. Więcej informacji o zarządzaniu dużymi scalonymi dokumentami znajdziesz w poradniku dotyczącym __COMPRESS_GUIDE_LINK__.',
+
+  'method2-heading' => 'Metoda 2: Adobe Acrobat Reader Pro',
+  'method2-intro' => 'Jeśli masz zainstalowany Adobe Acrobat Pro, narzędzie Combine Files daje największą kontrolę nad scalaniem, w tym możliwość zmiany kolejności stron, wyodrębniania konkretnych stron z każdego pliku źródłowego oraz podglądu wyniku przed zakończeniem procesu.',
+  'method2-step1' => 'Otwórz program Adobe Acrobat Pro.',
+  'method2-step2' => 'Przejdź do Tools i wybierz Combine Files.',
+  'method2-step3' => 'Kliknij Add Files i wybierz każdy plik PDF, który chcesz scalić.',
+  'method2-step4' => 'Przeciągnij panele plików, aby ustawić kolejność. Możesz też rozwinąć każdy plik, aby wybrać konkretne strony zamiast całego dokumentu.',
+  'method2-step5' => 'Kliknij Combine. Acrobat przetworzy pliki i otworzy scalony wynik.',
+  'method2-step6' => 'Zapisz scalony plik, wybierając File, a następnie Save As.',
+  'method2-note' => 'Ta metoda jest szczególnie przydatna, gdy chcesz scalić wybrane strony zamiast całych dokumentów, lub przy pracy z plikami chronionymi hasłem, które wymagają uwierzytelnienia przed scaleniem.',
+
+  'method3-heading' => 'Metoda 3: Preview na Macu (wbudowana, bez przesyłania plików)',
+  'method3-intro' => 'Użytkownicy Maców mają do dyspozycji potężną, darmową opcję scalania wbudowaną bezpośrednio w system operacyjny, dzięki aplikacji Preview. Nie trzeba niczego instalować, a żadne pliki nie są nigdzie przesyłane.',
+  'method3-step1' => 'Otwórz pierwszy plik PDF w Preview.',
+  'method3-step2' => 'Przejdź do View i wybierz Thumbnails, aby wyświetlić panel stron po lewej stronie.',
+  'method3-step3' => 'Otwórz drugi plik PDF w osobnym oknie Preview.',
+  'method3-step4' => 'W drugim oknie Preview zaznacz wszystkie miniatury stron, które chcesz dodać. Możesz zaznaczyć wszystko skrótem Command+A lub klikać poszczególne miniatury, przytrzymując Command.',
+  'method3-step5' => 'Przeciągnij zaznaczone miniatury z drugiego okna do panelu miniatur w pierwszym oknie. Upuść je w miejscu, w którym mają się pojawić.',
+  'method3-step6' => 'Powtórz tę czynność dla kolejnych plików.',
+  'method3-step7' => 'Zapisz połączony dokument, wybierając File, a następnie Save.',
+  'method3-tip' => 'Wskazówka: w Preview możesz też zmienić kolejność stron po scaleniu, przeciągając miniatury w panelu, oraz usuwać niepotrzebne strony, zaznaczając je i naciskając Delete.',
+
+  'method4-heading' => 'Metoda 4: Google Drive (darmowe dla każdego z kontem Google)',
+  'method4-intro' => 'Google Drive nie scala plików PDF bezpośrednio, ale w połączeniu z Google Docs stanowi darmowe obejście, które dobrze sprawdza się w przypadku dokumentów tekstowych.',
+  'method4-step1' => 'Prześlij wszystkie swoje pliki PDF na Google Drive.',
+  'method4-step2' => 'Kliknij prawym przyciskiem myśli każdy plik PDF i otwórz go w Google Docs. To przekształca każdy plik PDF w dokument Google.',
+  'method4-step3' => 'Skopiuj treść z każdego kolejnego dokumentu Google i wklej ją do pierwszego z nich.',
+  'method4-step4' => 'Pobierz połączony dokument Google jako PDF, wybierając File, następnie Download, a następnie PDF Document.',
+  'method4-note' => 'Ta metoda sprawdza się najlepiej w przypadku dokumentów zawierających głównie tekst. Pliki PDF ze złożonym układem, obrazami lub niestandardowymi czcionkami mogą nie zachować idealnego formatowania po konwersji przez Google Docs.',
+
+  'order-heading' => 'Wybór właściwej kolejności stron przed scaleniem',
+  'order-p1' => 'Najczęstszym błędem przy scalaniu plików PDF jest brak przemyślenia kolejności stron przed rozpoczęciem pracy. Kilka minut planowania oszczędza frustracji związanej z odkryciem błędnej kolejności stron po zakończeniu scalania.',
+  'order-p2' => 'W przypadku dokumentu wieloczęściowego ułóż pliki w kolejności, w jakiej napotka je czytelnik: strona tytułowa, spis treści, główne sekcje w logicznej kolejności, załączniki, materiały źródłowe. Jeśli narzędzie nie obsługuje wizualnej zmiany kolejności, nazwij pliki numerami na początku nazwy, aby sortowały się poprawnie według nazwy pliku.',
+  'order-p3' => 'Jeśli po scaleniu okaże się, że strony są w złej kolejności, możesz podzielić scalony plik PDF na sekcje, zmienić ich kolejność i ponownie je scalić za pomocą __SPLIT_LINK__ w połączeniu z __MERGE_LINK__.',
+
+  'size-heading' => 'Zarządzanie rozmiarem plików w scalonych plikach PDF',
+  'size-p1' => 'Scalanie plików PDF nie zwiększa rozmiaru pliku ponad łączny rozmiar plików wejściowych. Jednak scalony dokument łączący cztery duże pliki może z łatwością osiągnąć 40 lub 50 MB, co przekracza limity większości załączników e-mail. Przepuszczenie scalonego pliku przez __COMPRESS_LINK__ w PDFTools po scaleniu zazwyczaj zmniejsza jego rozmiar o 50 do 70 procent, bez widocznej utraty jakości na ekranie.',
+  'size-p2' => 'Pełny opis ustawień kompresji i tego, jakich rezultatów można się spodziewać, znajdziesz w poradniku dotyczącym __COMPRESS_QUALITY_GUIDE_LINK__.',
+
+  'conclusion-heading' => 'Podsumowanie',
+  'conclusion-p1' => 'Scalanie plików PDF jest jednym z najprostszych zadań związanych z dokumentami, gdy tylko poznasz odpowiednie narzędzie do swojej sytuacji. Dla większości osób darmowe narzędzie przeglądarkowe w PDFTools załatwia sprawę w mniej niż dwie minuty, bez potrzeby instalowania oprogramowania. Użytkownicy Maców mają dodatkową wygodę dzięki interfejsowi przeciągnij i upuść w Preview, który sprawia, że wszystko pozostaje lokalne. Adobe Acrobat Pro to właściwy wybór, gdy potrzebujesz precyzyjnej kontroli nad tym, które strony z każdego pliku źródłowego mają się znaleźć w wyniku.',
+  'conclusion-p2' => 'Jeśli po scaleniu połączony plik jest zbyt duży, by wysłać go e-mailem, __COMPRESS_LINK__ w PDFTools szybko zmniejszy jego rozmiar. Aby przekonwertować scalony dokument na format edytowalny, dostępny jest darmowy __WORD_LINK__ w PDFTools.',
+
+  'faq-heading' => 'Najczęściej zadawane pytania',
+  'faq1-q' => 'Czy mogę scalić pliki PDF chronione hasłem?',
+  'faq1-a' => 'Tak, ale potrzebujesz prawidłowego hasła dla każdego chronionego pliku. Większość narzędzi do scalania poprosi Cię o wpisanie hasła podczas przesyłania chronionego pliku PDF. Po odblokowaniu scalanie przebiega normalnie. Wynikowy plik PDF nie odziedziczy ochrony hasłem z plików źródłowych, chyba że dodasz ją osobno.',
+  'faq2-q' => 'Czy scalanie plików PDF obniża ich jakość?',
+  'faq2-a' => 'Nie. Scalanie to operacja strukturalna, która łączy strony bez ponownego renderowania jakiejkolwiek treści. Obrazy, czcionki i formatowanie na każdej stronie są identyczne w wyniku jak w pliku źródłowym. Podczas samego procesu scalania nie zachodzi żadna kompresja ani obniżenie jakości.',
+  'faq3-q' => 'Czy istnieje limit liczby plików PDF, które można scalić jednocześnie?',
+  'faq3-a' => 'W przypadku narzędzia online PDFTools nie ma określonych limitów liczby plików ani ich łącznego rozmiaru. W przypadku narzędzi desktopowych, takich jak Preview czy Acrobat, jedynym ograniczeniem jest dostępna pamięć komputera.',
+  'faq4-q' => 'Czy mogę scalić tylko wybrane strony z każdego pliku PDF, a nie całe pliki?',
+  'faq4-a' => 'Tak. Adobe Acrobat Pro pozwala wybrać konkretne strony z każdego pliku źródłowego podczas pracy z narzędziem Combine Files. Preview na Macu pozwala przeciągać pojedyncze miniatury stron zamiast całych plików. W przypadku narzędzia online scal pełne pliki, a następnie użyj narzędzia do dzielenia, aby usunąć niepotrzebne strony.',
+  'faq5-q' => 'Dlaczego mój scalony plik PDF wygląda inaczej niż oryginały?',
+  'faq5-a' => 'Rzadko zdarza się to przy użyciu wysokiej jakości narzędzi. Jeśli już się zdarzy, zwykle jest to spowodowane zastąpieniem czcionki, gdy czcionka osadzona w jednym pliku źródłowym koliduje z danymi czcionek w innym. W Adobe Acrobat Pro narzędzie PDF Optimizer może pomóc ujednolicić dane czcionek w scalonym wyniku.',
+);

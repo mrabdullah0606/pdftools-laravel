@@ -1,0 +1,25 @@
+<?php
+
+return array (
+  'title' => 'Ansvarsfriskrivning - PDFTools.net',
+  'description' => 'Läs vår ansvarsfriskrivning för att förstå villkoren och begränsningarna för att använda PDFTools.nets tjänster och verktyg.',
+  'hero-title' => 'Ansvarsfriskrivning',
+  'hero-subtitle' => 'Viktig information om hur du använder våra tjänster',
+  'intro-text' => 'Informationen och verktygen som tillhandahålls på ',
+  'a' => 'pdftools.net',
+  'intro-text2' => '("Webbplatsen") är endast avsedda för allmän information och praktisk användning. Allt innehåll och verktyg på webbplatsen erbjuds i god tro. Vi garanterar dock inte riktigheten, tillförlitligheten, fullständigheten eller lämpligheten för någon information eller verktyg som finns på webbplatsen. Användare bör förstå att webbplatsen kan innehålla fel eller utelämnanden.',
+  'service-as-is-title' => 'Tjänsten tillhandahålls i befintligt skick',
+  'service-as-is-text' => 'Alla tjänster på webbplatsen tillhandahålls på basis av "I BEFINTLIGT SKICK" och "SOM TILLGÄNGLIG". Webbplatsen och dess verktyg kommer med alla fel, defekter eller begränsningar. Inga garantier är uttryckliga eller underförstådda. PDF Tools ger inga löften om verktygens prestanda, resultat eller tillförlitlighet. Användare accepterar fullt ansvar för att använda webbplatsen. Webbplatsen garanterar inte oavbruten åtkomst, felfri drift eller att filer som bearbetas med verktygen kommer att vara fria från fel.',
+  'liability-title' => 'Ansvarsbegränsning',
+  'liability-text' => 'PDFTools.net och dess dotterbolag är inte ansvariga för någon förlust eller skada som kan uppstå vid användning av webbplatsen. Detta inkluderar dataförlust, filkorruption eller andra problem som orsakas av att använda verktygen. Användare samtycker till att all tillit till webbplatsens information eller verktyg är helt på egen risk. Vi är inte ansvariga för några ekonomiska, tekniska eller personliga konsekvenser som kan uppstå av att använda webbplatsen.',
+  'external-links-title' => 'Externa länkar',
+  'external-links-text' => 'Webbplatsen kan innehålla länkar till webbplatser och innehåll som tillhandahålls av tredje part. PDFTools.net granskar eller övervakar inte dessa tredjepartswebbplatser. Noggrannheten, fullständigheten eller tillförlitligheten för innehållet på länkade webbplatser kan inte garanteras. Användare bör förstå att dessa länkar endast erbjuds för bekvämlighets skull. PDFTools.net stöder, garanterar eller tar inte ansvar för någon information på externa webbplatser.',
+  'no-advice-title' => 'Inga professionella råd',
+  'no-advice-text' => 'Informationen på webbplatsen är endast avsedd för allmän kunskap. Användningen av webbplatsen och dess verktyg skapar inte en professionell relation mellan användare och PDFTools.net. Användare bör inte basera juridiska, affärsmässiga eller andra beslut enbart på innehållet som är tillgängligt på webbplatsen. Sök alltid råd från en kvalificerad professionell för specifika frågor eller problem.',
+  'user-responsibility-title' => 'Användaransvar',
+  'user-responsibility-text' => 'Användare är ansvariga för att se till att alla filer de laddar upp eller bearbetar via webbplatsen följer tillämpliga lagar. PDFTools.net kontrollerar inte lagligheten eller säkerheten för filer som laddas upp av användare. Webbplatsen bör användas ansvarsfullt och inom gränserna för personlig och professionell bedömning.',
+  'agreement-notice-text' => 'Genom att använda',
+  'agreement-notice-text2' => 'användare godkänner denna ansvarsfriskrivning. Användare accepterar villkoren och förstår att PDFTools.net inte ger några garantier. Användare erkänner att de använder webbplatsen på egen risk och är ensamt ansvariga för resultaten. Allt innehåll och verktyg på webbplatsen bör användas försiktigt och med hänsyn till eventuella fel eller begränsningar.',
+  'titles' => 'PDFTools.net Friskrivningsklausul – Viktig information för säker verktygsanvändning',
+  'descriptions' => 'Läs den officiella friskrivningsklausulen för PDFTools.net för att förstå hur våra verktyg fungerar, användningsbegränsningar och användaransvar. Håll dig informerad och använd våra tjänster på ett säkert och ansvarsfullt sätt.',
+);

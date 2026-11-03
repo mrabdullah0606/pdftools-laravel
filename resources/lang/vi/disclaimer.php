@@ -1,0 +1,25 @@
+<?php
+
+return array (
+  'title' => 'Tuyên bố miễn trừ trách nhiệm - PDFTools.net',
+  'description' => 'Đọc tuyên bố từ chối trách nhiệm của chúng tôi để hiểu các điều khoản và giới hạn của việc sử dụng các công cụ và dịch vụ PDFTools.net.',
+  'hero-title' => 'Tuyên bố miễn trừ trách nhiệm',
+  'hero-subtitle' => 'Thông tin quan trọng về việc sử dụng dịch vụ của chúng tôi',
+  'intro-text' => 'Thông tin và công cụ được cung cấp trên ',
+  'a' => 'pdftools.net',
+  'intro-text2' => '("Trang web") chỉ nhằm mục đích cung cấp thông tin chung và sử dụng thực tế. Tất cả nội dung và công cụ trên Trang web đều được cung cấp một cách thiện chí. Tuy nhiên, chúng tôi không đảm bảo tính chính xác, độ tin cậy, tính đầy đủ hoặc tính phù hợp của bất kỳ thông tin hoặc công cụ nào có sẵn trên Trang web. Người dùng nên hiểu rằng Trang web có thể có lỗi hoặc thiếu sót.',
+  'service-as-is-title' => 'Dịch vụ được cung cấp nguyên trạng',
+  'service-as-is-text' => 'Tất cả các dịch vụ trên Trang web đều được cung cấp trên cơ sở "NGUYÊN TRẠNG" và "SẴN CÓ". Trang web và các công cụ của nó có tất cả các lỗi, khiếm khuyết hoặc hạn chế. Không có sự bảo đảm nào được thể hiện hoặc ngụ ý. Công cụ PDF không đưa ra bất kỳ lời hứa nào về hiệu suất, kết quả hoặc độ tin cậy của các công cụ. Người dùng chấp nhận hoàn toàn trách nhiệm khi sử dụng Trang web. Trang web không đảm bảo quyền truy cập không bị gián đoạn, hoạt động không có lỗi hoặc các tệp được xử lý bằng công cụ sẽ không có lỗi.',
+  'liability-title' => 'Giới hạn trách nhiệm pháp lý',
+  'liability-text' => 'PDFTools.net và các chi nhánh của nó không chịu trách nhiệm về bất kỳ tổn thất hoặc thiệt hại nào có thể xảy ra khi sử dụng Trang web. Điều này bao gồm mất dữ liệu, hỏng tệp hoặc các sự cố khác do sử dụng công cụ. Người dùng đồng ý rằng mọi sự phụ thuộc vào thông tin hoặc công cụ của Trang web đều hoàn toàn do họ tự chịu rủi ro. Chúng tôi không chịu trách nhiệm về bất kỳ hậu quả tài chính, kỹ thuật hoặc cá nhân nào có thể phát sinh khi sử dụng Trang web.',
+  'external-links-title' => 'Liên kết ngoài',
+  'external-links-text' => 'Trang web có thể bao gồm các liên kết đến các trang web và nội dung do bên thứ ba cung cấp. PDFTools.net không xem xét hoặc giám sát các trang web của bên thứ ba này. Độ chính xác, đầy đủ hoặc độ tin cậy của nội dung trên các trang liên kết không được đảm bảo. Người dùng nên hiểu rằng những liên kết này được cung cấp chỉ nhằm mục đích thuận tiện. PDFTools.net không xác nhận, bảo đảm hoặc chịu trách nhiệm về bất kỳ thông tin nào trên các trang web bên ngoài.',
+  'no-advice-title' => 'Không có lời khuyên chuyên môn',
+  'no-advice-text' => 'Thông tin được cung cấp trên Trang web chỉ nhằm mục đích cung cấp kiến ​​thức chung. Việc sử dụng Trang web và các công cụ của nó không tạo ra mối quan hệ chuyên nghiệp giữa người dùng và PDFTools.net. Người dùng không nên đưa ra các quyết định pháp lý, kinh doanh hoặc các quyết định khác chỉ dựa trên nội dung có sẵn trên Trang web. Luôn tìm kiếm lời khuyên từ một chuyên gia có trình độ cho các câu hỏi hoặc mối quan tâm cụ thể.',
+  'user-responsibility-title' => 'Trách nhiệm của người dùng',
+  'user-responsibility-text' => 'Người dùng có trách nhiệm đảm bảo rằng mọi tệp họ tải lên hoặc xử lý thông qua Trang web đều tuân thủ luật hiện hành. PDFTools.net không kiểm tra tính hợp pháp hoặc an toàn của các tệp do người dùng tải lên. Trang web phải được sử dụng một cách có trách nhiệm và trong giới hạn đánh giá cá nhân và chuyên môn.',
+  'agreement-notice-text' => 'Bằng cách sử dụng',
+  'agreement-notice-text2' => 'người dùng đồng ý với tuyên bố từ chối trách nhiệm này. Người dùng chấp nhận các điều khoản và hiểu rằng PDFTools.net không đảm bảo điều gì. Người dùng thừa nhận rằng họ tự chịu rủi ro khi sử dụng Trang web và hoàn toàn chịu trách nhiệm về kết quả. Tất cả nội dung và công cụ trên Trang web phải được sử dụng cẩn thận và có cân nhắc các lỗi hoặc hạn chế có thể xảy ra.',
+  'titles' => 'Tuyên bố từ chối trách nhiệm của PDFTools.net – Thông tin quan trọng để sử dụng công cụ an toàn',
+  'descriptions' => 'Đọc tuyên bố từ chối trách nhiệm chính thức của PDFTools.net để hiểu cách thức hoạt động của các công cụ của chúng tôi, các giới hạn sử dụng và trách nhiệm của người dùng. Cập nhật thông tin và sử dụng dịch vụ của chúng tôi một cách tự tin và có trách nhiệm.',
+);

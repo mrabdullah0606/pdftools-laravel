@@ -1,0 +1,78 @@
+<?php
+
+return array (
+  'title' => 'Cách Ghép File PDF: Hướng Dẫn Miễn Phí Đầy Đủ Cho Năm 2026',
+  'description' => 'Tìm hiểu cách ghép file PDF miễn phí trong năm 2026. Kết hợp nhiều tài liệu thành một file duy nhất trong khi vẫn giữ các trang được sắp xếp gọn gàng và dễ chia sẻ. Ghép file PDF của bạn ngay hôm nay!',
+  'main-heading' => 'Cách Ghép File PDF: Hướng Dẫn Miễn Phí Đầy Đủ Cho Năm 2026',
+
+  'intro-heading' => 'Khi Bạn Có Quá Nhiều File Và Cần Một Tài Liệu Duy Nhất',
+  'intro-p1' => 'Bất kỳ ai từng tổng hợp một bản đề xuất dự án, một hồ sơ xin tài trợ, một báo cáo cho khách hàng, hay thậm chí chỉ là một bộ hướng dẫn đơn giản, đều hiểu rõ vấn đề này. Nội dung nằm rải rác trong bốn hoặc năm file PDF riêng biệt. Bạn cần gộp chúng thành một tài liệu gọn gàng duy nhất mà người nhận có thể mở, cuộn xem và in ra mà không phải chuyển qua lại giữa các file.',
+  'intro-p2' => 'Ghép file PDF là một trong những tác vụ tài liệu phổ biến nhất trong công việc và học tập, đồng thời cũng là một trong những việc dễ thực hiện miễn phí nhất. Hướng dẫn này bao quát mọi phương pháp đáng tin cậy có sẵn trong năm 2026, từ các công cụ trên trình duyệt không cần cài đặt phần mềm cho đến các cách làm trên máy tính để bàn giữ toàn bộ file của bạn ở chế độ cục bộ. Đọc xong, bạn sẽ biết phương pháp nào phù hợp với tình huống của mình và có thể ghép bất kỳ bộ file PDF nào trong chưa đầy hai phút.',
+
+  'what-heading' => 'Ghép PDF Thực Sự Làm Những Gì',
+  'what-p1' => 'Khi bạn ghép các file PDF, bạn đang kết hợp các trang của nhiều tài liệu PDF riêng biệt thành một file PDF duy nhất. Thứ tự các trang trong file kết quả sẽ khớp với thứ tự bạn chỉ định khi ghép. Nội dung của từng trang được giữ nguyên chính xác, bao gồm hình ảnh, phông chữ, định dạng và các yếu tố tương tác như siêu liên kết.',
+  'what-p2' => 'Việc ghép file không kết xuất hay xử lý lại bất kỳ nội dung nào. Nó giống với việc đóng gộp các tập sách mỏng riêng lẻ thành một cuốn duy nhất hơn là sao chép và dán. Điều này có nghĩa là chất lượng của file kết quả tương đương với chất lượng của các file đầu vào, và quá trình này không gây hao hụt chất lượng.',
+
+  'method1-heading' => 'Cách 1: Công Cụ Ghép PDF Của PDFTools (Miễn Phí, Không Cần Phần Mềm)',
+  'method1-intro' => 'Cách nhanh nhất đối với hầu hết mọi người là sử dụng __MERGE_LINK__ miễn phí tại PDFTools. Công cụ này xử lý toàn bộ quy trình ngay trên trình duyệt mà không cần cài đặt, tạo tài khoản hay giới hạn dung lượng file.',
+  'method1-step1' => 'Mở trình duyệt và truy cập công cụ ghép PDF của PDFTools.',
+  'method1-step2' => 'Nhấp vào khu vực tải lên hoặc kéo thả các file PDF của bạn trực tiếp vào trang. Bạn có thể tải lên nhiều file cùng lúc.',
+  'method1-step3' => 'Kéo các hình thu nhỏ của file để sắp xếp chúng theo thứ tự bạn muốn trong tài liệu cuối cùng.',
+  'method1-step4' => 'Nhấp vào nút Ghép và chờ xử lý. Hầu hết các bộ file được ghép xong trong chưa đầy 30 giây.',
+  'method1-step5' => 'Tải file PDF đã ghép về máy. Tất cả các file gốc trên thiết bị của bạn vẫn giữ nguyên không thay đổi.',
+  'method1-note' => 'Các file sẽ tự động bị xóa khỏi máy chủ sau một giờ và bạn không cần đăng ký tài khoản. Bạn cũng có thể nhập file trực tiếp từ Google Drive hoặc Dropbox, rất hữu ích khi tài liệu của bạn đã được lưu sẵn trên đám mây. Để biết thêm về cách quản lý các tài liệu đã ghép có dung lượng lớn, hãy xem hướng dẫn về __COMPRESS_GUIDE_LINK__.',
+
+  'method2-heading' => 'Cách 2: Adobe Acrobat Reader Pro',
+  'method2-intro' => 'Nếu bạn đã cài đặt Adobe Acrobat Pro, công cụ Combine Files sẽ cho bạn quyền kiểm soát tối đa khi ghép file, bao gồm khả năng sắp xếp lại trang, trích xuất các trang cụ thể từ mỗi file nguồn và xem trước kết quả ghép trước khi hoàn tất.',
+  'method2-step1' => 'Mở Adobe Acrobat Pro.',
+  'method2-step2' => 'Vào Tools và chọn Combine Files.',
+  'method2-step3' => 'Nhấp Add Files và chọn từng file PDF bạn muốn ghép.',
+  'method2-step4' => 'Kéo các bảng file để sắp xếp thứ tự. Bạn cũng có thể mở rộng từng file để chọn các trang cụ thể thay vì đưa toàn bộ tài liệu vào.',
+  'method2-step5' => 'Nhấp Combine. Acrobat sẽ xử lý các file và mở kết quả đã ghép.',
+  'method2-step6' => 'Lưu file đã ghép bằng cách vào File rồi chọn Save As.',
+  'method2-note' => 'Phương pháp này đặc biệt hữu ích khi bạn cần ghép các trang được chọn thay vì toàn bộ tài liệu, hoặc khi làm việc với các file được bảo vệ bằng mật khẩu yêu cầu xác thực trước khi ghép.',
+
+  'method3-heading' => 'Cách 3: Preview Trên Mac (Có Sẵn, Không Cần Tải Lên)',
+  'method3-intro' => 'Người dùng Mac có một tùy chọn ghép file miễn phí mạnh mẽ được tích hợp sẵn ngay trong hệ điều hành thông qua ứng dụng Preview. Không cần cài đặt gì thêm và không có file nào được tải lên bất kỳ đâu.',
+  'method3-step1' => 'Mở file PDF đầu tiên bằng Preview.',
+  'method3-step2' => 'Vào View và chọn Thumbnails để hiển thị bảng trang ở bên trái.',
+  'method3-step3' => 'Mở file PDF thứ hai trong một cửa sổ Preview riêng.',
+  'method3-step4' => 'Từ cửa sổ Preview thứ hai, chọn tất cả hình thu nhỏ của các trang bạn muốn thêm vào. Bạn có thể chọn tất cả bằng Command+A hoặc nhấp chọn từng hình thu nhỏ trong khi giữ phím Command.',
+  'method3-step5' => 'Kéo các hình thu nhỏ đã chọn từ cửa sổ thứ hai vào bảng hình thu nhỏ của cửa sổ đầu tiên. Thả chúng vào vị trí bạn muốn chúng xuất hiện.',
+  'method3-step6' => 'Lặp lại cho các file bổ sung khác.',
+  'method3-step7' => 'Lưu tài liệu đã kết hợp bằng cách vào File rồi chọn Save.',
+  'method3-tip' => 'Mẹo nhỏ: Trong Preview, bạn cũng có thể sắp xếp lại trang sau khi ghép bằng cách kéo các hình thu nhỏ trong bảng, và xóa các trang không cần thiết bằng cách chọn chúng rồi nhấn Delete.',
+
+  'method4-heading' => 'Cách 4: Google Drive (Miễn Phí Cho Bất Kỳ Ai Có Tài Khoản Google)',
+  'method4-intro' => 'Google Drive không ghép file PDF trực tiếp, nhưng kết hợp nó với Google Docs mang lại một giải pháp thay thế miễn phí hoạt động tốt với các file PDF chủ yếu là văn bản.',
+  'method4-step1' => 'Tải tất cả các file PDF của bạn lên Google Drive.',
+  'method4-step2' => 'Nhấp chuột phải vào từng file PDF và mở bằng Google Docs. Thao tác này sẽ chuyển đổi mỗi file PDF thành một tài liệu Google Doc.',
+  'method4-step3' => 'Sao chép nội dung từ mỗi tài liệu Google Doc bổ sung và dán vào tài liệu đầu tiên.',
+  'method4-step4' => 'Tải tài liệu Google Doc đã kết hợp xuống dưới dạng PDF thông qua File rồi Download rồi PDF Document.',
+  'method4-note' => 'Phương pháp này hoạt động tốt nhất với các tài liệu chủ yếu là văn bản. Các file PDF có bố cục phức tạp, hình ảnh hoặc phông chữ tùy chỉnh có thể không giữ được định dạng hoàn hảo sau khi chuyển đổi qua Google Docs.',
+
+  'order-heading' => 'Chọn Đúng Thứ Tự Trang Trước Khi Ghép',
+  'order-p1' => 'Sai lầm phổ biến nhất khi ghép file PDF là không suy nghĩ kỹ về thứ tự trang trước khi bắt đầu. Vài phút lên kế hoạch sẽ giúp bạn tránh khỏi sự khó chịu khi phát hiện thứ tự trang bị sai sau khi đã ghép xong.',
+  'order-p2' => 'Đối với một tài liệu nhiều phần, hãy sắp xếp các file theo thứ tự mà người đọc sẽ gặp: trang bìa, mục lục, các phần chính theo trình tự hợp lý, phụ lục, tài liệu tham khảo. Nếu công cụ không hỗ trợ sắp xếp lại bằng hình ảnh, hãy đặt tên file có kèm số ở đầu để chúng được sắp xếp đúng theo tên file.',
+  'order-p3' => 'Nếu sau khi ghép mà các trang bị sai thứ tự, bạn có thể chia nhỏ file PDF đã ghép thành các phần, sắp xếp lại chúng, rồi ghép lại bằng __SPLIT_LINK__ cùng với __MERGE_LINK__.',
+
+  'size-heading' => 'Quản Lý Dung Lượng File Trong Các PDF Đã Ghép',
+  'size-p1' => 'Việc ghép file PDF không làm tăng dung lượng vượt quá tổng dung lượng của các file đầu vào. Tuy nhiên, một tài liệu ghép từ bốn file lớn có thể dễ dàng đạt tới 40 hoặc 50 MB, vượt quá giới hạn đính kèm của hầu hết các dịch vụ email. Cho file đã ghép chạy qua __COMPRESS_LINK__ tại PDFTools sau khi ghép thường giảm dung lượng từ 50 đến 70 phần trăm mà không có thay đổi chất lượng nào có thể nhìn thấy trên màn hình.',
+  'size-p2' => 'Để biết đầy đủ chi tiết về các thiết lập nén và kết quả có thể mong đợi, hãy xem hướng dẫn về __COMPRESS_QUALITY_GUIDE_LINK__.',
+
+  'conclusion-heading' => 'Kết Luận',
+  'conclusion-p1' => 'Ghép file PDF là một trong những tác vụ tài liệu đơn giản nhất một khi bạn biết công cụ phù hợp cho tình huống của mình. Đối với hầu hết mọi người, công cụ miễn phí trên trình duyệt tại PDFTools xử lý công việc này trong chưa đầy hai phút mà không cần phần mềm nào. Người dùng Mac có thêm sự tiện lợi từ giao diện kéo thả của Preview, giúp mọi thứ luôn ở chế độ cục bộ. Adobe Acrobat Pro là lựa chọn phù hợp khi bạn cần kiểm soát chi tiết trang nào từ mỗi file nguồn sẽ xuất hiện trong kết quả.',
+  'conclusion-p2' => 'Sau khi ghép, nếu file kết hợp quá lớn để gửi qua email, __COMPRESS_LINK__ tại PDFTools sẽ giảm dung lượng nhanh chóng. Để chuyển đổi tài liệu đã ghép sang định dạng có thể chỉnh sửa, __WORD_LINK__ cũng có sẵn miễn phí tại PDFTools.',
+
+  'faq-heading' => 'Câu Hỏi Thường Gặp',
+  'faq1-q' => 'Tôi có thể ghép các file PDF được bảo vệ bằng mật khẩu không?',
+  'faq1-a' => 'Có, nhưng bạn cần mật khẩu chính xác cho từng file được bảo vệ. Hầu hết các công cụ ghép sẽ yêu cầu bạn nhập mật khẩu khi tải lên một file PDF được bảo vệ. Sau khi mở khóa, việc ghép sẽ diễn ra bình thường. File PDF kết quả sẽ không kế thừa lớp bảo vệ bằng mật khẩu từ các file nguồn trừ khi bạn thêm nó riêng.',
+  'faq2-q' => 'Ghép file PDF có làm giảm chất lượng không?',
+  'faq2-a' => 'Không. Ghép file là một thao tác mang tính cấu trúc, kết hợp các trang mà không kết xuất lại bất kỳ nội dung nào. Hình ảnh, phông chữ và định dạng trên mỗi trang hoàn toàn giống nhau giữa file kết quả và file nguồn. Không có sự nén hay giảm chất lượng nào xảy ra trong chính quá trình ghép.',
+  'faq3-q' => 'Có giới hạn về số lượng file PDF tôi có thể ghép cùng lúc không?',
+  'faq3-a' => 'Đối với công cụ trực tuyến tại PDFTools, không có giới hạn nào được nêu về số lượng file hoặc tổng dung lượng. Đối với các công cụ trên máy tính để bàn như Preview hay Acrobat, giới hạn duy nhất là bộ nhớ khả dụng của máy tính bạn.',
+  'faq4-q' => 'Tôi có thể chỉ ghép các trang cụ thể từ mỗi file PDF thay vì toàn bộ file không?',
+  'faq4-a' => 'Có. Adobe Acrobat Pro cho phép bạn chọn các trang cụ thể từ mỗi file nguồn trong quy trình Combine Files. Preview trên Mac cho phép bạn kéo từng hình thu nhỏ trang riêng lẻ thay vì toàn bộ file. Đối với công cụ trực tuyến, hãy ghép toàn bộ file trước rồi dùng công cụ tách trang để loại bỏ những trang bạn không cần.',
+  'faq5-q' => 'Tại sao file PDF đã ghép của tôi lại trông khác so với bản gốc?',
+  'faq5-a' => 'Trường hợp này hiếm khi xảy ra với các công cụ chất lượng cao. Nếu có xảy ra, nguyên nhân thường là do thay thế phông chữ khi một phông chữ được nhúng trong một file PDF nguồn xung đột với dữ liệu phông chữ trong file khác. Trong Adobe Acrobat Pro, công cụ PDF Optimizer có thể giúp chuẩn hóa dữ liệu phông chữ trên toàn bộ file kết quả đã ghép.',
+);

@@ -1,0 +1,25 @@
+<?php
+
+return array (
+  'title' => 'Haftungsausschluss – PDFTools.net',
+  'description' => 'Lesen Sie unseren Haftungsausschluss, um die Bedingungen und Einschränkungen für die Nutzung der Dienste und Tools von PDFTools.net zu verstehen.',
+  'hero-title' => 'Haftungsausschluss',
+  'hero-subtitle' => 'Wichtige Informationen zur Nutzung unserer Dienste',
+  'intro-text' => 'Die bereitgestellten Informationen und Tools auf ',
+  'a' => 'pdftools.net',
+  'intro-text2' => '(die „Website“) dienen nur der allgemeinen Information und dem praktischen Gebrauch. Alle Inhalte und Tools auf der Website werden in gutem Glauben angeboten. Wir übernehmen jedoch keine Garantie für die Genauigkeit, Zuverlässigkeit, Vollständigkeit oder Eignung der auf der Website verfügbaren Informationen oder Tools. Benutzer sollten sich darüber im Klaren sein, dass die Website Fehler oder Auslassungen enthalten kann.',
+  'service-as-is-title' => 'Der Service wird im Ist-Zustand bereitgestellt',
+  'service-as-is-text' => 'Alle Dienste auf der Website werden „WIE BESEHEN“ und „WIE VERFÜGBAR“ bereitgestellt. Die Website und ihre Tools weisen alle Fehler, Mängel oder Einschränkungen auf. Es werden keine ausdrücklichen oder stillschweigenden Garantien übernommen. PDF Tools macht keine Zusagen hinsichtlich der Leistung, Ergebnisse oder Zuverlässigkeit der Tools. Benutzer übernehmen die volle Verantwortung für die Nutzung der Website. Die Website garantiert keinen ununterbrochenen Zugriff, keinen fehlerfreien Betrieb oder dass mit den Tools verarbeitete Dateien fehlerfrei sind.',
+  'liability-title' => 'Haftungsbeschränkung',
+  'liability-text' => 'PDFTools.net und seine verbundenen Unternehmen haften nicht für Verluste oder Schäden, die durch die Nutzung der Website entstehen können. Dazu gehören Datenverlust, Dateibeschädigung oder andere Probleme, die durch die Verwendung der Tools verursacht werden. Benutzer stimmen zu, dass jegliches Vertrauen auf die Informationen oder Tools der Website ausschließlich auf eigenes Risiko erfolgt. Wir sind nicht verantwortlich für finanzielle, technische oder persönliche Folgen, die sich aus der Nutzung der Website ergeben können.',
+  'external-links-title' => 'Externe Links',
+  'external-links-text' => 'Die Website kann Links zu Websites und Inhalten enthalten, die von Dritten bereitgestellt werden. PDFTools.net überprüft oder überwacht diese Websites Dritter nicht. Für die Richtigkeit, Vollständigkeit und Zuverlässigkeit der Inhalte verlinkter Seiten wird keine Gewähr übernommen. Benutzer sollten verstehen, dass diese Links nur aus Bequemlichkeitsgründen angeboten werden. PDFTools.net unterstützt, garantiert und übernimmt keine Verantwortung für Informationen auf externen Websites.',
+  'no-advice-title' => 'Keine professionelle Beratung',
+  'no-advice-text' => 'Die auf der Website bereitgestellten Informationen dienen ausschließlich der allgemeinen Information. Durch die Nutzung der Website und ihrer Tools entsteht keine professionelle Beziehung zwischen Benutzern und PDFTools.net. Benutzer sollten rechtliche, geschäftliche oder andere Entscheidungen nicht ausschließlich auf den auf der Website verfügbaren Inhalt stützen. Lassen Sie sich bei spezifischen Fragen oder Bedenken stets von einem qualifizierten Fachmann beraten.',
+  'user-responsibility-title' => 'Verantwortung des Benutzers',
+  'user-responsibility-text' => 'Benutzer sind dafür verantwortlich, sicherzustellen, dass alle Dateien, die sie über die Website hochladen oder verarbeiten, den geltenden Gesetzen entsprechen. PDFTools.net prüft nicht die Rechtmäßigkeit oder Sicherheit der von Benutzern hochgeladenen Dateien. Die Website sollte verantwortungsvoll und im Rahmen des persönlichen und beruflichen Ermessens genutzt werden.',
+  'agreement-notice-text' => 'Durch die Verwendung',
+  'agreement-notice-text2' => 'Benutzer stimmen diesem Haftungsausschluss zu. Benutzer akzeptieren die Bedingungen und verstehen, dass PDFTools.net keine Garantien übernimmt. Benutzer erkennen an, dass sie die Website auf eigenes Risiko nutzen und allein für die Ergebnisse verantwortlich sind. Alle Inhalte und Tools auf der Website sollten sorgfältig und unter Berücksichtigung möglicher Fehler oder Einschränkungen verwendet werden.',
+  'titles' => 'Haftungsausschluss von PDFTools.net – Wichtige Informationen für die sichere Nutzung des Tools',
+  'descriptions' => 'Lesen Sie den offiziellen Haftungsausschluss für PDFTools.net, um zu verstehen, wie unsere Tools funktionieren, Nutzungsbeschränkungen und Benutzerverantwortlichkeiten. Bleiben Sie informiert und nutzen Sie unsere Dienste selbstbewusst und verantwortungsbewusst.',
+);

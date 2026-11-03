@@ -1,0 +1,25 @@
+<?php
+
+return array (
+  'title' => 'Penafian - PDFTools.net',
+  'description' => 'Baca penafian kami untuk memahami syarat dan batasan penggunaan layanan dan alat PDFTools.net.',
+  'hero-title' => 'Penafian',
+  'hero-subtitle' => 'Informasi penting tentang penggunaan layanan kami',
+  'intro-text' => 'Informasi dan alat yang disediakan ',
+  'a' => 'pdftools.net',
+  'intro-text2' => '(“Situs”) dimaksudkan hanya untuk informasi umum dan penggunaan praktis. Semua konten dan alat di Situs ditawarkan dengan itikad baik. Namun, kami tidak menjamin keakuratan, keandalan, kelengkapan, atau kesesuaian informasi atau alat apa pun yang tersedia di Situs. Pengguna harus memahami bahwa Situs mungkin mengandung kesalahan atau kelalaian.',
+  'service-as-is-title' => 'Layanan Disediakan Apa Adanya',
+  'service-as-is-text' => 'Semua layanan di Situs disediakan berdasarkan "APA ADANYA" dan "SEBAGAIMANA TERSEDIA". Situs dan alat-alatnya dilengkapi dengan segala kesalahan, cacat, atau keterbatasan. Tidak ada jaminan tersurat maupun tersirat. Alat PDF tidak menjanjikan apa pun mengenai kinerja, hasil, atau keandalan alat. Pengguna menerima tanggung jawab penuh untuk menggunakan Situs. Situs tidak menjamin akses tanpa gangguan, pengoperasian bebas bug, atau file yang diproses dengan alat akan bebas dari kesalahan.',
+  'liability-title' => 'Batasan Tanggung Jawab',
+  'liability-text' => 'PDFTools.net dan afiliasinya tidak bertanggung jawab atas kehilangan atau kerusakan apa pun yang mungkin terjadi akibat penggunaan Situs. Ini termasuk kehilangan data, kerusakan file, atau masalah lain yang disebabkan oleh penggunaan alat ini. Pengguna setuju bahwa ketergantungan pada informasi atau alat Situs sepenuhnya merupakan risiko mereka sendiri. Kami tidak bertanggung jawab atas konsekuensi finansial, teknis, atau pribadi apa pun yang mungkin timbul dari penggunaan Situs.',
+  'external-links-title' => 'Tautan Eksternal',
+  'external-links-text' => 'Situs ini mungkin menyertakan tautan ke situs web dan konten yang disediakan oleh pihak ketiga. PDFTools.net tidak meninjau atau memantau situs web pihak ketiga ini. Keakuratan, kelengkapan, atau keandalan konten di situs tertaut tidak dijamin. Pengguna harus memahami bahwa tautan ini ditawarkan hanya untuk kenyamanan. PDFTools.net tidak mendukung, menjamin, atau bertanggung jawab atas informasi apa pun di situs web eksternal.',
+  'no-advice-title' => 'Tidak Ada Saran Profesional',
+  'no-advice-text' => 'Informasi yang disediakan di Situs dimaksudkan untuk pengetahuan umum saja. Penggunaan Situs dan alat-alatnya tidak menciptakan hubungan profesional antara pengguna dan PDFTools.net. Pengguna tidak boleh mendasarkan keputusan hukum, bisnis, atau lainnya hanya pada konten yang tersedia di Situs. Selalu mencari saran dari profesional yang berkualifikasi untuk pertanyaan atau permasalahan spesifik.',
+  'user-responsibility-title' => 'Tanggung Jawab Pengguna',
+  'user-responsibility-text' => 'Pengguna bertanggung jawab untuk memastikan bahwa setiap file yang mereka unggah atau proses melalui Situs mematuhi hukum yang berlaku. PDFTools.net tidak memeriksa legalitas atau keamanan file yang diunggah oleh pengguna. Situs ini harus digunakan secara bertanggung jawab dan dalam batas penilaian pribadi dan profesional.',
+  'agreement-notice-text' => 'Dengan menggunakan',
+  'agreement-notice-text2' => 'pengguna menyetujui penafian ini. Pengguna menerima persyaratan dan memahami bahwa PDFTools.net tidak memberikan jaminan. Pengguna mengakui bahwa mereka menggunakan Situs ini atas risiko mereka sendiri dan sepenuhnya bertanggung jawab atas hasilnya. Semua konten dan alat di Situs harus digunakan dengan hati-hati dan dengan mempertimbangkan kemungkinan kesalahan atau batasan.',
+  'titles' => 'Penafian PDFTools.net – Informasi Penting untuk Penggunaan Alat yang Aman',
+  'descriptions' => 'Baca penafian resmi PDFTools.net untuk memahami cara kerja alat kami, batasan penggunaan, dan tanggung jawab pengguna. Tetap terinformasi dan gunakan layanan kami dengan percaya diri dan bertanggung jawab.',
+);

@@ -1,0 +1,25 @@
+<?php
+
+return [
+    'title' => 'Contact PDFTools.net - Get Support Within 24 Hours',
+    'description' => 'Contact us for any questions. Our team is available 24/7 for your support.',
+    'Contact-us' => 'Contact Us',
+    'We\'d-love' => 'We\'d Love to Hear from You!',
+    'enter-your-name' => 'Enter your Name',
+    'enter-email' => 'Enter Email',
+    'enter-message' => 'Enter Message',
+    'send-message' => 'Send Message',
+    'success_message' => 'Thanks for contacting us! We\'ll respond within 24 hours.',
+    'fail' => 'Failed to send message:',
+    'contact-methods' => 'Contact Methods',
+    'email-label' => 'Email Us',
+    'response-label' => 'Response Time',
+    'response-value' => '< 24 Hours',
+    'hours-label' => 'Office Hours',
+    'hours-value' => 'Mon-Fri 9am-6pm GMT',
+    'support-team' => 'Support Team',
+    'support-lead-name' => 'Muhammad Abdullah',
+    'support-lead-role' => 'Customer Success Specialist',
+    'guarantee-label' => 'Response Guarantee',
+    'guarantee-value' => 'All inquiries answered within 24 hours',
+];

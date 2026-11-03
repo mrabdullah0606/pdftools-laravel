@@ -1,0 +1,78 @@
+<?php
+
+return array (
+  'title' => 'Cum să Combini Fișiere PDF: Ghidul Gratuit Complet pentru 2026',
+  'description' => 'Află cum să combini fișiere PDF gratuit în 2026. Îmbină mai multe documente într-un singur fișier, păstrând paginile organizate și ușor de partajat. Combină-ți PDF-urile chiar azi!',
+  'main-heading' => 'Cum să Combini Fișiere PDF: Ghidul Gratuit Complet pentru 2026',
+
+  'intro-heading' => 'Când Ai Prea Multe Fișiere și Ai Nevoie de Un Singur Document',
+  'intro-p1' => 'Oricine a asamblat vreodată o propunere de proiect, o cerere de finanțare, un raport pentru client sau chiar un simplu set de instrucțiuni cunoaște problema. Conținutul se află în patru sau cinci fișiere PDF separate. Ai nevoie de el într-un singur document ordonat, pe care destinatarul să îl poată deschide, derula și tipări fără să comute între fișiere.',
+  'intro-p2' => 'Combinarea fișierelor PDF este una dintre cele mai frecvente sarcini cu documente din viața profesională și academică și, în același timp, una dintre cele mai ușor de realizat gratuit. Acest ghid acoperă toate metodele de încredere disponibile în 2026, de la instrumente bazate pe browser care nu necesită nicio instalare, până la soluții desktop care păstrează fișierele complet locale. La final, vei ști ce metodă se potrivește situației tale și vei putea combina orice set de fișiere PDF în mai puțin de două minute.',
+
+  'what-heading' => 'Ce Face de Fapt Combinarea unui PDF',
+  'what-p1' => 'Când combini fișiere PDF, unești paginile mai multor documente PDF separate într-un singur fișier PDF. Ordinea paginilor din rezultat corespunde ordinii pe care o specifici la combinare. Conținutul fiecărei pagini este păstrat exact, inclusiv imaginile, fonturile, formatarea și orice elemente interactive precum hyperlinkurile.',
+  'what-p2' => 'Combinarea nu re-randează și nu reprocesează niciun conținut. Este mai degrabă asemănătoare cu legarea unor broșuri separate într-un singur volum decât cu copierea și lipirea. Asta înseamnă că nivelul calitativ al rezultatului corespunde celui al fișierelor de intrare, iar procesul este fără pierderi.',
+
+  'method1-heading' => 'Metoda 1: Instrumentul de Combinare PDFTools (Gratuit, Fără Software)',
+  'method1-intro' => 'Cea mai rapidă metodă pentru majoritatea utilizatorilor este __MERGE_LINK__ gratuit de la PDFTools. Acesta gestionează întregul proces într-un browser, fără instalare, cont sau limită de dimensiune a fișierului.',
+  'method1-step1' => 'Deschide browserul și accesează instrumentul PDFTools de combinare PDF.',
+  'method1-step2' => 'Fă clic pe zona de încărcare sau trage fișierele PDF direct pe pagină. Poți încărca mai multe fișiere deodată.',
+  'method1-step3' => 'Trage miniaturile fișierelor pentru a le aranja în ordinea dorită în documentul final.',
+  'method1-step4' => 'Fă clic pe butonul Combină și așteaptă procesarea. Majoritatea seturilor de fișiere se combină în mai puțin de 30 de secunde.',
+  'method1-step5' => 'Descarcă PDF-ul combinat. Toate fișierele originale de pe dispozitivul tău rămân neschimbate.',
+  'method1-note' => 'Fișierele sunt șterse automat de pe server după o oră și nu este necesară nicio înregistrare. Poți importa fișiere și direct din Google Drive sau Dropbox, ceea ce este util atunci când documentele sunt deja stocate în cloud. Pentru mai multe detalii despre gestionarea documentelor combinate mari, consultă ghidul despre __COMPRESS_GUIDE_LINK__.',
+
+  'method2-heading' => 'Metoda 2: Adobe Acrobat Reader Pro',
+  'method2-intro' => 'Dacă ai Adobe Acrobat Pro instalat, instrumentul Combine Files îți oferă cel mai mare control asupra combinării, inclusiv posibilitatea de a rearanja paginile, de a extrage pagini specifice din fiecare fișier sursă și de a previzualiza rezultatul înainte de finalizare.',
+  'method2-step1' => 'Deschide Adobe Acrobat Pro.',
+  'method2-step2' => 'Mergi la Tools și selectează Combine Files.',
+  'method2-step3' => 'Fă clic pe Add Files și selectează fiecare PDF pe care vrei să îl combini.',
+  'method2-step4' => 'Trage panourile fișierelor pentru a stabili ordinea. Poți, de asemenea, să extinzi fiecare fișier pentru a selecta pagini specifice din el, în loc să incluzi întregul document.',
+  'method2-step5' => 'Fă clic pe Combine. Acrobat procesează fișierele și deschide rezultatul combinat.',
+  'method2-step6' => 'Salvează fișierul combinat cu File și apoi Save As.',
+  'method2-note' => 'Această metodă este deosebit de utilă atunci când trebuie să combini pagini selectate, nu documente întregi, sau când lucrezi cu fișiere protejate prin parolă care necesită autentificare înainte de combinare.',
+
+  'method3-heading' => 'Metoda 3: Preview pe Mac (Integrat, Fără Încărcare de Fișiere)',
+  'method3-intro' => 'Utilizatorii de Mac au la dispoziție o opțiune gratuită și puternică de combinare, integrată direct în sistemul de operare prin aplicația Preview. Nu trebuie instalat nimic și niciun fișier nu este încărcat undeva.',
+  'method3-step1' => 'Deschide primul PDF în Preview.',
+  'method3-step2' => 'Mergi la View și selectează Thumbnails pentru a afișa panoul de pagini din stânga.',
+  'method3-step3' => 'Deschide al doilea PDF într-o fereastră separată de Preview.',
+  'method3-step4' => 'Din a doua fereastră Preview, selectează toate miniaturile paginilor pe care vrei să le adaugi. Poți selecta tot cu Command+A sau poți face clic pe miniaturi individuale ținând apăsat Command.',
+  'method3-step5' => 'Trage miniaturile selectate din a doua fereastră în panoul de miniaturi al primei ferestre. Plasează-le în poziția în care vrei să apară.',
+  'method3-step6' => 'Repetă pentru orice fișiere suplimentare.',
+  'method3-step7' => 'Salvează documentul combinat cu File și apoi Save.',
+  'method3-tip' => 'Sfat util: în Preview poți, de asemenea, să reordonezi paginile după combinare trăgând miniaturile în cadrul panoului și să ștergi paginile nedorite selectându-le și apăsând Delete.',
+
+  'method4-heading' => 'Metoda 4: Google Drive (Gratuit pentru Oricine Are un Cont Google)',
+  'method4-intro' => 'Google Drive nu combină direct fișiere PDF, dar folosit împreună cu Google Docs oferă o soluție alternativă gratuită care funcționează bine pentru PDF-uri bazate pe text.',
+  'method4-step1' => 'Încarcă toate PDF-urile tale în Google Drive.',
+  'method4-step2' => 'Fă clic dreapta pe fiecare PDF și deschide-l cu Google Docs. Astfel, fiecare PDF este convertit într-un document Google.',
+  'method4-step3' => 'Copiază conținutul din fiecare document Google suplimentar și lipește-l în primul document.',
+  'method4-step4' => 'Descarcă documentul Google combinat ca PDF, mergând la File, apoi Download, apoi PDF Document.',
+  'method4-note' => 'Această metodă funcționează cel mai bine pentru documente cu mult text. PDF-urile cu aspecte complexe, imagini sau fonturi personalizate pot să nu păstreze o formatare perfectă în urma conversiei prin Google Docs.',
+
+  'order-heading' => 'Alegerea Ordinii Corecte a Paginilor Înainte de Combinare',
+  'order-p1' => 'Cea mai frecventă greșeală atunci când combini fișiere PDF este să nu te gândești la ordinea paginilor înainte de a începe. Câteva minute de planificare previn frustrarea de a descoperi ordinea greșită a paginilor după ce combinarea este deja finalizată.',
+  'order-p2' => 'Pentru un document cu mai multe secțiuni, așază fișierele în ordinea în care le-ar întâlni un cititor: pagina de copertă, cuprinsul, secțiunile principale în ordine logică, anexele, referințele. Denumește-ți fișierele cu numere la început dacă instrumentul nu permite rearanjarea vizuală, astfel încât să se sorteze corect după numele fișierului.',
+  'order-p3' => 'Dacă ajungi cu pagini în ordinea greșită după combinare, poți împărți PDF-ul combinat în secțiuni, le poți reordona și îl poți combina din nou folosind __SPLIT_LINK__ împreună cu __MERGE_LINK__.',
+
+  'size-heading' => 'Gestionarea Dimensiunii Fișierelor în PDF-urile Combinate',
+  'size-p1' => 'Combinarea fișierelor PDF nu mărește dimensiunea fișierului peste suma dimensiunilor fișierelor de intrare. Totuși, un document combinat care reunește patru fișiere mari poate ajunge cu ușurință la 40 sau 50 MB, ceea ce depășește majoritatea limitelor pentru atașamente de e-mail. Trecerea fișierului combinat prin __COMPRESS_LINK__ de la PDFTools după combinare reduce de obicei dimensiunea cu 50 până la 70 la sută, fără nicio schimbare vizibilă a calității pe ecran.',
+  'size-p2' => 'Pentru o explicație completă a setărilor de compresie și a rezultatelor la care te poți aștepta, consultă ghidul despre __COMPRESS_QUALITY_GUIDE_LINK__.',
+
+  'conclusion-heading' => 'Concluzie',
+  'conclusion-p1' => 'Combinarea fișierelor PDF este una dintre cele mai simple sarcini cu documente, odată ce cunoști instrumentul potrivit pentru situația ta. Pentru majoritatea utilizatorilor, instrumentul gratuit bazat pe browser de la PDFTools rezolvă treaba în mai puțin de două minute, fără să fie nevoie de software. Utilizatorii de Mac beneficiază în plus de comoditatea interfeței drag-and-drop din Preview, care păstrează totul local. Adobe Acrobat Pro este alegerea potrivită atunci când ai nevoie de control fin asupra paginilor din fiecare fișier sursă care apar în rezultat.',
+  'conclusion-p2' => 'După combinare, dacă fișierul rezultat este prea mare pentru a fi trimis prin e-mail, __COMPRESS_LINK__ de la PDFTools îi reduce rapid dimensiunea. Pentru a converti documentul combinat într-un format editabil, __WORD_LINK__ este disponibil gratuit la PDFTools.',
+
+  'faq-heading' => 'Întrebări Frecvente',
+  'faq1-q' => 'Pot combina PDF-uri protejate prin parolă?',
+  'faq1-a' => 'Da, dar ai nevoie de parola corectă pentru fiecare fișier protejat. Majoritatea instrumentelor de combinare te vor solicita să introduci parola atunci când încarci un PDF protejat. Odată deblocat, combinarea decurge normal. PDF-ul rezultat nu va moșteni protecția prin parolă de la fișierele sursă, decât dacă o adaugi separat.',
+  'faq2-q' => 'Combinarea PDF-urilor le reduce calitatea?',
+  'faq2-a' => 'Nu. Combinarea este o operațiune structurală care unește paginile fără a re-randa niciun conținut. Imaginile, fonturile și formatarea fiecărei pagini sunt identice în rezultat cu cele din fișierul sursă. Nu are loc nicio compresie sau reducere a calității în timpul procesului de combinare în sine.',
+  'faq3-q' => 'Există o limită pentru câte PDF-uri pot combina odată?',
+  'faq3-a' => 'Pentru instrumentul online de la PDFTools nu există limite stabilite privind numărul de fișiere sau dimensiunea totală. Pentru instrumentele desktop precum Preview sau Acrobat, singura limită este memoria disponibilă a computerului tău.',
+  'faq4-q' => 'Pot combina doar anumite pagini din fiecare PDF, nu fișierele întregi?',
+  'faq4-a' => 'Da. Adobe Acrobat Pro îți permite să selectezi pagini specifice din fiecare fișier sursă în timpul procesului Combine Files. Preview pe Mac îți permite să tragi miniaturi ale paginilor individuale, nu fișiere întregi. Pentru instrumentul online, combină fișierele complete și apoi folosește instrumentul de împărțire pentru a elimina paginile de care nu ai nevoie.',
+  'faq5-q' => 'De ce arată PDF-ul meu combinat diferit față de originale?',
+  'faq5-a' => 'Acest lucru se întâmplă rar cu instrumente de calitate ridicată. Dacă se întâmplă, este de obicei cauzat de o înlocuire de font, atunci când un font încorporat într-un PDF sursă intră în conflict cu datele de font dintr-un alt fișier. În Adobe Acrobat Pro, PDF Optimizer poate ajuta la normalizarea datelor de font în întregul rezultat combinat.',
+);

@@ -1,0 +1,25 @@
+<?php
+
+return array (
+  'title' => 'Vastuuvapauslauseke - PDFTools.net',
+  'description' => 'Lue vastuuvapauslausekkeemme ymmärtääksesi PDFTools.net-palveluiden ja työkalujen käyttöehdot ja rajoitukset.',
+  'hero-title' => 'Vastuuvapauslauseke',
+  'hero-subtitle' => 'Tärkeää tietoa palveluidemme käytöstä',
+  'intro-text' => 'Tarjotut tiedot ja työkalut ',
+  'a' => 'pdftools.net',
+  'intro-text2' => '("Sivusto") on tarkoitettu vain yleistä tietoa ja käytännön käyttöä varten. Kaikki Sivuston sisältö ja työkalut tarjotaan hyvässä uskossa. Emme kuitenkaan takaa Sivustolla saatavilla olevien tietojen tai työkalujen tarkkuutta, luotettavuutta, täydellisyyttä tai sopivuutta. Käyttäjien tulee ymmärtää, että Sivusto voi sisältää virheitä tai puutteita.',
+  'service-as-is-title' => 'Palvelu tarjotaan sellaisenaan',
+  'service-as-is-text' => 'Kaikki Sivuston palvelut tarjotaan "SELLAISENAAN" ja "SAATAVILLA" -periaatteella. Sivusto ja sen työkalut sisältävät kaikki viat, viat tai rajoitukset. Mitään takuita ei ole ilmaistuja tai oletettuja. PDF Tools ei lupaa työkalujen suorituskykyä, tuloksia tai luotettavuutta. Käyttäjät ottavat täyden vastuun Sivuston käytöstä. Sivusto ei takaa keskeytymätöntä käyttöä, virheetöntä toimintaa tai sitä, että työkaluilla käsitellyt tiedostot ovat virheettömiä.',
+  'liability-title' => 'Vastuun rajoitus',
+  'liability-text' => 'PDFTools.net ja sen tytäryhtiöt eivät ole vastuussa mistään menetyksistä tai vahingoista, joita voi aiheutua Sivuston käytöstä. Tämä sisältää tietojen katoamisen, tiedostojen vioittumisen tai muita työkalujen käytön aiheuttamia ongelmia. Käyttäjät hyväksyvät, että sivuston tietoihin tai työkaluihin luottaminen on täysin heidän omalla vastuullaan. Emme ole vastuussa mistään taloudellisista, teknisistä tai henkilökohtaisista seurauksista, joita Sivuston käytöstä voi aiheutua.',
+  'external-links-title' => 'Ulkoiset linkit',
+  'external-links-text' => 'Sivusto voi sisältää linkkejä kolmansien osapuolien verkkosivustoille ja sisältöön. PDFTools.net ei tarkista tai valvo näitä kolmansien osapuolien verkkosivustoja. Linkitettyjen sivustojen sisällön tarkkuutta, täydellisyyttä tai luotettavuutta ei taata. Käyttäjien tulee ymmärtää, että nämä linkit tarjotaan vain mukavuussyistä. PDFTools.net ei tue, takaa tai ota vastuuta mistään ulkopuolisten verkkosivustojen tiedoista.',
+  'no-advice-title' => 'Ei ammattiapua',
+  'no-advice-text' => 'Sivustolla annetut tiedot on tarkoitettu vain yleiseksi tiedoksi. Sivuston ja sen työkalujen käyttö ei luo ammattimaista suhdetta käyttäjien ja PDFTools.netin välille. Käyttäjien ei tule tehdä oikeudellisia, liiketoiminnallisia tai muita päätöksiä yksinomaan Sivustolla saatavilla olevan sisällön perusteella. Pyydä aina neuvoa pätevältä ammattilaiselta erityisissä kysymyksissä tai huolenaiheissa.',
+  'user-responsibility-title' => 'Käyttäjän vastuu',
+  'user-responsibility-text' => 'Käyttäjät ovat vastuussa siitä, että kaikki sivuston kautta lataamansa tai käsittelemänsä tiedostot ovat sovellettavien lakien mukaisia. PDFTools.net ei tarkista käyttäjien lataamien tiedostojen laillisuutta tai turvallisuutta. Sivustoa tulee käyttää vastuullisesti ja henkilökohtaisen ja ammatillisen harkinnan rajoissa.',
+  'agreement-notice-text' => 'Käyttämällä',
+  'agreement-notice-text2' => 'käyttäjät hyväksyvät tämän vastuuvapauslausekkeen. Käyttäjät hyväksyvät ehdot ja ymmärtävät, että PDFTools.net ei anna takuita. Käyttäjät tietävät, että he käyttävät Sivustoa omalla vastuullaan ja ovat yksin vastuussa tuloksista. Kaikkea Sivuston sisältöä ja työkaluja tulee käyttää huolellisesti ja mahdolliset virheet tai rajoitukset huomioon ottaen.',
+  'titles' => 'PDFTools.net Vastuuvapauslauseke – Tärkeää tietoa työkalujen turvallisesta käytöstä',
+  'descriptions' => 'Lue PDFTools.net-sivuston virallinen vastuuvapauslauseke ymmärtääksesi työkalujemme toimintatavat, käyttörajoitukset ja käyttäjien vastuut. Pysy ajan tasalla ja käytä palveluitamme luottavaisesti ja vastuullisesti.',
+);

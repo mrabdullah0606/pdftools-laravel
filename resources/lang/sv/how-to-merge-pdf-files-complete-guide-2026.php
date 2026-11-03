@@ -1,0 +1,78 @@
+<?php
+
+return array (
+  'title' => 'Så slår du ihop PDF-filer: Komplett gratisguide för 2026',
+  'description' => 'Lär dig slå ihop PDF-filer gratis under 2026. Kombinera flera dokument till en fil samtidigt som sidorna hålls organiserade och lätta att dela. Slå ihop dina PDF-filer redan idag!',
+  'main-heading' => 'Så slår du ihop PDF-filer: Den kompletta gratisguiden för 2026',
+
+  'intro-heading' => 'När du har för många filer och behöver ett enda dokument',
+  'intro-p1' => 'Alla som någon gång har satt ihop ett projektförslag, en bidragsansökan, en kundrapport eller till och med en enkel instruktion känner igen problemet. Innehållet finns spridt i fyra eller fem separata PDF-filer. Du behöver det i ett enda snyggt dokument som mottagaren kan öppna, bläddra igenom och skriva ut utan att behöva växla mellan filer.',
+  'intro-p2' => 'Att slå ihop PDF-filer är en av de vanligaste dokumentuppgifterna i yrkeslivet och akademin, och samtidigt en av de enklaste att göra gratis. Den här guiden går igenom alla pålitliga metoder som finns tillgängliga 2026, från webbläsarbaserade verktyg som inte kräver någon programvara till skrivbordslösningar som håller dina filer helt lokala. Efter att ha läst den vet du vilken metod som passar din situation och kan slå ihop vilken uppsättning PDF-filer som helst på under två minuter.',
+
+  'what-heading' => 'Vad det egentligen innebär att slå ihop en PDF',
+  'what-p1' => 'När du slår ihop PDF-filer kombinerar du sidorna från flera separata PDF-dokument till en enda PDF-fil. Sidordningen i resultatet motsvarar den ordning du anger vid sammanslagningen. Innehållet på varje sida bevaras exakt, inklusive bilder, typsnitt, formatering och interaktiva element som hyperlänkar.',
+  'what-p2' => 'En sammanslagning renderar eller bearbetar inte om något innehåll. Det liknar mer att binda in separata häften till en volym än att kopiera och klistra in. Det innebär att resultatets kvalitet motsvarar kvaliteten på originalfilerna, och att processen är förlustfri.',
+
+  'method1-heading' => 'Metod 1: PDFTools sammanslagningsverktyg (gratis, ingen programvara)',
+  'method1-intro' => 'Den snabbaste metoden för de flesta är det gratis __MERGE_LINK__ hos PDFTools. Det hanterar hela processen i en webbläsare utan installation, konto eller begränsning av filstorlek.',
+  'method1-step1' => 'Öppna webbläsaren och gå till PDFTools verktyg för att slå ihop PDF-filer.',
+  'method1-step2' => 'Klicka på uppladdningsområdet eller dra dina PDF-filer direkt till sidan. Du kan ladda upp flera filer på en gång.',
+  'method1-step3' => 'Dra filminiatyrerna för att ordna dem i den ordning du vill ha dem i det slutgiltiga dokumentet.',
+  'method1-step4' => 'Klicka på knappen Slå ihop och vänta medan filerna bearbetas. De flesta uppsättningar filer slås ihop på under 30 sekunder.',
+  'method1-step5' => 'Ladda ner din sammanslagna PDF. Alla originalfiler på din enhet förblir oförändrade.',
+  'method1-note' => 'Filerna raderas automatiskt från servern efter en timme och ingen registrering krävs. Du kan också importera filer direkt från Google Drive eller Dropbox, vilket är praktiskt när dina dokument redan finns lagrade i molnet. För mer information om att hantera stora sammanslagna dokument, se guiden om __COMPRESS_GUIDE_LINK__.',
+
+  'method2-heading' => 'Metod 2: Adobe Acrobat Reader Pro',
+  'method2-intro' => 'Om du har Adobe Acrobat Pro installerat ger verktyget Combine Files dig störst kontroll över sammanslagningen, inklusive möjligheten att ändra sidordning, hämta specifika sidor från varje källfil och förhandsgranska resultatet innan du slutför det.',
+  'method2-step1' => 'Öppna Adobe Acrobat Pro.',
+  'method2-step2' => 'Gå till Tools och välj Combine Files.',
+  'method2-step3' => 'Klicka på Add Files och välj varje PDF du vill slå ihop.',
+  'method2-step4' => 'Dra filpanelerna för att bestämma ordningen. Du kan även expandera varje fil för att välja specifika sidor ur den istället för att inkludera hela dokumentet.',
+  'method2-step5' => 'Klicka på Combine. Acrobat bearbetar filerna och öppnar det sammanslagna resultatet.',
+  'method2-step6' => 'Spara den sammanslagna filen via File och sedan Save As.',
+  'method2-note' => 'Den här metoden är särskilt användbar när du behöver slå ihop utvalda sidor snarare än hela dokument, eller när du arbetar med lösenordsskyddade filer som kräver autentisering innan sammanslagning.',
+
+  'method3-heading' => 'Metod 3: Preview på Mac (inbyggt, ingen uppladdning krävs)',
+  'method3-intro' => 'Mac-användare har ett kraftfullt gratis alternativ för sammanslagning inbyggt direkt i operativsystemet via programmet Preview. Ingenting behöver installeras och inga filer laddas upp någonstans.',
+  'method3-step1' => 'Öppna den första PDF-filen i Preview.',
+  'method3-step2' => 'Gå till View och välj Thumbnails för att visa sidpanelen till vänster.',
+  'method3-step3' => 'Öppna den andra PDF-filen i ett separat Preview-fönster.',
+  'method3-step4' => 'Markera i det andra Preview-fönstret alla sidminiatyrer du vill lägga till. Du kan markera alla med Command+A eller klicka på enskilda miniatyrer medan du håller ner Command.',
+  'method3-step5' => 'Dra de markerade miniatyrerna från det andra fönstret till miniatyrpanelen i det första fönstret. Släpp dem på den plats där du vill att de ska visas.',
+  'method3-step6' => 'Upprepa för eventuella ytterligare filer.',
+  'method3-step7' => 'Spara det sammanslagna dokumentet via File och sedan Save.',
+  'method3-tip' => 'Tips: I Preview kan du även ändra sidordningen efter sammanslagningen genom att dra miniatyrer inom panelen, samt ta bort oönskade sidor genom att markera dem och trycka på Delete.',
+
+  'method4-heading' => 'Metod 4: Google Drive (gratis för alla med ett Google-konto)',
+  'method4-intro' => 'Google Drive slår inte ihop PDF-filer direkt, men i kombination med Google Docs får du en gratis lösning som fungerar bra för textbaserade PDF-filer.',
+  'method4-step1' => 'Ladda upp alla dina PDF-filer till Google Drive.',
+  'method4-step2' => 'Högerklicka på varje PDF och öppna den med Google Docs. Detta konverterar varje PDF till ett Google-dokument.',
+  'method4-step3' => 'Kopiera innehållet från varje ytterligare Google-dokument och klistra in det i det första.',
+  'method4-step4' => 'Ladda ner det sammanslagna Google-dokumentet som en PDF via File, sedan Download, sedan PDF Document.',
+  'method4-note' => 'Den här metoden fungerar bäst för textrika dokument. PDF-filer med komplexa layouter, bilder eller anpassade typsnitt behåller kanske inte perfekt formatering efter konverteringen via Google Docs.',
+
+  'order-heading' => 'Att välja rätt sidordning innan du slår ihop filerna',
+  'order-p1' => 'Det vanligaste misstaget vid sammanslagning av PDF-filer är att inte tänka igenom sidordningen innan man börjar. Några minuters planering förhindrar frustrationen av att upptäcka fel sidordning efter att sammanslagningen är klar.',
+  'order-p2' => 'För ett dokument med flera avsnitt, lägg upp filerna i den ordning en läsare skulle möta dem: försättsblad, innehållsförteckning, huvudavsnitt i logisk följd, bilagor, referenser. Namnge filerna med siffror i början om verktyget inte stödjer visuell omordning, så att de sorteras korrekt efter filnamn.',
+  'order-p3' => 'Om du hamnar med sidor i fel ordning efter sammanslagningen kan du dela upp den sammanslagna PDF-filen i avsnitt, ändra ordningen på dem och slå ihop dem igen med hjälp av __SPLIT_LINK__ tillsammans med __MERGE_LINK__.',
+
+  'size-heading' => 'Att hantera filstorlek i sammanslagna PDF-filer',
+  'size-p1' => 'Att slå ihop PDF-filer ökar inte filstorleken utöver den sammanlagda storleken på originalfilerna. Ett sammanslaget dokument som kombinerar fyra stora filer kan dock lätt nå 40 eller 50 MB, vilket överskrider de flesta gränser för e-postbilagor. Att köra den sammanslagna filen genom __COMPRESS_LINK__ hos PDFTools efter sammanslagningen minskar vanligtvis storleken med 50 till 70 procent utan någon synlig kvalitetsförändring på skärmen.',
+  'size-p2' => 'För en fullständig genomgång av komprimeringsinställningar och vilka resultat du kan förvänta dig, se guiden om __COMPRESS_QUALITY_GUIDE_LINK__.',
+
+  'conclusion-heading' => 'Sammanfattning',
+  'conclusion-p1' => 'Att slå ihop PDF-filer är en av de enklaste dokumentuppgifterna när du väl känner till rätt verktyg för din situation. För de flesta människor löser det gratis webbläsarbaserade verktyget hos PDFTools uppgiften på under två minuter utan att någon programvara behövs. Mac-användare har den extra fördelen av Previews dra-och-släpp-gränssnitt som håller allt lokalt. Adobe Acrobat Pro är rätt val när du behöver finkontroll över vilka sidor från varje källfil som ska ingå i resultatet.',
+  'conclusion-p2' => 'Om den sammanslagna filen är för stor för att skickas via e-post efter sammanslagningen minskar __COMPRESS_LINK__ hos PDFTools storleken snabbt. För att konvertera det sammanslagna dokumentet till ett redigerbart format finns __WORD_LINK__ tillgängligt gratis hos PDFTools.',
+
+  'faq-heading' => 'Vanliga frågor',
+  'faq1-q' => 'Kan jag slå ihop lösenordsskyddade PDF-filer?',
+  'faq1-a' => 'Ja, men du behöver rätt lösenord för varje skyddad fil. De flesta sammanslagningsverktyg ber dig ange lösenordet när du laddar upp en skyddad PDF. När den väl är upplåst fortsätter sammanslagningen som vanligt. Den resulterande PDF-filen ärver inte lösenordsskyddet från källfilerna om du inte lägger till det separat.',
+  'faq2-q' => 'Försämrar sammanslagning av PDF-filer kvaliteten?',
+  'faq2-a' => 'Nej. Sammanslagning är en strukturell åtgärd som kombinerar sidor utan att rendera om något innehåll. Bilderna, typsnitten och formateringen på varje sida är identiska i resultatet med det som fanns i källfilen. Ingen komprimering eller kvalitetsförsämring sker under själva sammanslagningsprocessen.',
+  'faq3-q' => 'Finns det en gräns för hur många PDF-filer jag kan slå ihop åt gången?',
+  'faq3-a' => 'För onlineverktyget hos PDFTools finns det inga angivna gränser för antalet filer eller den totala filstorleken. För skrivbordsverktyg som Preview eller Acrobat är den enda begränsningen datorns tillgängliga minne.',
+  'faq4-q' => 'Kan jag slå ihop bara specifika sidor från varje PDF istället för hela filer?',
+  'faq4-a' => 'Ja. Adobe Acrobat Pro låter dig välja specifika sidor från varje källfil under Combine Files-processen. Preview på Mac låter dig dra enskilda sidminiatyrer istället för hela filer. I onlineverktyget slår du ihop hela filerna och använder sedan delningsverktyget för att ta bort de sidor du inte behöver.',
+  'faq5-q' => 'Varför ser min sammanslagna PDF-fil annorlunda ut jämfört med originalen?',
+  'faq5-a' => 'Detta händer sällan med högkvalitativa verktyg. Om det ändå inträffar beror det oftast på typsnittsersättning, när ett typsnitt inbäddat i en källfil krockar med typsnittsdata i en annan. I Adobe Acrobat Pro kan PDF Optimizer hjälpa till att normalisera typsnittsdata över hela det sammanslagna resultatet.',
+);

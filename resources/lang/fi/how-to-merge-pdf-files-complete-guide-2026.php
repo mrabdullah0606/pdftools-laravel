@@ -1,0 +1,78 @@
+<?php
+
+return array (
+  'title' => 'Näin yhdistät PDF-tiedostot: Täydellinen ilmainen opas vuodelle 2026',
+  'description' => 'Opi yhdistämään PDF-tiedostoja ilmaiseksi vuonna 2026. Yhdistä useita asiakirjoja yhdeksi tiedostoksi pitäen sivut järjestyksessä ja helposti jaettavina. Yhdistä PDF-tiedostosi jo tänään!',
+  'main-heading' => 'Näin yhdistät PDF-tiedostot: Täydellinen ilmainen opas vuodelle 2026',
+
+  'intro-heading' => 'Kun sinulla on liikaa tiedostoja ja tarvitset yhden asiakirjan',
+  'intro-p1' => 'Jokainen, joka on koonnut projektiehdotuksen, apurahahakemuksen, asiakasraportin tai vaikka vain yksinkertaisen ohjesarjan, tuntee ongelman. Sisältö on hajallaan neljässä tai viidessä erillisessä PDF-tiedostossa. Sen pitäisi kuitenkin olla yhtenä siistinä asiakirjana, jonka vastaanottaja voi avata, selata ja tulostaa vaihtamatta tiedostosta toiseen.',
+  'intro-p2' => 'PDF-tiedostojen yhdistäminen on yksi yleisimmistä asiakirjatehtävistä työelämässä ja opiskelussa, ja se on myös yksi helpoimmista tehdä ilmaiseksi. Tämä opas kattaa kaikki luotettavat menetelmät, jotka ovat käytettävissä vuonna 2026, selainpohjaisista työkaluista, jotka eivät vaadi ohjelmistoja, työpöytäratkaisuihin, jotka pitävät tiedostosi täysin paikallisina. Oppaan lopussa tiedät, mikä menetelmä sopii tilanteeseesi, ja pystyt yhdistämään minkä tahansa PDF-joukon alle kahdessa minuutissa.',
+
+  'what-heading' => 'Mitä PDF-tiedostojen yhdistäminen todella tekee',
+  'what-p1' => 'Kun yhdistät PDF-tiedostoja, yhdistät useiden erillisten PDF-asiakirjojen sivut yhdeksi PDF-tiedostoksi. Lopputuloksen sivujärjestys vastaa järjestystä, jonka määrität yhdistämisen yhteydessä. Jokaisen sivun sisältö säilyy täsmälleen ennallaan, mukaan lukien kuvat, fontit, muotoilu ja interaktiiviset elementit kuten hyperlinkit.',
+  'what-p2' => 'Yhdistäminen ei muodosta tai käsittele sisältöä uudelleen. Se muistuttaa enemmän erillisten vihkojen sitomista yhdeksi niteeksi kuin kopiointia ja liittämistä. Tämä tarkoittaa, että lopputuloksen laatu vastaa täsmälleen lähdetiedostojen laatua, ja prosessi on häviötön.',
+
+  'method1-heading' => 'Menetelmä 1: PDFToolsin yhdistämistyökalu (ilmainen, ei ohjelmistoa)',
+  'method1-intro' => 'Nopein menetelmä useimmille on PDFToolsin ilmainen __MERGE_LINK__. Se hoitaa koko prosessin selaimessa ilman asennusta, tiliä tai tiedostokokorajoitusta.',
+  'method1-step1' => 'Avaa selaimesi ja siirry PDFToolsin PDF-yhdistämistyökaluun.',
+  'method1-step2' => 'Napsauta latausaluetta tai vedä PDF-tiedostosi suoraan sivulle. Voit ladata useita tiedostoja kerralla.',
+  'method1-step3' => 'Järjestä tiedostojen pienoiskuvat siihen järjestykseen, jonka haluat lopullisessa asiakirjassa.',
+  'method1-step4' => 'Napsauta Merge-painiketta ja odota käsittelyn valmistumista. Useimmat tiedostojoukot yhdistyvät alle 30 sekunnissa.',
+  'method1-step5' => 'Lataa yhdistetty PDF-tiedostosi. Kaikki alkuperäiset tiedostot laitteellasi pysyvät muuttumattomina.',
+  'method1-note' => 'Tiedostot poistetaan automaattisesti palvelimelta tunnin kuluttua, eikä rekisteröitymistä vaadita. Voit myös tuoda tiedostoja suoraan Google Drivestä tai Dropboxista, mikä on hyödyllistä, jos asiakirjasi ovat jo pilvipalvelussa. Lisätietoja suurten yhdistettyjen asiakirjojen hallinnasta löydät oppaasta __COMPRESS_GUIDE_LINK__.',
+
+  'method2-heading' => 'Menetelmä 2: Adobe Acrobat Reader Pro',
+  'method2-intro' => 'Jos sinulla on Adobe Acrobat Pro asennettuna, Combine Files -työkalu antaa sinulle parhaan hallinnan yhdistämiseen, mukaan lukien mahdollisuuden järjestää sivuja uudelleen, poimia tiettyjä sivuja kustakin lähdetiedostosta ja esikatsella yhdistelmää ennen viimeistelyä.',
+  'method2-step1' => 'Avaa Adobe Acrobat Pro.',
+  'method2-step2' => 'Siirry kohtaan Tools ja valitse Combine Files.',
+  'method2-step3' => 'Napsauta Add Files ja valitse jokainen PDF, jonka haluat yhdistää.',
+  'method2-step4' => 'Vedä tiedostopaneelit haluamaasi järjestykseen. Voit myös laajentaa kunkin tiedoston valitaksesi siitä tiettyjä sivuja koko asiakirjan sisällyttämisen sijaan.',
+  'method2-step5' => 'Napsauta Combine. Acrobat käsittelee tiedostot ja avaa yhdistetyn tuloksen.',
+  'method2-step6' => 'Tallenna yhdistetty tiedosto valitsemalla File ja sitten Save As.',
+  'method2-note' => 'Tämä menetelmä on erityisen hyödyllinen, kun haluat yhdistää vain valittuja sivuja kokonaisten asiakirjojen sijaan, tai kun työskentelet salasanasuojattujen tiedostojen kanssa, jotka vaativat todennuksen ennen yhdistämistä.',
+
+  'method3-heading' => 'Menetelmä 3: Preview Macissa (sisäänrakennettu, ei lataamista vaadita)',
+  'method3-intro' => 'Mac-käyttäjillä on käytössään tehokas ilmainen yhdistämisominaisuus, joka on sisäänrakennettu suoraan käyttöjärjestelmään Preview-sovelluksen kautta. Mitään ei tarvitse asentaa, eikä tiedostoja ladata minnekään.',
+  'method3-step1' => 'Avaa ensimmäinen PDF Previewssä.',
+  'method3-step2' => 'Siirry kohtaan View ja valitse Thumbnails näyttääksesi sivupaneelin vasemmalla.',
+  'method3-step3' => 'Avaa toinen PDF erillisessä Preview-ikkunassa.',
+  'method3-step4' => 'Valitse toisesta Preview-ikkunasta kaikki sivujen pienoiskuvat, jotka haluat lisätä. Voit valita kaikki komennolla Command+A tai napsauttaa yksittäisiä pienoiskuvia Command-näppäin pohjassa.',
+  'method3-step5' => 'Vedä valitut pienoiskuvat toisesta ikkunasta ensimmäisen ikkunan pienoiskuvapaneeliin. Pudota ne kohtaan, johon haluat niiden näkyvän.',
+  'method3-step6' => 'Toista sama muille lisättäville tiedostoille.',
+  'method3-step7' => 'Tallenna yhdistetty asiakirja valitsemalla File ja sitten Save.',
+  'method3-tip' => 'Vinkki: Previewssä voit myös järjestää sivuja uudelleen yhdistämisen jälkeen vetämällä pienoiskuvia paneelin sisällä sekä poistaa ei-toivotut sivut valitsemalla ne ja painamalla Delete.',
+
+  'method4-heading' => 'Menetelmä 4: Google Drive (ilmainen kaikille, joilla on Google-tili)',
+  'method4-intro' => 'Google Drive ei yhdistä PDF-tiedostoja suoraan, mutta yhdistettynä Google Docsiin se tarjoaa ilmaisen ratkaisun, joka toimii hyvin tekstipohjaisille PDF-tiedostoille.',
+  'method4-step1' => 'Lataa kaikki PDF-tiedostosi Google Driveen.',
+  'method4-step2' => 'Napsauta jokaista PDF-tiedostoa hiiren kakkospainikkeella ja avaa se Google Docsilla. Tämä muuntaa jokaisen PDF-tiedoston Google Doc -asiakirjaksi.',
+  'method4-step3' => 'Kopioi sisältö jokaisesta lisä-Google Docista ja liitä se ensimmäiseen.',
+  'method4-step4' => 'Lataa yhdistetty Google Doc PDF-muodossa valitsemalla File, sitten Download ja sitten PDF Document.',
+  'method4-note' => 'Tämä menetelmä toimii parhaiten tekstipainotteisille asiakirjoille. PDF-tiedostot, joissa on monimutkaisia asetteluja, kuvia tai mukautettuja fontteja, eivät välttämättä säilytä täydellistä muotoilua Google Docs -muunnoksen aikana.',
+
+  'order-heading' => 'Oikean sivujärjestyksen valitseminen ennen yhdistämistä',
+  'order-p1' => 'Yleisin virhe PDF-tiedostoja yhdistettäessä on se, ettei sivujärjestystä mietitä etukäteen. Muutaman minuutin suunnittelu säästää turhautumiselta, joka syntyy väärän sivujärjestyksen huomaamisesta vasta yhdistämisen jälkeen.',
+  'order-p2' => 'Moniosaisessa asiakirjassa järjestä tiedostot siinä järjestyksessä, jossa lukija kohtaisi ne: kansilehti, sisällysluettelo, pääosiot loogisessa järjestyksessä, liitteet, lähdeluettelo. Nimeä tiedostosi numeroilla alkuun, jos työkalu ei tue visuaalista uudelleenjärjestelyä, jotta ne lajittuvat oikein tiedostonimen mukaan.',
+  'order-p3' => 'Jos sivut päätyvät väärään järjestykseen yhdistämisen jälkeen, voit jakaa yhdistetyn PDF-tiedoston osiin, järjestää ne uudelleen ja yhdistää ne uudestaan käyttämällä __SPLIT_LINK__ yhdessä __MERGE_LINK__ kanssa.',
+
+  'size-heading' => 'Tiedostokoon hallinta yhdistetyissä PDF-tiedostoissa',
+  'size-p1' => 'PDF-tiedostojen yhdistäminen ei kasvata tiedostokokoa suuremmaksi kuin lähdetiedostojen yhteenlaskettu koko. Kuitenkin yhdistetty asiakirja, joka kokoaa neljä suurta tiedostoa, voi helposti kasvaa 40–50 megatavuun, mikä ylittää useimpien sähköpostiliitteiden kokorajat. Yhdistetyn tiedoston ajaminen PDFToolsin __COMPRESS_LINK__ läpi yhdistämisen jälkeen pienentää kokoa tyypillisesti 50–70 prosenttia ilman näkyvää laadun heikkenemistä näytöllä.',
+  'size-p2' => 'Täydellisen yhteenvedon pakkausasetuksista ja odotettavissa olevista tuloksista löydät oppaasta __COMPRESS_QUALITY_GUIDE_LINK__.',
+
+  'conclusion-heading' => 'Yhteenveto',
+  'conclusion-p1' => 'PDF-tiedostojen yhdistäminen on yksi yksinkertaisimmista asiakirjatehtävistä, kunhan tunnet tilanteeseesi sopivan työkalun. Useimmille ihmisille PDFToolsin ilmainen selainpohjainen työkalu hoitaa tehtävän alle kahdessa minuutissa ilman ohjelmistoja. Mac-käyttäjät saavat lisäksi Previewin vedä ja pudota -käyttöliittymän edut, jotka pitävät kaiken paikallisena. Adobe Acrobat Pro on oikea valinta, kun tarvitset tarkkaa hallintaa siihen, mitkä sivut kustakin lähdetiedostosta päätyvät lopputulokseen.',
+  'conclusion-p2' => 'Jos yhdistetty tiedosto on yhdistämisen jälkeen liian suuri lähetettäväksi sähköpostitse, PDFToolsin __COMPRESS_LINK__ pienentää sen nopeasti. Yhdistetyn asiakirjan muuntamiseen muokattavaan muotoon __WORD_LINK__ on saatavilla ilmaiseksi PDFToolsissa.',
+
+  'faq-heading' => 'Usein kysytyt kysymykset',
+  'faq1-q' => 'Voinko yhdistää salasanasuojattuja PDF-tiedostoja?',
+  'faq1-a' => 'Kyllä, mutta tarvitset oikean salasanan jokaiselle suojatulle tiedostolle. Useimmat yhdistämistyökalut pyytävät sinua syöttämään salasanan, kun lataat suojatun PDF-tiedoston. Kun tiedosto on avattu, yhdistäminen etenee normaalisti. Lopullinen PDF ei peri salasanasuojausta lähdetiedostoista, ellet lisää sitä erikseen.',
+  'faq2-q' => 'Heikentääkö yhdistäminen PDF-tiedostojen laatua?',
+  'faq2-a' => 'Ei. Yhdistäminen on rakenteellinen toimenpide, joka yhdistää sivut muodostamatta sisältöä uudelleen. Jokaisen sivun kuvat, fontit ja muotoilu ovat lopputuloksessa identtiset lähdetiedostossa oleviin nähden. Itse yhdistämisprosessin aikana ei tapahdu pakkaamista tai laadun heikkenemistä.',
+  'faq3-q' => 'Onko olemassa rajaa sille, kuinka monta PDF-tiedostoa voin yhdistää kerralla?',
+  'faq3-a' => 'PDFToolsin verkkotyökalussa ei ole ilmoitettuja rajoituksia tiedostojen määrälle tai kokonaistiedostokoolle. Työpöytätyökaluissa, kuten Previewssä tai Acrobatissa, ainoa rajoite on tietokoneesi käytettävissä oleva muisti.',
+  'faq4-q' => 'Voinko yhdistää vain tiettyjä sivuja kustakin PDF-tiedostosta kokonaisten tiedostojen sijaan?',
+  'faq4-a' => 'Kyllä. Adobe Acrobat Pro antaa sinun valita tiettyjä sivuja kustakin lähdetiedostosta Combine Files -prosessin aikana. Preview Macissa antaa sinun vetää yksittäisiä sivujen pienoiskuvia kokonaisten tiedostojen sijaan. Verkkotyökalussa yhdistä koko tiedostot ja käytä sitten jakotyökalua poistaaksesi sivut, joita et tarvitse.',
+  'faq5-q' => 'Miksi yhdistetty PDF-tiedostoni näyttää erilaiselta kuin alkuperäiset?',
+  'faq5-a' => 'Tämä on harvinaista laadukkailla työkaluilla. Jos näin käy, se johtuu yleensä fontin korvautumisesta, kun yhteen lähde-PDF:ään upotettu fontti on ristiriidassa toisen fonttitietojen kanssa. Adobe Acrobat Prossa PDF Optimizer voi auttaa yhtenäistämään fonttitiedot koko yhdistetyssä tuloksessa.',
+);

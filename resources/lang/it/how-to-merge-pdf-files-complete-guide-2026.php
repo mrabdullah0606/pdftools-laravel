@@ -1,0 +1,78 @@
+<?php
+
+return array (
+  'title' => 'Come unire file PDF: la guida gratuita completa per il 2026',
+  'description' => 'Scopri come unire file PDF gratuitamente nel 2026. Combina più documenti in un unico file mantenendo le pagine organizzate e facili da condividere. Unisci i tuoi PDF oggi stesso!',
+  'main-heading' => 'Come unire file PDF: la guida gratuita completa per il 2026',
+
+  'intro-heading' => 'Quando hai troppi file e ti serve un unico documento',
+  'intro-p1' => 'Chiunque abbia mai assemblato una proposta di progetto, una domanda di finanziamento, un report per un cliente o anche solo un semplice set di istruzioni conosce bene il problema. Il contenuto si trova in quattro o cinque file PDF separati. Ti serve un unico documento pulito che il destinatario possa aprire, scorrere e stampare senza dover passare da un file all\'altro.',
+  'intro-p2' => 'Unire i PDF è una delle attività documentali più comuni nella vita professionale e accademica, ed è anche una delle più semplici da svolgere gratuitamente. Questa guida copre tutti i metodi affidabili disponibili nel 2026, dagli strumenti basati su browser che non richiedono alcun software agli approcci desktop che mantengono i tuoi file completamente in locale. Alla fine saprai quale metodo si adatta meglio alla tua situazione e sarai in grado di unire qualsiasi gruppo di PDF in meno di due minuti.',
+
+  'what-heading' => 'Cosa fa realmente l\'unione di un PDF',
+  'what-p1' => 'Quando unisci dei file PDF, stai combinando le pagine di più documenti PDF separati in un unico file PDF. L\'ordine delle pagine nel risultato finale rispecchia l\'ordine che specifichi durante la combinazione. Il contenuto di ogni pagina viene mantenuto esattamente identico, comprese immagini, font, formattazione e qualsiasi elemento interattivo come i collegamenti ipertestuali.',
+  'what-p2' => 'L\'unione non ricrea né rielabora alcun contenuto. È più simile a rilegare fascicoli separati in un unico volume che a un copia e incolla. Questo significa che la qualità del risultato corrisponde esattamente a quella dei file di partenza, e il processo avviene senza alcuna perdita di qualità.',
+
+  'method1-heading' => 'Metodo 1: lo strumento di unione PDFTools (gratuito, senza software)',
+  'method1-intro' => 'Il metodo più rapido per la maggior parte delle persone è il __MERGE_LINK__ gratuito disponibile su PDFTools. Gestisce l\'intero processo direttamente nel browser, senza installazioni, account o limiti sulla dimensione dei file.',
+  'method1-step1' => 'Apri il tuo browser e vai allo strumento per unire PDF di PDFTools.',
+  'method1-step2' => 'Clicca sull\'area di caricamento oppure trascina i tuoi file PDF direttamente sulla pagina. Puoi caricare più file contemporaneamente.',
+  'method1-step3' => 'Trascina le miniature dei file per disporli nell\'ordine desiderato per il documento finale.',
+  'method1-step4' => 'Clicca sul pulsante Merge e attendi l\'elaborazione. La maggior parte dei set di file viene unita in meno di 30 secondi.',
+  'method1-step5' => 'Scarica il tuo PDF unito. Tutti i file originali sul tuo dispositivo restano invariati.',
+  'method1-note' => 'I file vengono eliminati automaticamente dal server dopo un\'ora e non è richiesta alcuna registrazione. Puoi anche importare i file direttamente da Google Drive o Dropbox, il che è utile quando i tuoi documenti sono già archiviati nel cloud. Per maggiori informazioni sulla gestione dei documenti uniti di grandi dimensioni, consulta la guida su __COMPRESS_GUIDE_LINK__.',
+
+  'method2-heading' => 'Metodo 2: Adobe Acrobat Reader Pro',
+  'method2-intro' => 'Se hai Adobe Acrobat Pro installato, lo strumento Combine Files ti offre il massimo controllo sull\'unione, inclusa la possibilità di riordinare le pagine, estrarre pagine specifiche da ciascun file di origine e visualizzare in anteprima il risultato prima di finalizzarlo.',
+  'method2-step1' => 'Apri Adobe Acrobat Pro.',
+  'method2-step2' => 'Vai su Tools e seleziona Combine Files.',
+  'method2-step3' => 'Clicca su Add Files e seleziona ciascun PDF che vuoi unire.',
+  'method2-step4' => 'Trascina i pannelli dei file per impostare l\'ordine. Puoi anche espandere ciascun file per selezionare pagine specifiche invece di includere l\'intero documento.',
+  'method2-step5' => 'Clicca su Combine. Acrobat elabora i file e apre il risultato unito.',
+  'method2-step6' => 'Salva il file unito tramite File e poi Save As.',
+  'method2-note' => 'Questo metodo è particolarmente utile quando devi unire solo alcune pagine selezionate anziché documenti interi, oppure quando lavori con file protetti da password che richiedono l\'autenticazione prima dell\'unione.',
+
+  'method3-heading' => 'Metodo 3: Preview su Mac (integrato, senza necessità di caricamento)',
+  'method3-intro' => 'Gli utenti Mac dispongono di una potente opzione di unione gratuita, integrata direttamente nel sistema operativo tramite l\'applicazione Preview. Non è necessario installare nulla e nessun file viene caricato da nessuna parte.',
+  'method3-step1' => 'Apri il primo PDF in Preview.',
+  'method3-step2' => 'Vai su View e seleziona Thumbnails per visualizzare il pannello delle pagine sulla sinistra.',
+  'method3-step3' => 'Apri il secondo PDF in una finestra Preview separata.',
+  'method3-step4' => 'Dalla seconda finestra Preview, seleziona tutte le miniature delle pagine che vuoi aggiungere. Puoi selezionarle tutte con Command+A oppure cliccare sulle singole miniature tenendo premuto Command.',
+  'method3-step5' => 'Trascina le miniature selezionate dalla seconda finestra al pannello delle miniature della prima finestra. Rilasciale nella posizione in cui vuoi che appaiano.',
+  'method3-step6' => 'Ripeti l\'operazione per eventuali file aggiuntivi.',
+  'method3-step7' => 'Salva il documento combinato tramite File e poi Save.',
+  'method3-tip' => 'Suggerimento: in Preview puoi anche riordinare le pagine dopo l\'unione trascinando le miniature all\'interno del pannello, ed eliminare le pagine indesiderate selezionandole e premendo Delete.',
+
+  'method4-heading' => 'Metodo 4: Google Drive (gratuito per chiunque abbia un account Google)',
+  'method4-intro' => 'Google Drive non unisce direttamente i PDF, ma combinandolo con Google Docs ottieni una soluzione gratuita che funziona bene per i PDF basati principalmente su testo.',
+  'method4-step1' => 'Carica tutti i tuoi PDF su Google Drive.',
+  'method4-step2' => 'Fai clic destro su ciascun PDF e aprilo con Google Docs. Questo converte ogni PDF in un documento Google Docs.',
+  'method4-step3' => 'Copia il contenuto di ogni documento Google Docs aggiuntivo e incollalo nel primo.',
+  'method4-step4' => 'Scarica il documento Google Docs combinato come PDF tramite File, poi Download, poi PDF Document.',
+  'method4-note' => 'Questo metodo funziona meglio per documenti prevalentemente testuali. I PDF con layout complessi, immagini o font personalizzati potrebbero non mantenere una formattazione perfetta durante la conversione tramite Google Docs.',
+
+  'order-heading' => 'Scegliere l\'ordine giusto delle pagine prima di unire',
+  'order-p1' => 'L\'errore più comune quando si uniscono i PDF è non pianificare l\'ordine delle pagine prima di iniziare. Qualche minuto di pianificazione evita la frustrazione di scoprire l\'ordine sbagliato delle pagine dopo che l\'unione è già completata.',
+  'order-p2' => 'Per un documento con più sezioni, disponi i file nell\'ordine in cui un lettore li incontrerebbe: copertina, indice, sezioni principali in sequenza logica, appendici, riferimenti. Se lo strumento non supporta il riordino visivo, assegna ai file dei numeri all\'inizio del nome, in modo che vengano ordinati correttamente in base al nome del file.',
+  'order-p3' => 'Se ti ritrovi con le pagine nell\'ordine sbagliato dopo l\'unione, puoi dividere il PDF unito in sezioni, riordinarle e unirle nuovamente usando il __SPLIT_LINK__ insieme al __MERGE_LINK__.',
+
+  'size-heading' => 'Gestire la dimensione dei file nei PDF uniti',
+  'size-p1' => 'Unire i PDF non aumenta la dimensione del file oltre la somma delle dimensioni dei file di partenza. Tuttavia, un documento unito che combina quattro file di grandi dimensioni può facilmente raggiungere i 40 o 50 MB, superando la maggior parte dei limiti per gli allegati email. Far passare il file unito attraverso il __COMPRESS_LINK__ di PDFTools dopo l\'unione riduce tipicamente le dimensioni del 50-70 percento senza alcun cambiamento visibile della qualità sullo schermo.',
+  'size-p2' => 'Per una panoramica completa delle impostazioni di compressione e dei risultati attesi, consulta la guida su __COMPRESS_QUALITY_GUIDE_LINK__.',
+
+  'conclusion-heading' => 'Conclusione',
+  'conclusion-p1' => 'Unire i PDF è una delle attività documentali più semplici, una volta che conosci lo strumento giusto per la tua situazione. Per la maggior parte delle persone, lo strumento gratuito basato su browser di PDFTools svolge il compito in meno di due minuti senza bisogno di alcun software. Gli utenti Mac hanno il vantaggio aggiuntivo dell\'interfaccia drag-and-drop di Preview, che mantiene tutto in locale. Adobe Acrobat Pro è la scelta giusta quando hai bisogno di un controllo preciso su quali pagine di ciascun file di origine compaiono nel risultato finale.',
+  'conclusion-p2' => 'Dopo l\'unione, se il file combinato è troppo grande per essere inviato via email, il __COMPRESS_LINK__ di PDFTools lo riduce rapidamente. Per convertire il documento unito in un formato modificabile, il __WORD_LINK__ è disponibile gratuitamente su PDFTools.',
+
+  'faq-heading' => 'Domande frequenti',
+  'faq1-q' => 'Posso unire PDF protetti da password?',
+  'faq1-a' => 'Sì, ma è necessaria la password corretta per ogni file protetto. La maggior parte degli strumenti di unione ti chiederà di inserire la password quando carichi un PDF protetto. Una volta sbloccato, l\'unione procede normalmente. Il PDF risultante non erediterà la protezione tramite password dei file di origine, a meno che tu non la aggiunga separatamente.',
+  'faq2-q' => 'Unire i PDF ne riduce la qualità?',
+  'faq2-a' => 'No. L\'unione è un\'operazione strutturale che combina le pagine senza rielaborare alcun contenuto. Le immagini, i font e la formattazione di ogni pagina sono identici nel risultato a quelli presenti nel file di origine. Durante il processo di unione stesso non avviene alcuna compressione o riduzione della qualità.',
+  'faq3-q' => 'C\'è un limite al numero di PDF che posso unire contemporaneamente?',
+  'faq3-a' => 'Per lo strumento online di PDFTools, non ci sono limiti dichiarati sul numero di file o sulla dimensione totale. Per gli strumenti desktop come Preview o Acrobat, l\'unico limite è la memoria disponibile del tuo computer.',
+  'faq4-q' => 'Posso unire solo pagine specifiche di ciascun PDF anziché i file interi?',
+  'faq4-a' => 'Sì. Adobe Acrobat Pro ti permette di selezionare pagine specifiche da ciascun file di origine durante il processo Combine Files. Preview su Mac ti permette di trascinare singole miniature di pagina anziché file interi. Con lo strumento online, unisci i file completi e poi usa lo strumento di divisione per rimuovere le pagine che non ti servono.',
+  'faq5-q' => 'Perché il mio PDF unito appare diverso dagli originali?',
+  'faq5-a' => 'Questo accade raramente con strumenti di qualità elevata. Se succede, di solito è causato da una sostituzione dei font, quando un font incorporato in un PDF di origine è in conflitto con i dati dei font di un altro. In Adobe Acrobat Pro, il PDF Optimizer può aiutare a normalizzare i dati dei font in tutto il risultato unito.',
+);

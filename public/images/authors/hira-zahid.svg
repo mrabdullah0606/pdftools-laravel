@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100" height="100">
+  <defs>
+    <linearGradient id="g-hira" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#6d28d9" />
+      <stop offset="100%" stop-color="#a78bfa" />
+    </linearGradient>
+  </defs>
+  <circle cx="50" cy="50" r="50" fill="url(#g-hira)" />
+  <path d="M50,23 C56,23 60,27 60,34 C60,40 56,44 52,46.5 C51,47.2 50.5,48.2 50.5,49.2 C50.5,50 50,50.5 49,50.5 C48,50.5 47.5,50 47.5,49.2 C47.5,48.2 47,47.2 46,46.5 C42,44 38,40 38,34 C38,27 42,23 50,23 Z M50,56 C68,56 83,67 83,80.5 L17,80.5 C17,67 32,56 50,56 Z" fill="#ffffff" opacity="0.9" />
+</svg>

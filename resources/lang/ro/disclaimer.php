@@ -1,0 +1,25 @@
+<?php
+
+return array (
+  'title' => 'Declinare a răspunderii - PDFTools.net',
+  'description' => 'Citiți declinarea răspunderii pentru a înțelege termenii și limitările utilizării serviciilor și instrumentelor PDFTools.net.',
+  'hero-title' => 'Disclaimer',
+  'hero-subtitle' => 'Informații importante despre utilizarea serviciilor noastre',
+  'intro-text' => 'Informațiile și instrumentele oferite pe ',
+  'a' => 'pdftools.net',
+  'intro-text2' => '(„Site-ul”) sunt destinate doar informațiilor generale și utilizării practice. Tot conținutul și instrumentele de pe Site sunt oferite cu bună-credință. Cu toate acestea, nu garantăm acuratețea, fiabilitatea, completitudinea sau adecvarea oricărei informații sau instrumente disponibile pe Site. Utilizatorii trebuie să înțeleagă că Site-ul poate conține erori sau omisiuni.',
+  'service-as-is-title' => 'Serviciul oferit așa cum este',
+  'service-as-is-text' => 'Toate serviciile de pe Site sunt furnizate pe baza „CA AȘA ESTE” și „AȘAT DISPONIBIL”. Site-ul și instrumentele sale vin cu toate defecțiunile, defectele sau limitările. Nicio garanție nu este exprimată sau implicită. PDF Tools nu face nicio promisiune cu privire la performanța, rezultatele sau fiabilitatea instrumentelor. Utilizatorii acceptă întreaga responsabilitate pentru utilizarea Site-ului. Site-ul nu garantează accesul neîntrerupt, funcționarea fără erori sau că fișierele procesate cu instrumentele vor fi lipsite de erori.',
+  'liability-title' => 'Limitarea răspunderii',
+  'liability-text' => 'PDFTools.net și afiliații săi nu sunt răspunzători pentru nicio pierdere sau daune care pot apărea în urma utilizării Site-ului. Aceasta include pierderea de date, coruperea fișierelor sau alte probleme cauzate de utilizarea instrumentelor. Utilizatorii sunt de acord că orice încredere în informațiile sau instrumentele Site-ului este pe propriul risc. Nu suntem responsabili pentru orice consecințe financiare, tehnice sau personale care pot apărea din utilizarea Site-ului.',
+  'external-links-title' => 'Legături externe',
+  'external-links-text' => 'Site-ul poate include link-uri către site-uri web și conținut furnizat de terți. PDFTools.net nu examinează și nu monitorizează aceste site-uri web ale terților. Nu este garantată acuratețea, completitudinea sau fiabilitatea conținutului de pe site-urile conectate. Utilizatorii ar trebui să înțeleagă că aceste link-uri sunt oferite doar pentru comoditate. PDFTools.net nu susține, nu garantează și nu își asumă responsabilitatea pentru nicio informație de pe site-uri web externe.',
+  'no-advice-title' => 'Fără sfaturi profesionale',
+  'no-advice-text' => 'Informațiile furnizate pe Site sunt destinate numai cunoștințelor generale. Utilizarea Site-ului și a instrumentelor sale nu creează o relație profesională între utilizatori și PDFTools.net. Utilizatorii nu ar trebui să își bazeze deciziile legale, de afaceri sau de altă natură doar pe conținutul disponibil pe Site. Cereți întotdeauna sfatul unui profesionist calificat pentru întrebări sau preocupări specifice.',
+  'user-responsibility-title' => 'Responsabilitatea utilizatorului',
+  'user-responsibility-text' => 'Utilizatorii sunt responsabili pentru a se asigura că toate fișierele pe care le încarcă sau le procesează prin intermediul Site-ului respectă legile aplicabile. PDFTools.net nu verifică legalitatea sau siguranța fișierelor încărcate de utilizatori. Site-ul trebuie utilizat în mod responsabil și în limitele raționamentului personal și profesional.',
+  'agreement-notice-text' => 'Prin utilizarea',
+  'agreement-notice-text2' => 'utilizatorii sunt de acord cu această declinare a răspunderii. Utilizatorii acceptă termenii și înțeleg că PDFTools.net nu oferă garanții. Utilizatorii recunosc că folosesc Site-ul pe propriul risc și sunt singurii responsabili pentru rezultate. Tot conținutul și instrumentele de pe Site trebuie utilizate cu atenție și ținând cont de posibilele erori sau limitări.',
+  'titles' => 'PDFTools.net Disclaimer – Informații importante pentru utilizarea în siguranță a instrumentului',
+  'descriptions' => 'Citiți declinarea răspunderii oficiale pentru PDFTools.net pentru a înțelege cum funcționează instrumentele noastre, limitările de utilizare și responsabilitățile utilizatorului. Rămâneți informat și utilizați serviciile noastre cu încredere și responsabilitate.',
+);

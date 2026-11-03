@@ -1,0 +1,25 @@
+<?php
+
+return array (
+  'title' => 'Penafian - pdftools.net',
+  'description' => 'Baca penafian kami untuk memahami terma dan batasan menggunakan perkhidmatan dan alat pdftools.net.',
+  'hero-title' => 'Penafian',
+  'hero-subtitle' => 'Maklumat penting mengenai penggunaan perkhidmatan kami',
+  'intro-text' => 'Maklumat dan alat yang disediakan di ',
+  'a' => 'pdftools.net',
+  'intro-text2' => '("Laman") hanya bertujuan untuk maklumat umum dan penggunaan praktikal. Semua kandungan dan alat di laman web ini ditawarkan dengan niat baik. Walau bagaimanapun, kami tidak menjamin ketepatan, kebolehpercayaan, kesempurnaan, atau kesesuaian sebarang maklumat atau alat yang terdapat di Laman ini. Pengguna harus memahami bahawa laman web ini mungkin mengandungi kesilapan atau ketinggalan.',
+  'service-as-is-title' => 'Perkhidmatan yang disediakan seperti itu',
+  'service-as-is-text' => 'Semua perkhidmatan di laman web ini disediakan pada asas "seperti" dan "tersedia". Tapak dan alatnya datang dengan semua kesalahan, kecacatan, atau batasan. Tiada jaminan dinyatakan atau tersirat. Alat PDF tidak membuat sebarang janji mengenai prestasi, hasil, atau kebolehpercayaan alat. Pengguna menerima tanggungjawab penuh untuk menggunakan Laman ini. Laman ini tidak menjamin akses yang tidak terganggu, operasi bebas bug, atau fail yang diproses dengan alat akan bebas daripada kesilapan.',
+  'liability-title' => 'Batasan liabiliti',
+  'liability-text' => 'Pdftools.net dan gabungannya tidak bertanggungjawab terhadap sebarang kerugian atau kerosakan yang mungkin berlaku daripada menggunakan Laman ini. Ini termasuk kehilangan data, rasuah fail, atau masalah lain yang disebabkan oleh menggunakan alat. Pengguna bersetuju bahawa sebarang pergantungan pada maklumat atau alat Laman adalah sepenuhnya risiko mereka sendiri. Kami tidak bertanggungjawab untuk sebarang kesan kewangan, teknikal, atau peribadi yang mungkin timbul daripada menggunakan Laman ini.',
+  'external-links-title' => 'Pautan luaran',
+  'external-links-text' => 'Laman ini mungkin termasuk pautan ke laman web dan kandungan yang disediakan oleh pihak ketiga. Pdftools.net tidak mengkaji atau memantau laman web pihak ketiga ini. Ketepatan, kesempurnaan, atau kebolehpercayaan kandungan di tapak yang dipautkan tidak dijamin. Pengguna harus memahami bahawa pautan ini hanya ditawarkan untuk kemudahan. Pdftools.net tidak menyokong, menjamin, atau bertanggungjawab untuk sebarang maklumat di laman web luaran.',
+  'no-advice-title' => 'Tiada nasihat profesional',
+  'no-advice-text' => 'Maklumat yang diberikan di Laman ini bertujuan untuk pengetahuan umum sahaja. Penggunaan tapak dan alatnya tidak mewujudkan hubungan profesional antara pengguna dan pdftools.net. Pengguna tidak boleh mendasarkan undang -undang, perniagaan, atau keputusan lain semata -mata pada kandungan yang terdapat di Laman ini. Sentiasa dapatkan nasihat daripada profesional yang berkelayakan untuk soalan atau kebimbangan tertentu.',
+  'user-responsibility-title' => 'Tanggungjawab pengguna',
+  'user-responsibility-text' => 'Pengguna bertanggungjawab untuk memastikan bahawa sebarang fail yang mereka muat naik atau diproses melalui Laman ini mematuhi undang -undang yang berkenaan. Pdftools.net tidak menyemak kesahihan atau keselamatan fail yang dimuat naik oleh pengguna. Laman ini harus digunakan secara bertanggungjawab dan dalam batas penghakiman peribadi dan profesional.',
+  'agreement-notice-text' => 'Dengan menggunakan',
+  'agreement-notice-text2' => 'Pengguna bersetuju dengan penafian ini. Pengguna menerima terma dan memahami bahawa pdftools.net tidak memberikan jaminan. Pengguna mengakui bahawa mereka menggunakan laman web ini dengan risiko mereka sendiri dan bertanggungjawab sepenuhnya untuk hasilnya. Semua kandungan dan alat di Laman ini harus digunakan dengan teliti dan dengan pertimbangan kemungkinan kesalahan atau batasan.',
+  'titles' => 'PDFTOOLS.NET Penafian - Maklumat Penting untuk Penggunaan Alat Selamat',
+  'descriptions' => 'Baca penafian rasmi untuk pdftools.net untuk memahami bagaimana alat kami berfungsi, batasan penggunaan, dan tanggungjawab pengguna. Tetap dimaklumkan dan gunakan perkhidmatan kami dengan yakin dan bertanggungjawab.',
+);

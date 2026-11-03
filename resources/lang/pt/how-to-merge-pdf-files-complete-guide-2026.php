@@ -1,0 +1,78 @@
+<?php
+
+return array (
+  'title' => 'Como Mesclar Arquivos PDF: Guia Gratuito Completo para 2026',
+  'description' => 'Aprenda a mesclar arquivos PDF gratuitamente em 2026. Combine vários documentos em um único arquivo mantendo as páginas organizadas e fáceis de compartilhar. Mescle seus PDFs hoje mesmo!',
+  'main-heading' => 'Como Mesclar Arquivos PDF: O Guia Gratuito Completo para 2026',
+
+  'intro-heading' => 'Quando Você Tem Muitos Arquivos e Precisa de Um Único Documento',
+  'intro-p1' => 'Quem já montou uma proposta de projeto, um pedido de bolsa, um relatório para um cliente ou até mesmo um conjunto simples de instruções conhece o problema. O conteúdo está espalhado em quatro ou cinco arquivos PDF separados. Você precisa dele em um único documento organizado, que o destinatário possa abrir, rolar e imprimir sem precisar alternar entre arquivos.',
+  'intro-p2' => 'Mesclar PDFs é uma das tarefas mais comuns com documentos na vida profissional e acadêmica, e também uma das mais fáceis de fazer gratuitamente. Este guia cobre todos os métodos confiáveis disponíveis em 2026, desde ferramentas baseadas em navegador que não exigem instalação até abordagens de desktop que mantêm seus arquivos totalmente locais. Ao final, você saberá qual método se encaixa melhor na sua situação e será capaz de mesclar qualquer conjunto de PDFs em menos de dois minutos.',
+
+  'what-heading' => 'O Que a Mesclagem de um PDF Realmente Faz',
+  'what-p1' => 'Ao mesclar arquivos PDF, você está combinando as páginas de vários documentos PDF separados em um único arquivo PDF. A ordem das páginas no resultado corresponde à ordem que você especifica ao combiná-las. O conteúdo de cada página é preservado exatamente, incluindo imagens, fontes, formatação e quaisquer elementos interativos, como hiperlinks.',
+  'what-p2' => 'A mesclagem não renderiza nem reprocessa nenhum conteúdo. É um processo mais parecido com encadernar folhetos separados em um único volume do que com copiar e colar. Isso significa que a qualidade do resultado corresponde à qualidade dos arquivos de entrada, e o processo não tem perdas.',
+
+  'method1-heading' => 'Método 1: Ferramenta de Mesclagem da PDFTools (Gratuita, Sem Software)',
+  'method1-intro' => 'O método mais rápido para a maioria das pessoas é o __MERGE_LINK__ gratuito da PDFTools. Ele cuida de todo o processo em um navegador, sem instalação, conta ou limite de tamanho de arquivo.',
+  'method1-step1' => 'Abra o navegador e acesse a ferramenta de mesclagem de PDF da PDFTools.',
+  'method1-step2' => 'Clique na área de upload ou arraste seus arquivos PDF diretamente para a página. Você pode enviar vários arquivos de uma vez.',
+  'method1-step3' => 'Arraste as miniaturas dos arquivos para organizá-los na ordem em que deseja que apareçam no documento final.',
+  'method1-step4' => 'Clique no botão Mesclar e aguarde o processamento. A maioria dos conjuntos de arquivos é combinada em menos de 30 segundos.',
+  'method1-step5' => 'Baixe seu PDF mesclado. Todos os arquivos originais no seu dispositivo permanecem inalterados.',
+  'method1-note' => 'Os arquivos são excluídos automaticamente do servidor após uma hora e nenhum cadastro é necessário. Você também pode importar arquivos diretamente do Google Drive ou do Dropbox, o que é útil quando seus documentos já estão armazenados na nuvem. Para saber mais sobre como gerenciar documentos mesclados grandes, veja o guia sobre __COMPRESS_GUIDE_LINK__.',
+
+  'method2-heading' => 'Método 2: Adobe Acrobat Reader Pro',
+  'method2-intro' => 'Se você tem o Adobe Acrobat Pro instalado, a ferramenta Combine Files oferece o maior controle sobre a mesclagem, incluindo a possibilidade de reorganizar páginas, extrair páginas específicas de cada arquivo de origem e pré-visualizar a mesclagem antes de finalizá-la.',
+  'method2-step1' => 'Abra o Adobe Acrobat Pro.',
+  'method2-step2' => 'Vá em Tools e selecione Combine Files.',
+  'method2-step3' => 'Clique em Add Files e selecione cada PDF que deseja mesclar.',
+  'method2-step4' => 'Arraste os painéis de arquivo para definir a ordem. Você também pode expandir cada arquivo para selecionar páginas específicas dele, em vez de incluir o documento inteiro.',
+  'method2-step5' => 'Clique em Combine. O Acrobat processa os arquivos e abre o resultado mesclado.',
+  'method2-step6' => 'Salve o arquivo mesclado em File e depois Save As.',
+  'method2-note' => 'Esse método é especialmente útil quando você precisa mesclar páginas selecionadas em vez de documentos inteiros, ou ao trabalhar com arquivos protegidos por senha que exigem autenticação antes da mesclagem.',
+
+  'method3-heading' => 'Método 3: Preview no Mac (Nativo, Sem Necessidade de Upload)',
+  'method3-intro' => 'Os usuários de Mac têm uma poderosa opção gratuita de mesclagem integrada diretamente ao sistema operacional, por meio do aplicativo Preview. Não é preciso instalar nada e nenhum arquivo é enviado para lugar algum.',
+  'method3-step1' => 'Abra o primeiro PDF no Preview.',
+  'method3-step2' => 'Vá em View e selecione Thumbnails para exibir o painel de páginas à esquerda.',
+  'method3-step3' => 'Abra o segundo PDF em uma janela separada do Preview.',
+  'method3-step4' => 'Na segunda janela do Preview, selecione todas as miniaturas de página que deseja adicionar. Você pode selecionar tudo com Command+A ou clicar em miniaturas individuais mantendo o Command pressionado.',
+  'method3-step5' => 'Arraste as miniaturas selecionadas da segunda janela para o painel de miniaturas da primeira janela. Solte-as na posição em que deseja que apareçam.',
+  'method3-step6' => 'Repita o processo para arquivos adicionais.',
+  'method3-step7' => 'Salve o documento combinado em File e depois Save.',
+  'method3-tip' => 'Dica: no Preview você também pode reordenar as páginas depois de mesclá-las, arrastando as miniaturas dentro do painel, e excluir páginas indesejadas selecionando-as e pressionando Delete.',
+
+  'method4-heading' => 'Método 4: Google Drive (Gratuito para Qualquer Pessoa com uma Conta Google)',
+  'method4-intro' => 'O Google Drive não mescla PDFs diretamente, mas combiná-lo com o Google Docs oferece uma solução alternativa gratuita que funciona bem para PDFs baseados em texto.',
+  'method4-step1' => 'Envie todos os seus PDFs para o Google Drive.',
+  'method4-step2' => 'Clique com o botão direito em cada PDF e abra-o com o Google Docs. Isso converte cada PDF em um documento do Google.',
+  'method4-step3' => 'Copie o conteúdo de cada documento adicional do Google e cole-o no primeiro.',
+  'method4-step4' => 'Baixe o documento combinado do Google como PDF em File, depois Download e depois PDF Document.',
+  'method4-note' => 'Esse método funciona melhor para documentos com muito texto. PDFs com layouts complexos, imagens ou fontes personalizadas podem não manter a formatação perfeita após a conversão pelo Google Docs.',
+
+  'order-heading' => 'Escolhendo a Ordem Certa das Páginas Antes de Mesclar',
+  'order-p1' => 'O erro mais comum ao mesclar PDFs é não pensar na ordem das páginas antes de começar. Alguns minutos de planejamento evitam a frustração de descobrir a ordem errada das páginas depois que a mesclagem já está concluída.',
+  'order-p2' => 'Para um documento com várias seções, organize os arquivos na ordem em que um leitor os encontraria: capa, sumário, seções principais em sequência lógica, apêndices e referências. Nomeie seus arquivos com números no início se a ferramenta não permitir reordenação visual, para que sejam classificados corretamente pelo nome do arquivo.',
+  'order-p3' => 'Se você acabar com páginas na ordem errada após a mesclagem, pode dividir o PDF mesclado em seções, reordená-las e mesclar novamente usando o __SPLIT_LINK__ junto com o __MERGE_LINK__.',
+
+  'size-heading' => 'Gerenciando o Tamanho do Arquivo em PDFs Mesclados',
+  'size-p1' => 'Mesclar PDFs não aumenta o tamanho do arquivo além da soma dos arquivos de entrada. No entanto, um documento mesclado que combina quatro arquivos grandes pode facilmente chegar a 40 ou 50 MB, o que excede a maioria dos limites de anexo de e-mail. Passar o arquivo mesclado pelo __COMPRESS_LINK__ da PDFTools depois de mesclá-lo normalmente reduz o tamanho entre 50 e 70 por cento, sem nenhuma mudança visível na qualidade na tela.',
+  'size-p2' => 'Para uma explicação completa das configurações de compressão e dos resultados que você pode esperar, veja o guia sobre __COMPRESS_QUALITY_GUIDE_LINK__.',
+
+  'conclusion-heading' => 'Conclusão',
+  'conclusion-p1' => 'Mesclar PDFs é uma das tarefas mais simples com documentos, desde que você conheça a ferramenta certa para a sua situação. Para a maioria das pessoas, a ferramenta gratuita baseada em navegador da PDFTools resolve o trabalho em menos de dois minutos, sem necessidade de software. Os usuários de Mac contam com a conveniência adicional da interface de arrastar e soltar do Preview, que mantém tudo local. O Adobe Acrobat Pro é a escolha certa quando você precisa de controle preciso sobre quais páginas de cada arquivo de origem devem aparecer no resultado final.',
+  'conclusion-p2' => 'Depois de mesclar, se o arquivo combinado for grande demais para enviar por e-mail, o __COMPRESS_LINK__ da PDFTools reduz rapidamente o seu tamanho. Para converter o documento mesclado em um formato editável, o __WORD_LINK__ está disponível gratuitamente na PDFTools.',
+
+  'faq-heading' => 'Perguntas Frequentes',
+  'faq1-q' => 'Posso mesclar PDFs protegidos por senha?',
+  'faq1-a' => 'Sim, mas você precisa da senha correta de cada arquivo protegido. A maioria das ferramentas de mesclagem solicitará que você digite a senha ao enviar um PDF protegido. Uma vez desbloqueado, a mesclagem prossegue normalmente. O PDF resultante não herda a proteção por senha dos arquivos de origem, a menos que você a adicione separadamente.',
+  'faq2-q' => 'Mesclar PDFs reduz a qualidade deles?',
+  'faq2-a' => 'Não. A mesclagem é uma operação estrutural que combina páginas sem renderizar novamente nenhum conteúdo. As imagens, fontes e formatação de cada página são idênticas no resultado ao que estavam no arquivo de origem. Nenhuma compressão ou redução de qualidade ocorre durante o próprio processo de mesclagem.',
+  'faq3-q' => 'Existe um limite para quantos PDFs posso mesclar de uma vez?',
+  'faq3-a' => 'Na ferramenta online da PDFTools, não há limites definidos para o número de arquivos ou o tamanho total. Em ferramentas de desktop como o Preview ou o Acrobat, o único limite é a memória disponível do seu computador.',
+  'faq4-q' => 'Posso mesclar apenas páginas específicas de cada PDF, em vez dos arquivos inteiros?',
+  'faq4-a' => 'Sim. O Adobe Acrobat Pro permite selecionar páginas específicas de cada arquivo de origem durante o fluxo de trabalho do Combine Files. O Preview no Mac permite arrastar miniaturas de páginas individuais, em vez de arquivos inteiros. Na ferramenta online, mescle os arquivos completos e depois use a ferramenta de divisão para remover as páginas que não precisar.',
+  'faq5-q' => 'Por que meu PDF mesclado parece diferente dos originais?',
+  'faq5-a' => 'Isso raramente acontece com ferramentas de alta qualidade. Quando ocorre, geralmente é causado pela substituição de fontes, quando uma fonte incorporada em um PDF de origem entra em conflito com dados de fonte de outro. No Adobe Acrobat Pro, o PDF Optimizer pode ajudar a normalizar os dados de fonte em todo o resultado mesclado.',
+);

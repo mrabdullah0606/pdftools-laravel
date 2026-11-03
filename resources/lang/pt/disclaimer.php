@@ -1,0 +1,25 @@
+<?php
+
+return array (
+  'title' => 'Isenção de responsabilidade - PDFTools.net',
+  'description' => 'Leia nosso aviso de isenção de responsabilidade para compreender os termos e limitações de uso dos serviços e ferramentas PDFTools.net.',
+  'hero-title' => 'Isenção de responsabilidade',
+  'hero-subtitle' => 'Informações importantes sobre a utilização dos nossos serviços',
+  'intro-text' => 'As informações e ferramentas fornecidas em ',
+  'a' => 'pdftools.net',
+  'intro-text2' => '(o "Site") destinam-se apenas para informação geral e uso prático. Todo o conteúdo e ferramentas do Site são oferecidos de boa fé. No entanto, não garantimos a exatidão, confiabilidade, integridade ou adequação de qualquer informação ou ferramenta disponível no Site. Os usuários devem compreender que o Site pode conter erros ou omissões.',
+  'service-as-is-title' => 'Serviço fornecido como está',
+  'service-as-is-text' => 'Todos os serviços no Site são fornecidos “COMO ESTÃO” e “CONFORME DISPONÍVEIS”. O Site e suas ferramentas apresentam todas as falhas, defeitos ou limitações. Nenhuma garantia é expressa ou implícita. PDF Tools não faz nenhuma promessa em relação ao desempenho, resultados ou confiabilidade das ferramentas. Os usuários assumem total responsabilidade pela utilização do Site. O Site não garante acesso ininterrupto, funcionamento livre de bugs ou que os arquivos processados ​​com as ferramentas estarão livres de erros.',
+  'liability-title' => 'Limitação de responsabilidade',
+  'liability-text' => 'PDFTools.net e suas afiliadas não são responsáveis ​​por qualquer perda ou dano que possa ocorrer pelo uso do Site. Isso inclui perda de dados, corrupção de arquivos ou outros problemas causados ​​pelo uso das ferramentas. Os usuários concordam que qualquer confiança nas informações ou ferramentas do Site é por sua conta e risco. Não somos responsáveis ​​por quaisquer consequências financeiras, técnicas ou pessoais que possam surgir da utilização do Site.',
+  'external-links-title' => 'Links externos',
+  'external-links-text' => 'O Site pode incluir links para sites e conteúdos fornecidos por terceiros. PDFTools.net não revisa nem monitora esses sites de terceiros. A precisão, integridade ou confiabilidade do conteúdo dos sites vinculados não são garantidas. Os usuários devem compreender que esses links são oferecidos apenas por conveniência. PDFTools.net não endossa, garante ou assume responsabilidade por qualquer informação em sites externos.',
+  'no-advice-title' => 'Sem aconselhamento profissional',
+  'no-advice-text' => 'As informações fornecidas no Site destinam-se apenas ao conhecimento geral. A utilização do Site e de suas ferramentas não cria uma relação profissional entre os usuários e o PDFTools.net. Os usuários não devem basear decisões legais, comerciais ou outras exclusivamente no conteúdo disponível no Site. Sempre procure aconselhamento de um profissional qualificado para dúvidas ou preocupações específicas.',
+  'user-responsibility-title' => 'Responsabilidade do usuário',
+  'user-responsibility-text' => 'Os usuários são responsáveis ​​por garantir que quaisquer arquivos que carreguem ou processem através do Site cumpram as leis aplicáveis. PDFTools.net não verifica a legalidade ou segurança dos arquivos carregados pelos usuários. O Site deve ser utilizado de forma responsável e dentro dos limites do julgamento pessoal e profissional.',
+  'agreement-notice-text' => 'Usando',
+  'agreement-notice-text2' => 'os usuários concordam com esta isenção de responsabilidade. Os usuários aceitam os termos e entendem que PDFTools.net não oferece garantias. Os usuários reconhecem que utilizam o Site por sua própria conta e risco e são os únicos responsáveis ​​pelos resultados. Todo o conteúdo e ferramentas do Site devem ser usados ​​com cuidado e levando em consideração possíveis erros ou limitações.',
+  'titles' => 'Isenção de responsabilidade do PDFTools.net – informações importantes para o uso seguro da ferramenta',
+  'descriptions' => 'Leia o aviso oficial do PDFTools.net para entender como nossas ferramentas funcionam, limitações de uso e responsabilidades do usuário. Mantenha-se informado e utilize nossos serviços com confiança e responsabilidade.',
+);

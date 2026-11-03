@@ -1,0 +1,25 @@
+<?php
+
+return [
+    'title' => 'Kontak PDFTools.net - Kry ondersteuning binne 24 uur',
+    'description' => 'Kontak ons vir enige navrae. Ons span is 24/7 gereed om u te ondersteun.',
+    'Contact-us' => 'Kontak ons',
+    'We\'d-love' => 'Ons hoor graag van jou!',
+    'enter-your-name' => 'Voer jou Naam in',
+    'enter-email' => 'Voer e-pos in',
+    'enter-message' => 'Voer Boodskap in',
+    'send-message' => 'Stuur Boodskap',
+    'success_message' => 'Jou boodskap is suksesvol gestuur.',
+    'fail' => 'Kon nie boodskap stuur nie:',
+    'contact-methods' => 'Kontakmetodes',
+    'email-label' => 'E-pos ons',
+    'response-label' => 'Reaksie Tyd',
+    'response-value' => '< 24 Hours',
+    'hours-label' => 'Kantoorure',
+    'hours-value' => 'Mon-Fri 9am-6pm GMT',
+    'support-team' => 'Ondersteuningspan',
+    'support-lead-name' => 'Muhammad Abdullah',
+    'support-lead-role' => 'Kliëntsuksesspesialis',
+    'guarantee-label' => 'Reaksiewaarborg',
+    'guarantee-value' => 'Alle navrae beantwoord binne 24 uur',
+];

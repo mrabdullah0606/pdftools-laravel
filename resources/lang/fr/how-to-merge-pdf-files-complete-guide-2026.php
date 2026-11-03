@@ -1,0 +1,78 @@
+<?php
+
+return array (
+  'title' => 'Comment fusionner des fichiers PDF : le guide gratuit complet pour 2026',
+  'description' => 'Découvrez comment fusionner des fichiers PDF gratuitement en 2026. Combinez plusieurs documents en un seul fichier tout en gardant les pages organisées et faciles à partager. Fusionnez vos PDF dès aujourd\'hui !',
+  'main-heading' => 'Comment fusionner des fichiers PDF : le guide gratuit complet pour 2026',
+
+  'intro-heading' => 'Quand vous avez trop de fichiers et besoin d\'un seul document',
+  'intro-p1' => 'Quiconque a déjà assemblé une proposition de projet, une demande de subvention, un rapport client ou même un simple mode d\'emploi connaît ce problème. Le contenu se trouve dans quatre ou cinq fichiers PDF distincts. Vous avez besoin d\'un document unique et propre que le destinataire peut ouvrir, parcourir et imprimer sans avoir à jongler entre plusieurs fichiers.',
+  'intro-p2' => 'Fusionner des PDF est l\'une des tâches documentaires les plus courantes dans la vie professionnelle et académique, et c\'est aussi l\'une des plus simples à réaliser gratuitement. Ce guide couvre toutes les méthodes fiables disponibles en 2026, des outils en ligne qui ne nécessitent aucun logiciel aux approches de bureau qui gardent vos fichiers entièrement en local. À la fin, vous saurez quelle méthode convient à votre situation et serez capable de fusionner n\'importe quel ensemble de PDF en moins de deux minutes.',
+
+  'what-heading' => 'Ce que fait réellement la fusion d\'un PDF',
+  'what-p1' => 'Lorsque vous fusionnez des fichiers PDF, vous combinez les pages de plusieurs documents PDF distincts en un seul fichier PDF. L\'ordre des pages dans le résultat correspond à l\'ordre que vous définissez lors de la combinaison. Le contenu de chaque page est conservé exactement tel quel, y compris les images, les polices, la mise en forme et les éléments interactifs comme les liens hypertexte.',
+  'what-p2' => 'La fusion ne réencode ni ne retraite aucun contenu. Le processus s\'apparente davantage à relier des livrets séparés en un seul volume qu\'à un copier-coller. Cela signifie que la qualité du résultat correspond exactement à celle des fichiers d\'origine, et que le processus est sans perte.',
+
+  'method1-heading' => 'Méthode 1 : l\'outil de fusion PDFTools (gratuit, sans logiciel)',
+  'method1-intro' => 'La méthode la plus rapide pour la plupart des utilisateurs est le __MERGE_LINK__ gratuit proposé par PDFTools. Il gère l\'ensemble du processus directement dans le navigateur, sans installation, sans compte et sans limite de taille de fichier.',
+  'method1-step1' => 'Ouvrez votre navigateur et accédez à l\'outil de fusion PDF de PDFTools.',
+  'method1-step2' => 'Cliquez sur la zone de téléchargement ou glissez-déposez vos fichiers PDF directement sur la page. Vous pouvez téléverser plusieurs fichiers à la fois.',
+  'method1-step3' => 'Faites glisser les miniatures des fichiers pour les organiser dans l\'ordre souhaité pour le document final.',
+  'method1-step4' => 'Cliquez sur le bouton Fusionner et attendez le traitement. La plupart des ensembles de fichiers sont combinés en moins de 30 secondes.',
+  'method1-step5' => 'Téléchargez votre PDF fusionné. Tous les fichiers d\'origine sur votre appareil restent inchangés.',
+  'method1-note' => 'Les fichiers sont automatiquement supprimés du serveur au bout d\'une heure et aucune inscription n\'est requise. Vous pouvez également importer des fichiers directement depuis Google Drive ou Dropbox, ce qui est pratique lorsque vos documents sont déjà stockés dans le cloud. Pour en savoir plus sur la gestion des documents fusionnés volumineux, consultez le guide sur __COMPRESS_GUIDE_LINK__.',
+
+  'method2-heading' => 'Méthode 2 : Adobe Acrobat Reader Pro',
+  'method2-intro' => 'Si vous avez Adobe Acrobat Pro installé, l\'outil Combine Files vous offre le plus grand contrôle sur la fusion, notamment la possibilité de réorganiser les pages, d\'extraire des pages spécifiques de chaque fichier source et de prévisualiser la fusion avant de la finaliser.',
+  'method2-step1' => 'Ouvrez Adobe Acrobat Pro.',
+  'method2-step2' => 'Accédez à Tools et sélectionnez Combine Files.',
+  'method2-step3' => 'Cliquez sur Add Files et sélectionnez chaque PDF que vous souhaitez fusionner.',
+  'method2-step4' => 'Faites glisser les panneaux de fichiers pour définir l\'ordre. Vous pouvez également développer chaque fichier pour sélectionner des pages spécifiques plutôt que d\'inclure le document entier.',
+  'method2-step5' => 'Cliquez sur Combine. Acrobat traite les fichiers et ouvre le résultat fusionné.',
+  'method2-step6' => 'Enregistrez le fichier fusionné via File puis Save As.',
+  'method2-note' => 'Cette méthode est particulièrement utile lorsque vous devez fusionner des pages sélectionnées plutôt que des documents entiers, ou lorsque vous travaillez avec des fichiers protégés par mot de passe nécessitant une authentification avant la fusion.',
+
+  'method3-heading' => 'Méthode 3 : Preview sur Mac (intégré, sans téléversement requis)',
+  'method3-intro' => 'Les utilisateurs de Mac disposent d\'une option de fusion gratuite et puissante directement intégrée au système d\'exploitation via l\'application Preview. Aucune installation n\'est nécessaire et aucun fichier n\'est téléversé où que ce soit.',
+  'method3-step1' => 'Ouvrez le premier PDF dans Preview.',
+  'method3-step2' => 'Accédez à View et sélectionnez Thumbnails pour afficher le panneau de pages sur la gauche.',
+  'method3-step3' => 'Ouvrez le second PDF dans une fenêtre Preview distincte.',
+  'method3-step4' => 'Depuis la seconde fenêtre Preview, sélectionnez toutes les miniatures de pages que vous souhaitez ajouter. Vous pouvez tout sélectionner avec Command+A ou cliquer sur des miniatures individuelles en maintenant la touche Command enfoncée.',
+  'method3-step5' => 'Faites glisser les miniatures sélectionnées de la seconde fenêtre vers le panneau de miniatures de la première fenêtre. Déposez-les à l\'endroit où vous souhaitez qu\'elles apparaissent.',
+  'method3-step6' => 'Répétez l\'opération pour les fichiers supplémentaires.',
+  'method3-step7' => 'Enregistrez le document combiné via File puis Save.',
+  'method3-tip' => 'Astuce : dans Preview, vous pouvez également réorganiser les pages après la fusion en faisant glisser les miniatures dans le panneau, et supprimer les pages indésirables en les sélectionnant puis en appuyant sur Delete.',
+
+  'method4-heading' => 'Méthode 4 : Google Drive (gratuit pour tout titulaire d\'un compte Google)',
+  'method4-intro' => 'Google Drive ne fusionne pas directement les PDF, mais associé à Google Docs, il offre une solution gratuite qui fonctionne bien pour les PDF composés principalement de texte.',
+  'method4-step1' => 'Téléversez tous vos PDF sur Google Drive.',
+  'method4-step2' => 'Faites un clic droit sur chaque PDF et ouvrez-le avec Google Docs. Cela convertit chaque PDF en document Google Docs.',
+  'method4-step3' => 'Copiez le contenu de chaque document Google Docs supplémentaire et collez-le dans le premier.',
+  'method4-step4' => 'Téléchargez le document Google Docs combiné au format PDF via File puis Download puis PDF Document.',
+  'method4-note' => 'Cette méthode fonctionne mieux pour les documents essentiellement textuels. Les PDF avec des mises en page complexes, des images ou des polices personnalisées risquent de ne pas conserver une mise en forme parfaite lors de la conversion via Google Docs.',
+
+  'order-heading' => 'Choisir le bon ordre des pages avant de fusionner',
+  'order-p1' => 'L\'erreur la plus courante lors de la fusion de PDF est de ne pas réfléchir à l\'ordre des pages avant de commencer. Quelques minutes de planification évitent la frustration de découvrir un ordre de pages incorrect une fois la fusion terminée.',
+  'order-p2' => 'Pour un document à plusieurs sections, organisez les fichiers dans l\'ordre où un lecteur les rencontrerait : page de couverture, table des matières, sections principales dans un ordre logique, annexes, références. Nommez vos fichiers avec des chiffres au début si l\'outil ne prend pas en charge le réordonnancement visuel, afin qu\'ils se trient correctement par nom de fichier.',
+  'order-p3' => 'Si vous vous retrouvez avec des pages dans le mauvais ordre après la fusion, vous pouvez diviser le PDF fusionné en sections, les réorganiser, puis fusionner à nouveau en utilisant le __SPLIT_LINK__ avec le __MERGE_LINK__.',
+
+  'size-heading' => 'Gérer la taille des fichiers dans les PDF fusionnés',
+  'size-p1' => 'La fusion de PDF n\'augmente pas la taille du fichier au-delà de la taille combinée des fichiers d\'origine. Cependant, un document fusionné combinant quatre fichiers volumineux peut facilement atteindre 40 ou 50 Mo, ce qui dépasse la plupart des limites des pièces jointes d\'e-mail. Faire passer le fichier fusionné dans le __COMPRESS_LINK__ de PDFTools après la fusion réduit généralement la taille de 50 à 70 pour cent sans changement visible de la qualité à l\'écran.',
+  'size-p2' => 'Pour un aperçu détaillé des paramètres de compression et des résultats à attendre, consultez le guide sur __COMPRESS_QUALITY_GUIDE_LINK__.',
+
+  'conclusion-heading' => 'Conclusion',
+  'conclusion-p1' => 'Fusionner des PDF est l\'une des tâches documentaires les plus simples une fois que l\'on connaît le bon outil pour sa situation. Pour la plupart des utilisateurs, l\'outil gratuit en ligne de PDFTools fait le travail en moins de deux minutes, sans logiciel requis. Les utilisateurs de Mac bénéficient en plus du confort de l\'interface glisser-déposer de Preview, qui garde tout en local. Adobe Acrobat Pro est le choix approprié lorsque vous avez besoin d\'un contrôle précis sur les pages de chaque fichier source apparaissant dans le résultat.',
+  'conclusion-p2' => 'Après la fusion, si le fichier combiné est trop volumineux pour être envoyé par e-mail, le __COMPRESS_LINK__ de PDFTools le réduit rapidement. Pour convertir le document fusionné en un format modifiable, le __WORD_LINK__ est disponible gratuitement sur PDFTools.',
+
+  'faq-heading' => 'Questions fréquentes',
+  'faq1-q' => 'Puis-je fusionner des PDF protégés par mot de passe ?',
+  'faq1-a' => 'Oui, mais vous devez disposer du mot de passe correct pour chaque fichier protégé. La plupart des outils de fusion vous inviteront à saisir le mot de passe lors du téléversement d\'un PDF protégé. Une fois déverrouillé, la fusion se déroule normalement. Le PDF résultant n\'héritera pas de la protection par mot de passe des fichiers sources, sauf si vous l\'ajoutez séparément.',
+  'faq2-q' => 'La fusion de PDF réduit-elle leur qualité ?',
+  'faq2-a' => 'Non. La fusion est une opération structurelle qui combine des pages sans retraiter aucun contenu. Les images, les polices et la mise en forme de chaque page sont identiques dans le résultat à ce qu\'elles étaient dans le fichier source. Aucune compression ni réduction de qualité ne se produit pendant le processus de fusion lui-même.',
+  'faq3-q' => 'Existe-t-il une limite au nombre de PDF que je peux fusionner à la fois ?',
+  'faq3-a' => 'Pour l\'outil en ligne de PDFTools, il n\'y a aucune limite indiquée sur le nombre de fichiers ou la taille totale. Pour les outils de bureau comme Preview ou Acrobat, la seule limite est la mémoire disponible de votre ordinateur.',
+  'faq4-q' => 'Puis-je fusionner uniquement des pages spécifiques de chaque PDF plutôt que des fichiers entiers ?',
+  'faq4-a' => 'Oui. Adobe Acrobat Pro vous permet de sélectionner des pages spécifiques de chaque fichier source pendant le processus Combine Files. Preview sur Mac vous permet de faire glisser des miniatures de pages individuelles plutôt que des fichiers entiers. Pour l\'outil en ligne, fusionnez les fichiers complets puis utilisez l\'outil de division pour retirer les pages dont vous n\'avez pas besoin.',
+  'faq5-q' => 'Pourquoi mon PDF fusionné a-t-il un aspect différent des originaux ?',
+  'faq5-a' => 'Cela se produit rarement avec des outils de qualité. Si c\'est le cas, cela est généralement dû à une substitution de police lorsqu\'une police intégrée dans un PDF source entre en conflit avec les données de police d\'un autre. Dans Adobe Acrobat Pro, le PDF Optimizer peut aider à normaliser les données de police dans l\'ensemble du résultat fusionné.',
+);

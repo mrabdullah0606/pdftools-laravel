@@ -1,0 +1,25 @@
+<?php
+
+return array (
+  'title' => 'Disclaimer - PDFTools.net',
+  'description' => 'Lees onze disclaimer om de voorwaarden en beperkingen van het gebruik van PDFTools.net-services en -tools te begrijpen.',
+  'hero-title' => 'Vrijwaring',
+  'hero-subtitle' => 'Belangrijke informatie over het gebruik van onze diensten',
+  'intro-text' => 'De informatie en hulpmiddelen die op ',
+  'a' => 'pdftools.net',
+  'intro-text2' => '(de "Site") zijn uitsluitend bedoeld voor algemene informatie en praktisch gebruik. Alle inhoud en hulpmiddelen op de Site worden te goeder trouw aangeboden. Wij garanderen echter niet de nauwkeurigheid, betrouwbaarheid, volledigheid of geschiktheid van enige informatie of tool die beschikbaar is op de Site. Gebruikers moeten begrijpen dat de site fouten of weglatingen kan bevatten.',
+  'service-as-is-title' => 'Service geleverd zoals deze is',
+  'service-as-is-text' => 'Alle diensten op de Site worden geleverd op een "AS IS"- en "ZOALS BESCHIKBAAR"-basis. De site en zijn tools worden geleverd met alle fouten, defecten of beperkingen. Er worden geen expliciete of impliciete garanties gegeven. PDF Tools doet geen enkele belofte met betrekking tot de prestaties, resultaten of betrouwbaarheid van de tools. Gebruikers aanvaarden de volledige verantwoordelijkheid voor het gebruik van de site. De Site garandeert geen ononderbroken toegang, een foutloze werking of dat bestanden die met de tools worden verwerkt, vrij van fouten zijn.',
+  'liability-title' => 'Beperking van aansprakelijkheid',
+  'liability-text' => 'PDFTools.net en zijn dochterondernemingen zijn niet aansprakelijk voor verlies of schade die kan voortvloeien uit het gebruik van de site. Dit omvat gegevensverlies, bestandsbeschadiging of andere problemen veroorzaakt door het gebruik van de tools. Gebruikers gaan ermee akkoord dat elk vertrouwen op de informatie of hulpmiddelen van de site geheel op eigen risico is. Wij zijn niet verantwoordelijk voor eventuele financiële, technische of persoonlijke gevolgen die kunnen voortvloeien uit het gebruik van de Site.',
+  'external-links-title' => 'Externe koppelingen',
+  'external-links-text' => 'De site kan links bevatten naar websites en inhoud die door derden wordt aangeboden. PDFTools.net controleert of monitort deze websites van derden niet. De nauwkeurigheid, volledigheid of betrouwbaarheid van de inhoud op gelinkte sites wordt niet gegarandeerd. Gebruikers moeten begrijpen dat deze links alleen voor uw gemak worden aangeboden. PDFTools.net onderschrijft, garandeert of aanvaardt geen verantwoordelijkheid voor enige informatie op externe websites.',
+  'no-advice-title' => 'Geen professioneel advies',
+  'no-advice-text' => 'De op de Site verstrekte informatie is uitsluitend bedoeld ter algemene kennis. Het gebruik van de site en de bijbehorende tools creëert geen professionele relatie tussen gebruikers en PDFTools.net. Gebruikers mogen juridische, zakelijke of andere beslissingen niet uitsluitend baseren op de inhoud die beschikbaar is op de Site. Vraag altijd advies aan een gekwalificeerde professional als u specifieke vragen of problemen heeft.',
+  'user-responsibility-title' => 'Verantwoordelijkheid van de gebruiker',
+  'user-responsibility-text' => 'Gebruikers zijn er verantwoordelijk voor dat alle bestanden die zij uploaden of verwerken via de Site voldoen aan de toepasselijke wetgeving. PDFTools.net controleert niet de wettigheid of veiligheid van bestanden die door gebruikers worden geüpload. De site moet op verantwoorde wijze worden gebruikt en binnen de grenzen van het persoonlijke en professionele oordeel.',
+  'agreement-notice-text' => 'Door te gebruiken',
+  'agreement-notice-text2' => 'Gebruikers gaan akkoord met deze disclaimer. Gebruikers accepteren de voorwaarden en begrijpen dat PDFTools.net geen garanties biedt. Gebruikers erkennen dat zij de Site op eigen risico gebruiken en als enige verantwoordelijk zijn voor de resultaten. Alle inhoud en hulpmiddelen op de site moeten zorgvuldig worden gebruikt en met inachtneming van mogelijke fouten of beperkingen.',
+  'titles' => 'PDFTools.net Disclaimer – Belangrijke informatie voor veilig gebruik van tools',
+  'descriptions' => 'Lees de officiële disclaimer voor PDFTools.net om te begrijpen hoe onze tools werken, gebruiksbeperkingen en gebruikersverantwoordelijkheden. Blijf op de hoogte en maak met vertrouwen en verantwoord gebruik van onze diensten.',
+);

@@ -1,0 +1,22 @@
+<?php
+return array(
+    'titles' => 'PDFTools.net Disclaimer – Important Information for Safe Tool Usage',
+    'descriptions' => 'Read the official disclaimer for PDFTools.net to understand how our tools work, usage limitations, and user responsibilities. Stay informed and use our services confidently and responsibly.',
+    'hero-title' => 'Disclaimer',
+    'hero-subtitle' => 'Important information about using our services',
+    'intro-text' => 'The information and tools provided on ',
+    'a'=>'pdftools.net',
+    'intro-text2' => '(the "Site") are intended only for general information and practical use. All content and tools on the Site are offered in good faith. However, we do not guarantee the accuracy, reliability, completeness, or suitability of any information or tool available on the Site. Users should understand that the Site may contain errors or omissions.',
+    'service-as-is-title' => 'Service Provided As Is',
+    'service-as-is-text' => 'All services on the Site are provided on an "AS IS" and "AS AVAILABLE" basis. The Site and its tools come with all faults, defects, or limitations. No warranties are expressed or implied. PDF Tools does not make any promises regarding the performance, results, or reliability of the tools. Users accept full responsibility for using the Site. The Site does not guarantee uninterrupted access, bug-free operation, or that files processed with the tools will be free of errors.',
+    'liability-title' => 'Limitation of Liability',
+    'liability-text' => 'PDFTools.net and its affiliates are not liable for any loss or damage that may occur from using the Site. This includes data loss, file corruption, or other problems caused by using the tools. Users agree that any reliance on the Site\'s information or tools is entirely at their own risk. We are not responsible for any financial, technical, or personal consequences that may arise from using the Site.',
+    'external-links-title' => 'External Links',
+    'external-links-text' => 'The Site may include links to websites and content provided by third parties. PDFTools.net does not review or monitor these third-party websites. The accuracy, completeness, or reliability of the content on linked sites is not guaranteed. Users should understand that these links are offered only for convenience. PDFTools.net does not endorse, guarantee, or assume responsibility for any information on external websites.',
+    'no-advice-title' => 'No Professional Advice',
+    'no-advice-text' => 'Information provided on the Site is intended for general knowledge only. The use of the Site and its tools does not create a professional relationship between users and PDFTools.net. Users should not base legal, business, or other decisions solely on the content available on the Site. Always seek advice from a qualified professional for specific questions or concerns.',
+    'user-responsibility-title' => 'User Responsibility',
+    'user-responsibility-text' => 'Users are responsible for ensuring that any files they upload or process through the Site comply with applicable laws. PDFTools.net does not check the legality or safety of files uploaded by users. The Site should be used responsibly and within the limits of personal and professional judgment.',
+    'agreement-notice-text' => 'By using',
+     'agreement-notice-text2' => 'users agree to this disclaimer. Users accept the terms and understand that PDFTools.net provides no guarantees. Users acknowledge that they use the Site at their own risk and are solely responsible for the results. All content and tools on the Site should be used carefully and with consideration of possible errors or limitations.',
+);

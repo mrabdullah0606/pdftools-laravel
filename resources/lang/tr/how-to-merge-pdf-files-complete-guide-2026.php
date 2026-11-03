@@ -1,0 +1,78 @@
+<?php
+
+return array (
+  'title' => 'PDF Dosyaları Nasıl Birleştirilir: 2026 için Eksiksiz Ücretsiz Rehber',
+  'description' => '2026\'da PDF dosyalarını ücretsiz olarak nasıl birleştireceğinizi öğrenin. Birden fazla belgeyi, sayfaları düzenli ve paylaşımı kolay tutarak tek bir dosyada birleştirin. PDF\'lerinizi bugün birleştirin!',
+  'main-heading' => 'PDF Dosyaları Nasıl Birleştirilir: 2026 için Eksiksiz Ücretsiz Rehber',
+
+  'intro-heading' => 'Çok Fazla Dosyanız Olduğunda ve Tek Bir Belgeye İhtiyaç Duyduğunuzda',
+  'intro-p1' => 'Bir proje teklifi, bir hibe başvurusu, bir müşteri raporu ya da basit bir talimat seti hazırlamış olan herkes bu sorunu bilir. İçerik dört ya da beş ayrı PDF dosyasında yaşar. Alıcının dosyalar arasında geçiş yapmadan açıp göz atabileceği ve yazdırabileceği tek, düzenli bir belgeye ihtiyacınız vardır.',
+  'intro-p2' => 'PDF\'leri birleştirmek, profesyonel ve akademik hayattaki en yaygın belge işlerinden biridir ve ücretsiz olarak yapılması en kolay işlerden biridir. Bu rehber, hiçbir yazılım gerektirmeyen tarayıcı tabanlı araçlardan, dosyalarınızı tamamen yerel tutan masaüstü yöntemlerine kadar 2026\'da mevcut olan her güvenilir yöntemi kapsar. Sonunda, hangi yöntemin durumunuza uygun olduğunu bileceksiniz ve herhangi bir PDF setini iki dakikadan kısa sürede birleştirebileceksiniz.',
+
+  'what-heading' => 'PDF Birleştirme Aslında Ne Yapar',
+  'what-p1' => 'PDF dosyalarını birleştirdiğinizde, birden fazla ayrı PDF belgesinin sayfalarını tek bir PDF dosyasında bir araya getirirsiniz. Çıktıdaki sayfaların sırası, birleştirme sırasında belirttiğiniz sırayla eşleşir. Her sayfanın içeriği; görseller, yazı tipleri, biçimlendirme ve köprüler gibi etkileşimli öğeler dahil olmak üzere tam olarak korunur.',
+  'what-p2' => 'Birleştirme, herhangi bir içeriği yeniden oluşturmaz veya yeniden işlemez. Kopyalayıp yapıştırmaktan çok, ayrı kitapçıkları tek bir cilt haline getirmeye benzer. Bu, çıktının kalitesinin girdilerin kalitesiyle eşleştiği ve sürecin kayıpsız olduğu anlamına gelir.',
+
+  'method1-heading' => 'Yöntem 1: PDFTools Birleştirme Aracı (Ücretsiz, Yazılım Gerektirmez)',
+  'method1-intro' => 'Çoğu kişi için en hızlı yöntem, PDFTools\'taki ücretsiz __MERGE_LINK__\'tir. Herhangi bir kurulum, hesap veya dosya boyutu sınırı olmadan tüm süreci tarayıcıda halleder.',
+  'method1-step1' => 'Tarayıcınızı açın ve PDFTools PDF birleştirme aracına gidin.',
+  'method1-step2' => 'Yükleme alanına tıklayın veya PDF dosyalarınızı doğrudan sayfaya sürükleyin. Aynı anda birden fazla dosya yükleyebilirsiniz.',
+  'method1-step3' => 'Son belgede istediğiniz sırayla düzenlemek için dosya küçük resimlerini sürükleyin.',
+  'method1-step4' => 'Birleştir düğmesine tıklayın ve işlemin tamamlanmasını bekleyin. Çoğu dosya seti 30 saniyeden kısa sürede birleşir.',
+  'method1-step5' => 'Birleştirilmiş PDF\'inizi indirin. Cihazınızdaki tüm orijinal dosyalar değişmeden kalır.',
+  'method1-note' => 'Dosyalar bir saat sonra sunucudan otomatik olarak silinir ve kayıt gerekmez. Belgeleriniz zaten bulutta saklanıyorsa kullanışlı olan Google Drive veya Dropbox\'tan doğrudan dosya içe aktarabilirsiniz de. Büyük birleştirilmiş belgeleri yönetme hakkında daha fazla bilgi için __COMPRESS_GUIDE_LINK__ üzerindeki rehbere bakın.',
+
+  'method2-heading' => 'Yöntem 2: Adobe Acrobat Reader Pro',
+  'method2-intro' => 'Adobe Acrobat Pro yüklüyse, Combine Files aracı size birleştirme üzerinde en fazla kontrolü sağlar; sayfaları yeniden düzenleme, her kaynak dosyadan belirli sayfaları çıkarma ve sonlandırmadan önce birleştirmeyi önizleme dahil.',
+  'method2-step1' => 'Adobe Acrobat Pro\'yu açın.',
+  'method2-step2' => 'Tools\'a gidin ve Combine Files\'ı seçin.',
+  'method2-step3' => 'Add Files\'a tıklayın ve birleştirmek istediğiniz her bir PDF\'i seçin.',
+  'method2-step4' => 'Sırayı ayarlamak için dosya panellerini sürükleyin. Ayrıca tüm belgeyi eklemek yerine her dosyayı genişleterek belirli sayfaları da seçebilirsiniz.',
+  'method2-step5' => 'Combine\'a tıklayın. Acrobat dosyaları işler ve birleştirilmiş sonucu açar.',
+  'method2-step6' => 'Birleştirilmiş dosyayı File ardından Save As ile kaydedin.',
+  'method2-note' => 'Bu yöntem, tüm belgeler yerine yalnızca seçili sayfaları birleştirmeniz gerektiğinde veya birleştirmeden önce kimlik doğrulama gerektiren parola korumalı dosyalarla çalışırken özellikle faydalıdır.',
+
+  'method3-heading' => 'Yöntem 3: Mac\'te Preview (Yerleşik, Yükleme Gerektirmez)',
+  'method3-intro' => 'Mac kullanıcıları, Preview uygulaması aracılığıyla işletim sistemine doğrudan yerleşik güçlü ve ücretsiz bir birleştirme seçeneğine sahiptir. Hiçbir şey kurulması gerekmez ve hiçbir dosya herhangi bir yere yüklenmez.',
+  'method3-step1' => 'İlk PDF\'i Preview\'da açın.',
+  'method3-step2' => 'View\'a gidin ve sol tarafta sayfa panelini görüntülemek için Thumbnails\'i seçin.',
+  'method3-step3' => 'İkinci PDF\'i ayrı bir Preview penceresinde açın.',
+  'method3-step4' => 'İkinci Preview penceresinden, eklemek istediğiniz tüm sayfa küçük resimlerini seçin. Command+A ile tümünü seçebilir veya Command tuşunu basılı tutarak tek tek küçük resimlere tıklayabilirsiniz.',
+  'method3-step5' => 'Seçili küçük resimleri ikinci pencereden ilk pencerenin küçük resim paneline sürükleyin. Görünmesini istediğiniz konuma bırakın.',
+  'method3-step6' => 'Ek dosyalar için tekrarlayın.',
+  'method3-step7' => 'Birleştirilmiş belgeyi File ardından Save ile kaydedin.',
+  'method3-tip' => 'İpucu: Preview\'da ayrıca panel içindeki küçük resimleri sürükleyerek birleştirmeden sonra sayfaları yeniden sıralayabilir ve istenmeyen sayfaları seçip Delete tuşuna basarak silebilirsiniz.',
+
+  'method4-heading' => 'Yöntem 4: Google Drive (Google Hesabı Olan Herkes İçin Ücretsiz)',
+  'method4-intro' => 'Google Drive PDF\'leri doğrudan birleştirmez, ancak Google Docs ile birleştirmek, metin ağırlıklı PDF\'ler için iyi çalışan ücretsiz bir çözüm sunar.',
+  'method4-step1' => 'Tüm PDF\'lerinizi Google Drive\'a yükleyin.',
+  'method4-step2' => 'Her PDF\'e sağ tıklayın ve Google Docs ile açın. Bu, her PDF\'i bir Google Doc\'a dönüştürür.',
+  'method4-step3' => 'Her ek Google Doc\'tan içeriği kopyalayın ve ilkine yapıştırın.',
+  'method4-step4' => 'Birleştirilmiş Google Doc\'u File ardından Download ardından PDF Document aracılığıyla PDF olarak indirin.',
+  'method4-note' => 'Bu yöntem metin ağırlıklı belgeler için en iyi sonucu verir. Karmaşık düzenlere, görsellere veya özel yazı tiplerine sahip PDF\'ler, Google Docs dönüşümü sırasında biçimlendirmelerini tam olarak koruyamayabilir.',
+
+  'order-heading' => 'Birleştirmeden Önce Doğru Sayfa Sırasını Seçmek',
+  'order-p1' => 'PDF\'leri birleştirirken en sık yapılan hata, başlamadan önce sayfa sırasını iyice düşünmemektir. Birkaç dakikalık planlama, birleştirme tamamlandıktan sonra yanlış sayfa sırasını fark etmenin verdiği hayal kırıklığını önler.',
+  'order-p2' => 'Çok bölümlü bir belge için dosyaları bir okuyucunun karşılaşacağı sırayla düzenleyin: kapak sayfası, içindekiler, mantıksal sırayla ana bölümler, ekler, kaynakça. Araç görsel olarak yeniden sıralamayı desteklemiyorsa, dosya adına göre doğru sıralansınlar diye dosyalarınızı başında sayılar olacak şekilde adlandırın.',
+  'order-p3' => 'Birleştirme sonrasında sayfaların yanlış sırada olduğunu fark ederseniz, birleştirilmiş PDF\'i bölümlere ayırabilir, yeniden sıralayabilir ve __MERGE_LINK__ ile birlikte __SPLIT_LINK__\'i kullanarak yeniden birleştirebilirsiniz.',
+
+  'size-heading' => 'Birleştirilmiş PDF\'lerde Dosya Boyutunu Yönetmek',
+  'size-p1' => 'PDF\'leri birleştirmek, dosya boyutunu girdilerin toplam boyutunun ötesine çıkarmaz. Ancak dört büyük dosyayı birleştiren bir belge kolayca 40 veya 50 MB\'a ulaşabilir ve bu, çoğu e-posta ek sınırını aşar. Birleştirmeden sonra dosyayı PDFTools\'taki __COMPRESS_LINK__ üzerinden geçirmek, ekranda görünür bir kalite değişikliği olmadan boyutu genellikle yüzde 50 ila 70 oranında azaltır.',
+  'size-p2' => 'Sıkıştırma ayarları ve beklenecek sonuçlar hakkında ayrıntılı bilgi için __COMPRESS_QUALITY_GUIDE_LINK__ üzerindeki rehbere bakın.',
+
+  'conclusion-heading' => 'Sonuç',
+  'conclusion-p1' => 'Durumunuz için doğru aracı bildiğinizde PDF\'leri birleştirmek en basit belge işlerinden biri haline gelir. Çoğu kişi için PDFTools\'taki ücretsiz tarayıcı tabanlı araç, herhangi bir yazılım gerektirmeden işi iki dakikadan kısa sürede halleder. Mac kullanıcıları, her şeyi yerel tutan Preview\'ın sürükle-bırak arayüzünün ek kolaylığına sahiptir. Adobe Acrobat Pro, her kaynak dosyadan hangi sayfaların çıktıda görüneceği üzerinde ince kontrol gerektiğinde doğru seçimdir.',
+  'conclusion-p2' => 'Birleştirmeden sonra, birleştirilmiş dosya e-posta ile gönderilemeyecek kadar büyükse, PDFTools\'taki __COMPRESS_LINK__ boyutunu hızla küçültür. Birleştirilmiş belgeyi düzenlenebilir bir biçime dönüştürmek için ise PDFTools\'ta ücretsiz olarak __WORD_LINK__ bulunur.',
+
+  'faq-heading' => 'Sıkça Sorulan Sorular',
+  'faq1-q' => 'Parola korumalı PDF\'leri birleştirebilir miyim?',
+  'faq1-a' => 'Evet, ancak korumalı her dosya için doğru parolaya ihtiyacınız vardır. Çoğu birleştirme aracı, korumalı bir PDF yüklediğinizde parolayı girmenizi ister. Kilidi açıldıktan sonra birleştirme normal şekilde devam eder. Çıktı PDF\'i, ayrıca eklemediğiniz sürece kaynak dosyalardaki parola korumasını devralmaz.',
+  'faq2-q' => 'PDF\'leri birleştirmek kalitelerini düşürür mü?',
+  'faq2-a' => 'Hayır. Birleştirme, herhangi bir içeriği yeniden oluşturmadan sayfaları bir araya getiren yapısal bir işlemdir. Her sayfadaki görseller, yazı tipleri ve biçimlendirme, çıktıda kaynak dosyadakiyle birebir aynıdır. Birleştirme sürecinin kendisi sırasında hiçbir sıkıştırma veya kalite kaybı gerçekleşmez.',
+  'faq3-q' => 'Bir seferde birleştirebileceğim PDF sayısında bir sınır var mı?',
+  'faq3-a' => 'PDFTools\'taki çevrimiçi araç için dosya sayısı veya toplam dosya boyutu konusunda belirtilmiş bir sınır yoktur. Preview veya Acrobat gibi masaüstü araçlarında ise tek sınır bilgisayarınızın kullanılabilir belleğidir.',
+  'faq4-q' => 'Tüm dosyalar yerine her PDF\'ten yalnızca belirli sayfaları birleştirebilir miyim?',
+  'faq4-a' => 'Evet. Adobe Acrobat Pro, Combine Files iş akışı sırasında her kaynak dosyadan belirli sayfalar seçmenize olanak tanır. Mac\'te Preview, tüm dosyalar yerine tek tek sayfa küçük resimlerini sürüklemenize izin verir. Çevrimiçi araç için, önce tam dosyaları birleştirin, ardından ihtiyacınız olmayan sayfaları kaldırmak için bölme aracını kullanın.',
+  'faq5-q' => 'Birleştirilmiş PDF\'im neden orijinallerinden farklı görünüyor?',
+  'faq5-a' => 'Bu, yüksek kaliteli araçlarda nadiren yaşanır. Yaşanırsa, genellikle bir kaynak PDF\'e gömülü bir yazı tipinin başka bir dosyadaki yazı tipi verileriyle çakışmasından kaynaklanan yazı tipi değişikliğinden kaynaklanır. Adobe Acrobat Pro\'da PDF Optimizer, birleştirilmiş çıktı genelinde yazı tipi verilerini normalleştirmeye yardımcı olabilir.',
+);

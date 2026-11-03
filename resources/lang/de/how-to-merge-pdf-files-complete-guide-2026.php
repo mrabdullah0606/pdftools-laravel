@@ -1,0 +1,78 @@
+<?php
+
+return array (
+  'title' => 'PDF-Dateien zusammenführen: Die komplette kostenlose Anleitung für 2026',
+  'description' => 'Erfahren Sie, wie Sie PDF-Dateien 2026 kostenlos zusammenführen. Kombinieren Sie mehrere Dokumente in einer Datei und halten Sie die Seiten dabei organisiert und leicht zu teilen. Führen Sie Ihre PDFs noch heute zusammen!',
+  'main-heading' => 'PDF-Dateien zusammenführen: Die komplette kostenlose Anleitung für 2026',
+
+  'intro-heading' => 'Wenn Sie zu viele Dateien haben und ein einziges Dokument benötigen',
+  'intro-p1' => 'Jeder, der schon einmal einen Projektvorschlag, einen Förderantrag, einen Kundenbericht oder auch nur eine einfache Anleitung zusammengestellt hat, kennt das Problem. Der Inhalt liegt in vier oder fünf getrennten PDF-Dateien vor. Sie brauchen ihn jedoch in einem sauberen Dokument, das der Empfänger öffnen, durchblättern und ausdrucken kann, ohne zwischen Dateien wechseln zu müssen.',
+  'intro-p2' => 'Das Zusammenführen von PDFs gehört zu den häufigsten Dokumentaufgaben im Berufs- und Studienalltag und zugleich zu den einfachsten, die sich kostenlos erledigen lassen. Diese Anleitung deckt alle zuverlässigen Methoden ab, die 2026 verfügbar sind, von browserbasierten Tools, die keine Software erfordern, bis hin zu Desktop-Ansätzen, bei denen Ihre Dateien vollständig lokal bleiben. Am Ende wissen Sie, welche Methode zu Ihrer Situation passt, und können jedes beliebige Set von PDFs in unter zwei Minuten zusammenführen.',
+
+  'what-heading' => 'Was beim Zusammenführen einer PDF tatsächlich passiert',
+  'what-p1' => 'Wenn Sie PDF-Dateien zusammenführen, kombinieren Sie die Seiten mehrerer separater PDF-Dokumente zu einer einzigen PDF-Datei. Die Reihenfolge der Seiten im Ergebnis entspricht der Reihenfolge, die Sie beim Kombinieren festlegen. Der Inhalt jeder Seite bleibt exakt erhalten, einschließlich Bilder, Schriftarten, Formatierung und interaktiver Elemente wie Hyperlinks.',
+  'what-p2' => 'Beim Zusammenführen wird der Inhalt nicht neu gerendert oder verarbeitet. Es ähnelt eher dem Zusammenbinden separater Hefte zu einem Band als dem Kopieren und Einfügen von Text. Das bedeutet, dass die Qualität des Ergebnisses genau der Qualität der Ausgangsdateien entspricht und der Vorgang verlustfrei ist.',
+
+  'method1-heading' => 'Methode 1: Das Merge-Tool von PDFTools (kostenlos, ohne Software)',
+  'method1-intro' => 'Die schnellste Methode für die meisten Menschen ist der kostenlose __MERGE_LINK__ bei PDFTools. Er erledigt den gesamten Vorgang im Browser, ohne Installation, Konto oder Dateigrößenbegrenzung.',
+  'method1-step1' => 'Öffnen Sie Ihren Browser und rufen Sie das PDF-Zusammenführungstool von PDFTools auf.',
+  'method1-step2' => 'Klicken Sie auf den Upload-Bereich oder ziehen Sie Ihre PDF-Dateien direkt auf die Seite. Sie können mehrere Dateien gleichzeitig hochladen.',
+  'method1-step3' => 'Ziehen Sie die Vorschaubilder der Dateien, um sie in der gewünschten Reihenfolge für das endgültige Dokument anzuordnen.',
+  'method1-step4' => 'Klicken Sie auf die Schaltfläche Merge und warten Sie, bis die Verarbeitung abgeschlossen ist. Die meisten Dateisätze werden in unter 30 Sekunden zusammengeführt.',
+  'method1-step5' => 'Laden Sie Ihre zusammengeführte PDF herunter. Alle Originaldateien auf Ihrem Gerät bleiben unverändert.',
+  'method1-note' => 'Dateien werden automatisch eine Stunde nach der Verarbeitung vom Server gelöscht, und es ist keine Registrierung erforderlich. Sie können Dateien auch direkt aus Google Drive oder Dropbox importieren, was praktisch ist, wenn Ihre Dokumente bereits in der Cloud gespeichert sind. Weitere Informationen zur Verwaltung großer zusammengeführter Dokumente finden Sie im Leitfaden zu __COMPRESS_GUIDE_LINK__.',
+
+  'method2-heading' => 'Methode 2: Adobe Acrobat Reader Pro',
+  'method2-intro' => 'Wenn Sie Adobe Acrobat Pro installiert haben, bietet Ihnen das Tool Combine Files die größte Kontrolle über das Zusammenführen, einschließlich der Möglichkeit, Seiten neu anzuordnen, bestimmte Seiten aus jeder Quelldatei zu extrahieren und das Ergebnis vor dem Abschluss in der Vorschau zu betrachten.',
+  'method2-step1' => 'Öffnen Sie Adobe Acrobat Pro.',
+  'method2-step2' => 'Gehen Sie zu Tools und wählen Sie Combine Files.',
+  'method2-step3' => 'Klicken Sie auf Add Files und wählen Sie jede PDF aus, die Sie zusammenführen möchten.',
+  'method2-step4' => 'Ziehen Sie die Dateipaneele, um die Reihenfolge festzulegen. Sie können jede Datei auch erweitern, um nur bestimmte Seiten daraus auszuwählen, statt das gesamte Dokument einzubeziehen.',
+  'method2-step5' => 'Klicken Sie auf Combine. Acrobat verarbeitet die Dateien und öffnet das zusammengeführte Ergebnis.',
+  'method2-step6' => 'Speichern Sie die zusammengeführte Datei über File und dann Save As.',
+  'method2-note' => 'Diese Methode ist besonders nützlich, wenn Sie nur ausgewählte Seiten statt ganzer Dokumente zusammenführen möchten oder wenn Sie mit passwortgeschützten Dateien arbeiten, die vor dem Zusammenführen eine Authentifizierung erfordern.',
+
+  'method3-heading' => 'Methode 3: Preview auf dem Mac (integriert, kein Upload erforderlich)',
+  'method3-intro' => 'Mac-Nutzer verfügen über eine leistungsstarke, kostenlose Zusammenführungsoption, die direkt in das Betriebssystem integriert ist, nämlich die Anwendung Preview. Es muss nichts installiert werden, und es werden keine Dateien irgendwohin hochgeladen.',
+  'method3-step1' => 'Öffnen Sie die erste PDF in Preview.',
+  'method3-step2' => 'Gehen Sie zu View und wählen Sie Thumbnails, um das Seitenpanel links anzuzeigen.',
+  'method3-step3' => 'Öffnen Sie die zweite PDF in einem separaten Preview-Fenster.',
+  'method3-step4' => 'Wählen Sie im zweiten Preview-Fenster alle Seitenminiaturen aus, die Sie hinzufügen möchten. Sie können alle mit Command+A auswählen oder einzelne Miniaturen bei gedrückter Command-Taste anklicken.',
+  'method3-step5' => 'Ziehen Sie die ausgewählten Miniaturen aus dem zweiten Fenster in das Miniaturenpanel des ersten Fensters. Legen Sie sie an der gewünschten Position ab.',
+  'method3-step6' => 'Wiederholen Sie dies für weitere Dateien.',
+  'method3-step7' => 'Speichern Sie das zusammengeführte Dokument über File und dann Save.',
+  'method3-tip' => 'Profi-Tipp: In Preview können Sie Seiten nach dem Zusammenführen auch neu anordnen, indem Sie Miniaturen innerhalb des Panels verschieben, und unerwünschte Seiten löschen, indem Sie sie auswählen und Delete drücken.',
+
+  'method4-heading' => 'Methode 4: Google Drive (kostenlos für jeden mit einem Google-Konto)',
+  'method4-intro' => 'Google Drive führt PDFs nicht direkt zusammen, aber in Kombination mit Google Docs ergibt sich eine kostenlose Lösung, die für textbasierte PDFs gut funktioniert.',
+  'method4-step1' => 'Laden Sie alle Ihre PDFs zu Google Drive hoch.',
+  'method4-step2' => 'Klicken Sie mit der rechten Maustaste auf jede PDF und öffnen Sie sie mit Google Docs. Dadurch wird jede PDF in ein Google Doc umgewandelt.',
+  'method4-step3' => 'Kopieren Sie den Inhalt aus jedem weiteren Google Doc und fügen Sie ihn in das erste ein.',
+  'method4-step4' => 'Laden Sie das zusammengeführte Google Doc über File, dann Download und dann PDF Document als PDF herunter.',
+  'method4-note' => 'Diese Methode eignet sich am besten für textlastige Dokumente. Bei PDFs mit komplexen Layouts, Bildern oder benutzerdefinierten Schriftarten bleibt die Formatierung bei der Umwandlung über Google Docs möglicherweise nicht perfekt erhalten.',
+
+  'order-heading' => 'Die richtige Seitenreihenfolge vor dem Zusammenführen festlegen',
+  'order-p1' => 'Der häufigste Fehler beim Zusammenführen von PDFs besteht darin, sich vor Beginn keine Gedanken über die Seitenreihenfolge zu machen. Ein paar Minuten Planung ersparen den Ärger, nach Abschluss des Zusammenführens die falsche Seitenreihenfolge zu entdecken.',
+  'order-p2' => 'Ordnen Sie bei einem mehrteiligen Dokument die Dateien in der Reihenfolge an, in der ein Leser ihnen begegnen würde: Deckblatt, Inhaltsverzeichnis, Hauptabschnitte in logischer Reihenfolge, Anhänge, Quellenangaben. Benennen Sie Ihre Dateien am Anfang mit Nummern, falls das Tool keine visuelle Neuanordnung unterstützt, damit sie nach Dateinamen korrekt sortiert werden.',
+  'order-p3' => 'Wenn die Seiten nach dem Zusammenführen in der falschen Reihenfolge liegen, können Sie die zusammengeführte PDF in Abschnitte aufteilen, diese neu anordnen und mithilfe des __SPLIT_LINK__ zusammen mit dem __MERGE_LINK__ erneut zusammenführen.',
+
+  'size-heading' => 'Die Dateigröße zusammengeführter PDFs verwalten',
+  'size-p1' => 'Das Zusammenführen von PDFs vergrößert die Dateigröße nicht über die kombinierte Größe der Ausgangsdateien hinaus. Ein zusammengeführtes Dokument aus vier großen Dateien kann jedoch leicht 40 oder 50 MB erreichen, was die meisten Grenzwerte für E-Mail-Anhänge übersteigt. Das anschließende Ausführen der zusammengeführten Datei durch den __COMPRESS_LINK__ bei PDFTools reduziert die Größe in der Regel um 50 bis 70 Prozent, ohne dass auf dem Bildschirm ein sichtbarer Qualitätsunterschied erkennbar ist.',
+  'size-p2' => 'Eine vollständige Übersicht über Komprimierungseinstellungen und die zu erwartenden Ergebnisse finden Sie im Leitfaden zu __COMPRESS_QUALITY_GUIDE_LINK__.',
+
+  'conclusion-heading' => 'Fazit',
+  'conclusion-p1' => 'Das Zusammenführen von PDFs gehört zu den unkompliziertesten Dokumentaufgaben, sobald man das passende Tool für die jeweilige Situation kennt. Für die meisten Menschen erledigt das kostenlose, browserbasierte Tool bei PDFTools die Aufgabe in unter zwei Minuten, ohne dass Software benötigt wird. Mac-Nutzer profitieren zusätzlich von der Drag-and-Drop-Oberfläche von Preview, die alles lokal hält. Adobe Acrobat Pro ist die richtige Wahl, wenn Sie feine Kontrolle darüber benötigen, welche Seiten aus jeder Quelldatei im Ergebnis erscheinen.',
+  'conclusion-p2' => 'Ist die zusammengeführte Datei nach dem Zusammenführen zu groß für den Versand per E-Mail, reduziert der __COMPRESS_LINK__ bei PDFTools sie schnell. Zum Konvertieren des zusammengeführten Dokuments in ein bearbeitbares Format steht der __WORD_LINK__ kostenlos bei PDFTools zur Verfügung.',
+
+  'faq-heading' => 'Häufig gestellte Fragen',
+  'faq1-q' => 'Kann ich passwortgeschützte PDFs zusammenführen?',
+  'faq1-a' => 'Ja, allerdings benötigen Sie für jede geschützte Datei das richtige Passwort. Die meisten Zusammenführungstools fordern Sie beim Hochladen einer geschützten PDF zur Eingabe des Passworts auf. Sobald die Datei entsperrt ist, läuft das Zusammenführen normal weiter. Die resultierende PDF übernimmt den Passwortschutz der Quelldateien nicht, es sei denn, Sie fügen ihn separat hinzu.',
+  'faq2-q' => 'Verschlechtert das Zusammenführen die Qualität der PDFs?',
+  'faq2-a' => 'Nein. Das Zusammenführen ist ein struktureller Vorgang, bei dem Seiten kombiniert werden, ohne den Inhalt neu zu rendern. Bilder, Schriftarten und Formatierung jeder Seite sind im Ergebnis identisch mit dem, was sie in der Quelldatei waren. Während des eigentlichen Zusammenführungsprozesses findet keine Komprimierung oder Qualitätsminderung statt.',
+  'faq3-q' => 'Gibt es eine Grenze für die Anzahl der PDFs, die ich gleichzeitig zusammenführen kann?',
+  'faq3-a' => 'Beim Online-Tool von PDFTools gibt es keine angegebenen Grenzen für die Anzahl der Dateien oder die Gesamtdateigröße. Bei Desktop-Tools wie Preview oder Acrobat ist die einzige Grenze der verfügbare Arbeitsspeicher Ihres Computers.',
+  'faq4-q' => 'Kann ich nur bestimmte Seiten aus jeder PDF zusammenführen statt ganzer Dateien?',
+  'faq4-a' => 'Ja. Mit Adobe Acrobat Pro können Sie im Rahmen des Combine-Files-Vorgangs bestimmte Seiten aus jeder Quelldatei auswählen. Mit Preview auf dem Mac können Sie einzelne Seitenminiaturen statt ganzer Dateien ziehen. Beim Online-Tool führen Sie die kompletten Dateien zusammen und verwenden anschließend das Split-Tool, um nicht benötigte Seiten zu entfernen.',
+  'faq5-q' => 'Warum sieht meine zusammengeführte PDF anders aus als die Originale?',
+  'faq5-a' => 'Das kommt bei hochwertigen Tools nur selten vor. Falls es doch passiert, liegt es meist an einer Schriftartersetzung, wenn eine in einer Quelldatei eingebettete Schriftart mit Schriftartdaten in einer anderen kollidiert. In Adobe Acrobat Pro kann der PDF Optimizer helfen, die Schriftartdaten im gesamten zusammengeführten Ergebnis zu vereinheitlichen.',
+);
