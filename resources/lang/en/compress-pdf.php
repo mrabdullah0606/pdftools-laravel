@@ -37,6 +37,7 @@ return [
 'pDF-to-jpg'=> 'PDF to JPG',
 'merge-pDF'=> 'Merge PDF',
 'summarize-pDF'=> 'Summarize PDF',
+'split-pdf' => 'Split PDF',
 'how-compress' => 'How to Compress PDF Online Free',
 'how-compress-des' => 'Our easy-to-use PDF compressor online enables you to reduce the size of your PDF files in just a few seconds. Follow the simple steps and resize your PDF file instantly.',
 'choose' => 'Choose Your PDF File Source',

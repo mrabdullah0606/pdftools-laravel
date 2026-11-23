@@ -37,6 +37,7 @@ return [
 'pDF-to-jpg'=> 'PDF to JPG',
 'compress-pDF'=> 'Compress PDF',
 'summarize-pDF'=> 'Summarize PDF',
+'split-pdf' => 'Split PDF',
 'tips' => 'Merge PDF Files—Importance, Tips, and Challenges',
 'tips-1' => 'PDF files are widely used in the workplace. They are a standard file format for documents and are compatible with many software programs. PDFs are reliable, easy to use, and readable.',
 'tips-2' => 'Many PDF editing tools offer a "Merge PDF" feature, along with options like rotating, searching, or extracting pages. However, not everyone knows about the merge function or how to use it.',

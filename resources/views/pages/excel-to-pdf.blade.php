@@ -1214,7 +1214,7 @@
                     </a>
                 </div>
                 <div class="col-md-4 col-lg-2">
-                    <a href="#" class="card h-100 border-0 shadow-sm text-decoration-none">
+                    <a href="{{ route('compress-pdf') }}" class="card h-100 border-0 shadow-sm text-decoration-none">
                         <div class="card-body text-center p-3">
                             <i class="fas fa-compress fa-2x mb-3"></i>
                             <h5 class="card-title">Compress PDF</h5>
@@ -1226,6 +1226,14 @@
                         <div class="card-body text-center p-3">
                             <i class="fas fa-scroll fa-2x mb-3"></i>
                             <h5 class="card-title">Summarize PDF</h5>
+                        </div>
+                    </a>
+                </div>
+                <div class="col-md-4 col-lg-2">
+                    <a href="{{ route('split-pdf') }}" class="card h-100 border-0 shadow-sm text-decoration-none">
+                        <div class="card-body text-center p-3">
+                            <i class="fas fa-cut fa-2x mb-3" style="color: #795ef1;"></i>
+                            <h5 class="card-title">{{ __('home.split-pdf') }}</h5>
                         </div>
                     </a>
                 </div>

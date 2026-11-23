@@ -94,4 +94,14 @@ class SplitPdfTest extends TestCase
         $response = $this->post('/split-pdf/download-zip', []);
         $response->assertStatus(400);
     }
+
+    public function test_split_pdf_appears_in_other_tools_related_section(): void
+    {
+        $pages = ['/merge-pdf', '/compress-pdf', '/word-to-pdf', '/pdf-to-word', '/jpg-to-pdf', '/pdf-to-jpg'];
+        foreach ($pages as $page) {
+            $response = $this->get($page);
+            $response->assertStatus(200);
+            $response->assertSee('/split-pdf');
+        }
+    }
 }

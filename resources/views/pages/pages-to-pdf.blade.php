@@ -488,6 +488,21 @@
                 </a>
             </div>
 
+            <div class="col-md-4 col-lg-2">
+                <a href="{{ localized_route('split-pdf') }}" class="text-decoration-none text-dark">
+                    <div class="card h-100 border-0 shadow-sm">
+                        <div class="card-body text-center p-3">
+                            <svg xmlns="http://www.w3.org/2000/svg" width="35" height="35" fill="#795ef1"
+                                class="bi bi-scissors" viewBox="0 0 16 16">
+                                <path
+                                    d="M3.5 3.5c-.614-.884-.074-1.962.858-2.5L8 7.226 11.642 1c.932.538 1.472 1.616.858 2.5L8.81 8.61l1.556 2.66a2.5 2.5 0 1 1-.794.604L8 9.274l-1.572 2.6a2.5 2.5 0 1 1-.794-.604l1.556-2.66zm-.252 7.744a1.5 1.5 0 1 0 2.121 2.122 1.5 1.5 0 0 0-2.121-2.122m7.504 0a1.5 1.5 0 1 0 2.122 2.122 1.5 1.5 0 0 0-2.122-2.122" />
+                            </svg>
+                            <h3 class="card-title">{{ __('home.split-pdf') }}</h3>
+                        </div>
+                    </div>
+                </a>
+            </div>
+
         </div>
     </div>
 </section>
