@@ -158,6 +158,21 @@
                             class="btn btn-tool">{{ __('home.ppttopdf-btn') }}</a>
                     </div>
                 </div>
+
+                <!-- Tool Card - Split PDF -->
+                <div class="col-md-6 col-lg-3">
+                    <div class="tool-card tool-card-2">
+                        <div class="tool-icon">
+                            <svg class="svg-icon" viewBox="0 0 16 16" fill="currentColor">
+                                <path d="M3.5 3.5c-.614-.884-.074-1.962.858-2.5L8 7.226 11.642 1c.932.538 1.472 1.616.858 2.5L8.81 8.61l1.556 2.66a2.5 2.5 0 1 1-.794.604L8 9.274l-1.572 2.6a2.5 2.5 0 1 1-.794-.604l1.556-2.66zm-.252 7.744a1.5 1.5 0 1 0 2.121 2.122 1.5 1.5 0 0 0-2.121-2.122m7.504 0a1.5 1.5 0 1 0 2.122 2.122 1.5 1.5 0 0 0-2.122-2.122"/>
+                            </svg>
+                        </div>
+                        <h2>{{ __('home.split-pdf') }}</h2>
+                        <p>{{ __('home.split-pdf-des') }}</p>
+                        <a href="{{ localized_route('split-pdf') }}"
+                            class="btn btn-tool">{{ __('home.splitpdf-btn') }}</a>
+                    </div>
+                </div>
                 {{-- <div class="col-md-6 col-lg-3">
                     <div class="tool-card tool-card-3">
                         <div class="tool-icon">

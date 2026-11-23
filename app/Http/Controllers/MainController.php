@@ -602,7 +602,7 @@ public function blog_post64()
     $v = array();
     $v["title"] = "How to Split PDF Files into Multiple Pages (2026 Guide)";
     $v["description"] = "Learn how to split PDF files into multiple pages quickly and easily. Get free tools, step-by-step instructions, and expert tips for perfect PDF splitting every time.";
-    return view('pages.split-pdf', $v);
+    return view('pages.split-pdf-guide', $v);
 }
 public function blog_post65()
 {

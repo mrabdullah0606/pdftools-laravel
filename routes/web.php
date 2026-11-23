@@ -17,6 +17,7 @@ use App\Http\Controllers\pdftoWordController;
 use App\Http\Controllers\WordConverterController;
 use App\Http\Controllers\PagestoPdfController;
 use App\Http\Controllers\PptToPdfController;
+use App\Http\Controllers\SplitPdfController;
 
 /*
 |--------------------------------------------------------------------------
@@ -430,6 +431,14 @@ Route::get('/pdf-summerize', [pdfSummerizeController::class, 'index'])->name('pd
 Route::post('/pdf-summerize', [pdfSummerizeController::class, 'summarize'])->name('pdf.summerize.process');
 Route::get('/pdf-summarizer/download', [pdfSummerizeController::class, 'downloadFile'])->name('pdf.summarizer.download');
 
+//routes for split pdf
+Route::get('/split-pdf', [SplitPdfController::class, 'index'])->name('split-pdf');
+Route::post('/split-pdf', [SplitPdfController::class, 'split'])->name('split.pdf.process');
+Route::get('/split-pdf/download', [SplitPdfController::class, 'downloadFile'])->name('split.download');
+Route::post('/split-pdf/download-zip', [SplitPdfController::class, 'downloadZip'])->name('split.download.zip');
+Route::post('/split-pdf/from-url', [SplitPdfController::class, 'splitFromUrl'])->name('split.fromUrl');
+Route::post('/split-pdf/check-status', [SplitPdfController::class, 'checkStatus'])->name('split.checkStatus');
+
 
 
 //  All localized tool routes in one group with middleware
@@ -466,6 +475,9 @@ Route::group([
     Route::get('/pages-to-pdf', [PagestoPdfController::class, 'index'])->name('localized.pages-to-pdf');
     Route::get('/ppt-to-pdf', [PptToPdfController::class, 'index'])->name('localized.ppt-to-pdf');
     Route::post('/ppt-to-pdf/convert-from-url', [PptToPdfController::class, 'convertFromUrl'])->name('localized.ppt.convert.url');
+    Route::get('/split-pdf', [SplitPdfController::class, 'index'])->name('localized.split-pdf');
+    Route::post('/split-pdf', [SplitPdfController::class, 'split'])->name('localized.split.pdf.process');
+    Route::get('/split-pdf/download', [SplitPdfController::class, 'downloadFile'])->name('localized.split.download');
 });
 Route::get('/about-us', [aboutController::class, 'about'])->name('about');
 Route::get('/disclaimer', [DisclaimerController::class, 'index'])->name('disclaimer');

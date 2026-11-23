@@ -1,0 +1,88 @@
+<?php
+
+return [
+    'title' => 'Split PDF Free | Split PDF files online into multiple pages - PDFTools.net',
+    'description' => 'Split PDF files online for free with PDFTools.net. Separate one PDF into multiple documents, extract custom page ranges, or remove unwanted pages easily.',
+    'split_heading' => 'Split PDF Files Online Free',
+    'heading' => 'Split PDF Online',
+    'heading-des' => 'Easily extract pages, split by custom ranges, or remove pages from your PDF file.',
+    'droped' => 'Drop your PDF file here!',
+    'upload' => 'or upload file',
+    'upload_files' => 'Upload PDF File',
+    'g-drive' => 'Google Drive',
+    'dropbox' => 'Dropbox',
+    'url' => 'From URL',
+    'result' => 'Split Results',
+    'preview' => 'Preview',
+    'Convert-an' => 'Split Another PDF',
+    'msg' => 'Your PDF has been successfully split!',
+    'original' => 'Original PDF',
+    'split_files' => 'Generated Files',
+    'download' => 'Download',
+    'download_all' => 'Download All (ZIP)',
+    'share' => 'Save or Share:',
+    'options' => 'Split Options',
+    'options-des' => 'Select how you want to split your PDF document',
+    
+    // Split Modes
+    'mode_ranges' => 'Custom Ranges',
+    'mode_ranges_des' => 'Extract specific page ranges or single pages',
+    'mode_fixed' => 'Split by Every N Pages',
+    'mode_fixed_des' => 'Divide document into equal page chunks',
+    'mode_remove' => 'Remove Pages',
+    'mode_remove_des' => 'Delete unwanted pages and keep the rest',
+    
+    // Inputs & Help text
+    'ranges_label' => 'Page Ranges:',
+    'ranges_placeholder' => 'e.g. 1-3, 5, 8-10',
+    'ranges_help' => 'Enter page numbers and/or page ranges separated by commas (e.g. 1-4, 7, 9-12).',
+    'merge_after_label' => 'Merge extracted ranges into a single PDF document',
+    'merge_after_help' => 'Check this if you want all specified ranges combined into one file instead of separate files.',
+    
+    'fixed_label' => 'Split Every N Pages:',
+    'fixed_placeholder' => 'e.g. 1, 2, 5',
+    'fixed_help' => 'Every N pages will be saved as a separate PDF. Use 1 to extract every page as an individual file.',
+    
+    'remove_label' => 'Pages to Remove:',
+    'remove_placeholder' => 'e.g. 2, 4-6, 9',
+    'remove_help' => 'Selected pages will be discarded; remaining pages will be saved as a single output PDF.',
+
+    'btn_split' => 'Split PDF Now',
+    'splitting' => 'Splitting Your PDF Document...',
+    'preparing' => 'Preparing PDF for splitting...',
+    'loading' => 'Processing...',
+
+    'related_tools' => 'Related Tools',
+    'merge-pDF' => 'Merge PDF',
+    'compress-pDF' => 'Compress PDF',
+    'pDF-to-word' => 'PDF to Word',
+    'word-to-pDF' => 'Word to PDF',
+    'jPG-to-pDF' => 'JPG to PDF',
+    'pDF-to-jpg' => 'PDF to JPG',
+    'summarize-pDF' => 'Summarize PDF',
+
+    // Informational & How-to sections
+    'how_split_title' => 'How to Split a PDF Online for Free',
+    'step1_title' => 'Upload PDF',
+    'step1_desc' => 'Select or drag and drop your PDF document into the upload zone above.',
+    'step2_title' => 'Choose Split Mode',
+    'step2_desc' => 'Pick between custom ranges, splitting every N pages, or removing unwanted pages.',
+    'step3_title' => 'Download Files',
+    'step3_desc' => 'Download each resulting PDF individually or grab all split files in a single ZIP archive.',
+
+    'features_title' => 'Why Use PDFTools to Split PDFs?',
+    'feat1_title' => 'Fast & 100% Free',
+    'feat1_desc' => 'Process multi-page documents instantly with zero limits, registrations, or hidden fees.',
+    'feat2_title' => 'High Privacy & Security',
+    'feat2_desc' => 'Your files are processed securely over encrypted HTTPS connections and deleted shortly after conversion.',
+    'feat3_title' => 'Works on Any Device',
+    'feat3_desc' => 'Compatible with Windows, Mac, Linux, iPhone, iPad, and Android directly in your web browser.',
+
+    'faq_title' => 'Frequently Asked Questions',
+    'faq1_q' => 'Can I extract individual pages from a large PDF?',
+    'faq1_a' => 'Yes! Choose "Custom Ranges" and specify individual pages like "1, 3, 5" or choose "Split Every N Pages" with 1 to separate every page into its own PDF.',
+    'faq2_q' => 'Will splitting reduce the quality of my PDF?',
+    'faq2_a' => 'No. PDFTools preserves the original text, vector graphics, fonts, and image resolutions without recompressing or degrading the content.',
+    'faq3_q' => 'Can I delete specific pages from a document?',
+    'faq3_a' => 'Yes. Use the "Remove Pages" mode and list the pages or ranges you want to eliminate (e.g. "2, 5-7"). The output will contain only the remaining pages.',
+];
