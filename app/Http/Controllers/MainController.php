@@ -786,6 +786,97 @@ public function blog_post90()
     $v["description"] = "Master PDF accessibility for inclusive documents. Learn accessibility standards, screen reader compatibility, WCAG compliance, and best practices for reaching all users.";
     return view('pages.pdf-accessibility-inclusive-documents-guide-2026', $v);
 }
+public function blog_post91()
+{
+    $v = array();
+    $v["title"] = "How to Reduce PDF File Size for Email Attachments | PDFTools";
+    $v["description"] = "Learn how to shrink PDF files so they send through email without losing readability. Covers compression levels, quality checks, and when to share a link instead.";
+    return view('pages.how-to-reduce-pdf-file-size-for-email-attachments', $v);
+}
+public function blog_post92()
+{
+    $v = array();
+    $v["title"] = "Convert Your Resume to PDF Before Applying for Jobs";
+    $v["description"] = "Learn why and how to convert your resume to PDF so formatting stays intact on every device. Step-by-step guide with checks for applicant tracking systems and portfolios.";
+    return view('pages.convert-resume-to-pdf-before-applying-for-jobs', $v);
+}
+public function blog_post93()
+{
+    $v = array();
+    $v["title"] = "Convert PowerPoint to PDF for Presentations and Handouts";
+    $v["description"] = "Learn how to convert PowerPoint slides to PDF for handouts, sharing, and reliable viewing. Covers layouts, notes, file size, and how to check slides before sending.";
+    return view('pages.convert-powerpoint-to-pdf-for-presentations-and-handouts', $v);
+}
+public function blog_post94()
+{
+    $v = array();
+    $v["title"] = "Convert PDF to Word to Edit Documents Safely";
+    $v["description"] = "Learn how to convert a PDF to editable Word format, fix common layout problems, and re-export a clean PDF. Practical steps for contracts, reports, and forms.";
+    return view('pages.convert-pdf-to-word-to-edit-documents-safely', $v);
+}
+public function blog_post95()
+{
+    $v = array();
+    $v["title"] = "Turn Photos Into a PDF Document on Any Device";
+    $v["description"] = "Learn how to convert JPG photos into a single PDF for receipts, forms, and records. Covers page order, image quality, file size, and easy sharing.";
+    return view('pages.turn-photos-into-a-pdf-document-on-any-device', $v);
+}
+public function blog_post96()
+{
+    $v = array();
+    $v["title"] = "Convert PDF Pages to JPG for Social Media and Websites";
+    $v["description"] = "Learn how to convert PDF pages into JPG images for social posts, websites, and presentations. Covers resolution, quality settings, and avoiding blurry or cropped output.";
+    return view('pages.convert-pdf-pages-to-jpg-for-social-media-and-websites', $v);
+}
+public function blog_post97()
+{
+    $v = array();
+    $v["title"] = "Summarize Research Papers With AI Without Missing Key Points";
+    $v["description"] = "Learn how to use AI to summarize research papers and long PDFs while checking accuracy. Covers summary types, verification steps, and when to read the full paper.";
+    return view('pages.summarize-research-papers-with-ai-without-missing-key-points', $v);
+}
+public function blog_post98()
+{
+    $v = array();
+    $v["title"] = "Convert Apple Pages Documents to PDF for Easy Sharing";
+    $v["description"] = "Learn how to convert Apple Pages documents to PDF so layouts, fonts, and images stay consistent. Step-by-step guide with checks for sharing and printing.";
+    return view('pages.convert-apple-pages-documents-to-pdf-for-easy-sharing', $v);
+}
+public function blog_post99()
+{
+    $v = array();
+    $v["title"] = "Combine Monthly Invoices and Receipts Into One PDF Packet";
+    $v["description"] = "Learn how to combine monthly invoices, receipts, and expense records into a single organized PDF packet. Covers naming, compression, and accounting workflows.";
+    return view('pages.combine-monthly-invoices-and-receipts-into-one-pdf-packet', $v);
+}
+public function blog_post100()
+{
+    $v = array();
+    $v["title"] = "PDF vs Word vs JPG: Which File Format Should You Use?";
+    $v["description"] = "Compare PDF, Word, and JPG formats to choose the right file for sharing, editing, and printing. Practical guidance on when to convert and when to keep the original format.";
+    return view('pages.pdf-vs-word-vs-jpg-which-file-format-should-you-use', $v);
+}
+public function blog_post101()
+{
+    $v = array();
+    $v["title"] = "Pitch Deck to PDF: How to Send Investor Decks Right";
+    $v["description"] = "Learn how to convert your pitch deck to PDF for investors. Covers fonts, file size, slide order, and how to share a deck that looks the same on every device.";
+    return view('pages.pitch-deck-to-pdf-for-investors', $v);
+}
+public function blog_post102()
+{
+    $v = array();
+    $v["title"] = "PDF Table of Contents and Bookmarks: Complete Guide";
+    $v["description"] = "Learn how to build a clickable table of contents and bookmarks in PDF reports. Improve navigation for long documents, manuals, and proposals with simple steps.";
+    return view('pages.pdf-table-of-contents-and-bookmarks', $v);
+}
+public function blog_post103()
+{
+    $v = array();
+    $v["title"] = "Print Ready PDF for Brochures and Flyers: Step by Step";
+    $v["description"] = "Learn how to create print-ready PDFs for brochures and flyers. Covers resolution, margins, color, file size, and how to check your file before sending it to print.";
+    return view('pages.print-ready-pdf-for-brochures-and-flyers', $v);
+}
     public function pdfSummarize()
     {
         $v = array();
