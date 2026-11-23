@@ -239,16 +239,16 @@
         <h5 class="mb-3 text-center">{{ __('summarize-pdf.save-or-share') }}</h5>
         <div class="d-flex flex-wrap gap-2 justify-content-center">
             <button class="btn share-btn" type="button" id="saveToDrive" title="{{ __('summarize-pdf.save-to-drive') }}">
-                <img src="https://upload.wikimedia.org/wikipedia/commons/d/da/Google_Drive_logo.png"
+                <img src="{{ asset('images/google-drive.svg') }}"
                     alt="Google Drive">
             </button>
 
             <button class="btn share-btn" type="button" id="saveToDropbox" title="{{ __('summarize-pdf.save-to-dropbox') }}">
-                <img src="https://upload.wikimedia.org/wikipedia/commons/7/78/Dropbox_Icon.svg" alt="Dropbox">
+                <img src="{{ asset('images/dropbox.svg') }}" alt="Dropbox">
             </button>
 
             <button class="btn share-btn" type="button" id="shareOnWhatsApp" title="{{ __('summarize-pdf.share-on-whatsapp') }}">
-                <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" alt="WhatsApp">
+                <img src="{{ asset('images/whatsapp.svg') }}" alt="WhatsApp">
             </button>
 
             <button class="btn share-btn" type="button" id="qrBtn"

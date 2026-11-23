@@ -2,6 +2,7 @@
 
 namespace App\Http\Controllers;
 
+use App\Services\TempFileUploader;
 use GuzzleHttp\Client;
 use GuzzleHttp\Exception\RequestException;
 use Illuminate\Http\Request;
@@ -233,13 +234,12 @@ class PptToPdfController extends Controller
         $filename = basename(parse_url($fileUrl, PHP_URL_PATH));
         $filePath = storage_path('app/public/uploads/pdfs/' . $filename);
 
-        try {
-            return $this->uploadToFileIo($filePath);
-        } catch (\Throwable $e) {
-            Log::warning('PPT to PDF: file.io failed, trying tmpfiles.org', ['error' => $e->getMessage()]);
+        $url = TempFileUploader::upload($filePath);
+        if ($url) {
+            return $url;
         }
 
-        return $this->uploadToTmpfilesOrg($filePath);
+        return $this->uploadToFileIo($filePath);
     }
 
     private function uploadToFileIo(string $filePath): string

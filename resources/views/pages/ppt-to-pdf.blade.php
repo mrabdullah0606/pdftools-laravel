@@ -199,17 +199,17 @@
                     <h5 class="mb-3 text-center">{{__('ppt-to-pdf.share')}}</h5>
                     <div class="d-flex flex-wrap gap-2 justify-content-center">
                         <button class="btn share-btn" type="button" id="saveToDrive" title="Save to Google Drive">
-                            <img src="https://upload.wikimedia.org/wikipedia/commons/d/da/Google_Drive_logo.png"
+                            <img src="{{ asset('images/google-drive.svg') }}"
                                 alt="Google Drive">
                         </button>
 
                         <button class="btn share-btn" type="button" id="saveToDropbox" title="Save to Dropbox">
-                            <img src="https://upload.wikimedia.org/wikipedia/commons/7/78/Dropbox_Icon.svg"
+                            <img src="{{ asset('images/dropbox.svg') }}"
                                 alt="Dropbox">
                         </button>
 
                         <button class="btn share-btn" type="button" id="shareOnWhatsApp" title="Share on WhatsApp">
-                            <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" alt="WhatsApp">
+                            <img src="{{ asset('images/whatsapp.svg') }}" alt="WhatsApp">
                         </button>
 
                         <button class="btn share-btn" type="button" id="qrBtn"

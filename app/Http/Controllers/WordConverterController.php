@@ -2,6 +2,7 @@
 
 namespace App\Http\Controllers;
 
+use App\Services\TempFileUploader;
 use GuzzleHttp\Client;
 use Illuminate\Http\Request;
 use Illuminate\Support\Facades\Log;
@@ -258,28 +259,10 @@ class WordConverterController extends Controller
 
     private function uploadToTmpfilesOrg(string $filePath): string
     {
-        Log::info('[WordConverterController] Uploading to tmpfiles.org', [
-            'file' => basename($filePath),
-            'size' => round(filesize($filePath) / 1024, 1) . ' KB',
-        ]);
-
-        $client   = new Client(['timeout' => 120, 'connect_timeout' => 15, 'verify' => false]);
-        $response = $client->post('https://tmpfiles.org/api/v1/upload', [
-            'multipart' => [[
-                'name'     => 'file',
-                'contents' => fopen($filePath, 'r'),
-                'filename' => basename($filePath),
-            ]],
-        ]);
-
-        $data = json_decode((string) $response->getBody(), true);
-
-        if (empty($data['status']) || $data['status'] !== 'success' || empty($data['data']['url'])) {
-            throw new \RuntimeException('tmpfiles.org upload failed: ' . substr((string) $response->getBody(), 0, 200));
+        $url = TempFileUploader::upload($filePath);
+        if (! $url) {
+            throw new \RuntimeException('tmpfiles.org upload failed to return a valid URL');
         }
-
-        $url = str_replace('tmpfiles.org/', 'tmpfiles.org/dl/', $data['data']['url']);
-        Log::info('[WordConverterController] tmpfiles.org upload succeeded', ['url' => $url]);
         return $url;
     }
 

@@ -2,6 +2,7 @@
 
 namespace App\Http\Controllers;
 
+use App\Services\TempFileUploader;
 use Illuminate\Http\Request;
 use Illuminate\Support\Facades\Log;
 use GuzzleHttp\Client;
@@ -32,44 +33,7 @@ class PdftoJpgController extends Controller
 
     protected function uploadAllToTempHost(array $fileInfos): array
     {
-        $client = new Client([
-            'timeout'         => 60,
-            'connect_timeout' => 10,
-            'http_errors'     => false,
-            'curl'            => [CURLOPT_IPRESOLVE => CURL_IPRESOLVE_V4],
-        ]);
-
-        $promises = [];
-        foreach ($fileInfos as $i => $info) {
-            $promises[$i] = $client->postAsync('https://tmpfiles.org/api/v1/upload', [
-                'multipart' => [[
-                    'name'     => 'file',
-                    'contents' => file_get_contents($info['path']),
-                    'filename' => $info['filename'],
-                    'headers'  => ['Content-Type' => $info['mime'] ?? 'application/pdf'],
-                ]],
-            ]);
-        }
-
-        $results = PromiseUtils::settle($promises)->wait();
-        $urls    = [];
-
-        foreach ($results as $i => $result) {
-            if ($result['state'] !== 'fulfilled') {
-                Log::warning('PdfToJpg: temp upload failed for file ' . $i);
-                $urls[$i] = null;
-                continue;
-            }
-            $body = (string) $result['value']->getBody();
-            $url  = json_decode($body, true)['data']['url'] ?? null;
-            if ($url) {
-                $url = str_replace('tmpfiles.org/', 'tmpfiles.org/dl/', $url);
-            }
-            Log::info('PdfToJpg: temp host upload success', ['url' => $url]);
-            $urls[$i] = $url;
-        }
-
-        return $urls;
+        return TempFileUploader::uploadMultiple($fileInfos);
     }
 
     public function index()

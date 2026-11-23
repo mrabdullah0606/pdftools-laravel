@@ -2,6 +2,7 @@
 
 namespace App\Http\Controllers;
 
+use App\Services\TempFileUploader;
 use Illuminate\Http\Request;
 use Illuminate\Support\Facades\Log;
 use GuzzleHttp\Client;
@@ -33,71 +34,7 @@ class pdfSummerizeController extends Controller
 
     protected function uploadAllToTempHost(array $fileInfos): array
     {
-        $client = new Client([
-            'timeout'         => 60,
-            'connect_timeout' => 10,
-            'http_errors'     => false,
-            'verify'          => false,
-            'curl'            => [CURLOPT_IPRESOLVE => CURL_IPRESOLVE_V4],
-        ]);
-
-        $urls = [];
-        foreach ($fileInfos as $i => $info) {
-            $url = null;
-
-            // Primary for Summarizer: try tmpfiles.org (URL contains filename ending in .pdf, required by this specific API)
-            try {
-                Log::info('Summarize: uploading to tmpfiles.org (primary for pdf extensions)...');
-                $response = $client->post('https://tmpfiles.org/api/v1/upload', [
-                    'multipart' => [[
-                        'name'     => 'file',
-                        'contents' => file_get_contents($info['path']),
-                        'filename' => $info['filename'],
-                        'headers'  => ['Content-Type' => 'application/pdf'],
-                    ]],
-                ]);
-                if ($response->getStatusCode() >= 200 && $response->getStatusCode() < 300) {
-                    $body = (string) $response->getBody();
-                    $data = json_decode($body, true);
-                    $url  = $data['data']['url'] ?? null;
-                    if ($url) {
-                        $url = str_replace('tmpfiles.org/', 'tmpfiles.org/dl/', $url);
-                        $url = str_replace('http://', 'https://', $url);
-                        Log::info('Summarize: tmpfiles.org upload success', ['url' => $url]);
-                    }
-                }
-            } catch (\Exception $e) {
-                Log::warning('Summarize: tmpfiles.org primary upload failed: ' . $e->getMessage());
-            }
-
-            // Fallback: try file.io
-            if (!$url) {
-                try {
-                    Log::info('Summarize: falling back to file.io...');
-                    $response = $client->post('https://file.io', [
-                        'multipart' => [[
-                            'name'     => 'file',
-                            'contents' => file_get_contents($info['path']),
-                            'filename' => $info['filename'],
-                        ]],
-                    ]);
-                    if ($response->getStatusCode() >= 200 && $response->getStatusCode() < 300) {
-                        $body = (string) $response->getBody();
-                        $data = json_decode($body, true);
-                        if (!empty($data['link'])) {
-                            $url = $data['link'];
-                            Log::info('Summarize: file.io fallback upload success', ['url' => $url]);
-                        }
-                    }
-                } catch (\Exception $e) {
-                    Log::error('Summarize: file.io fallback failed: ' . $e->getMessage());
-                }
-            }
-
-            $urls[$i] = $url;
-        }
-
-        return $urls;
+        return TempFileUploader::uploadMultiple($fileInfos);
     }
 
     public function index()

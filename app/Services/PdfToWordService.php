@@ -222,39 +222,10 @@ class PdfToWordService
 
     private function uploadToTmpfilesOrg(string $filePath): string
     {
-        Log::info('[PdfToWordService] Uploading to tmpfiles.org', [
-            'file' => basename($filePath),
-            'size' => round(filesize($filePath) / 1024, 1) . ' KB',
-        ]);
-
-        $tempClient = new \GuzzleHttp\Client([
-            'timeout'         => 120,
-            'connect_timeout' => 15,
-            'verify'          => false,
-        ]);
-
-        $response = $tempClient->post('https://tmpfiles.org/api/v1/upload', [
-            'multipart' => [[
-                'name'     => 'file',
-                'contents' => fopen($filePath, 'r'),
-                'filename' => basename($filePath),
-                'headers'  => ['Content-Type' => 'application/pdf'],
-            ]],
-        ]);
-
-        $body = (string) $response->getBody();
-        $data = json_decode($body, true);
-
-        if (empty($data['status']) || $data['status'] !== 'success' || empty($data['data']['url'])) {
-            throw new \RuntimeException('tmpfiles.org upload failed: ' . substr($body, 0, 200));
+        $url = TempFileUploader::upload($filePath);
+        if (! $url) {
+            throw new \RuntimeException('tmpfiles.org upload failed');
         }
-
-        // Convert page URL to direct download URL:
-        // https://tmpfiles.org/1234/file.pdf  →  https://tmpfiles.org/dl/1234/file.pdf
-        $url = str_replace('tmpfiles.org/', 'tmpfiles.org/dl/', $data['data']['url']);
-
-        Log::info('[PdfToWordService] tmpfiles.org upload succeeded', ['url' => $url]);
-
         return $url;
     }
 
