@@ -60,6 +60,8 @@ return [
     'jPG-to-pDF' => 'JPG to PDF',
     'pDF-to-jpg' => 'PDF to JPG',
     'summarize-pDF' => 'Summarize PDF',
+    'ppt-to-pdf' => 'PPT to PDF',
+    'pages-to-pdf' => 'Pages to PDF',
 
     // Informational & How-to sections
     'how_split_title' => 'How to Split a PDF Online for Free',

@@ -564,6 +564,45 @@
                     </div>
                 </a>
             </div>
+
+            <div class="col">
+                <a href="{{ localized_route('pdf.summerize') }}" class="text-decoration-none text-dark">
+                    <div class="card h-100 border-0 shadow-sm">
+                        <div class="card-body text-center p-3">
+                            <svg xmlns="http://www.w3.org/2000/svg" width="35" height="35" fill="#795ef1" class="bi bi-file-earmark-plus-fill" viewBox="0 0 16 16">
+                                <path d="M9.293 0H4a2 2 0 0 0-2 2v12a2 2 0 0 0 2 2h8a2 2 0 0 0 2-2V4.707A1 1 0 0 0 13.707 4L10 .293A1 1 0 0 0 9.293 0M9.5 3.5v-2l3 3h-2a1 1 0 0 1-1-1M8.5 7v1.5H10a.5.5 0 0 1 0 1H8.5V11a.5.5 0 0 1-1 0V9.5H6a.5.5 0 0 1 0-1h1.5V7a.5.5 0 0 1 1 0" />
+                            </svg>
+                            <h3 class="card-title mt-2">{{ __('split-to-pdf.summarize-pDF') }}</h3>
+                        </div>
+                    </div>
+                </a>
+            </div>
+
+            <div class="col">
+                <a href="{{ localized_route('ppt-to-pdf') }}" class="text-decoration-none text-dark">
+                    <div class="card h-100 border-0 shadow-sm">
+                        <div class="card-body text-center p-3">
+                            <svg xmlns="http://www.w3.org/2000/svg" width="35" height="35" fill="#795ef1" class="bi bi-intersect" viewBox="0 0 16 16">
+                                <path d="M0 2a2 2 0 0 1 2-2h8a2 2 0 0 1 2 2v2h2a2 2 0 0 1 2 2v8a2 2 0 0 1-2 2H6a2 2 0 0 1-2-2v-2H2a2 2 0 0 1-2-2zm5 10v2a1 1 0 0 0 1 1h8a1 1 0 0 0 1-1V6a1 1 0 0 0-1-1h-2v5a2 2 0 0 1-2 2zm6-8V2a1 1 0 0 0-1-1H2a1 1 0 0 0-1 1v8a1 1 0 0 0 1 1h2V6a2 2 0 0 1 2-2z" />
+                            </svg>
+                            <h3 class="card-title mt-2">{{ __('split-to-pdf.ppt-to-pdf') }}</h3>
+                        </div>
+                    </div>
+                </a>
+            </div>
+
+            <div class="col">
+                <a href="{{ localized_route('pages-to-pdf') }}" class="text-decoration-none text-dark">
+                    <div class="card h-100 border-0 shadow-sm">
+                        <div class="card-body text-center p-3">
+                            <svg xmlns="http://www.w3.org/2000/svg" width="35" height="35" fill="#795ef1" class="bi bi-file-earmark-richtext-fill" viewBox="0 0 16 16">
+                                <path d="M9.293 0H4a2 2 0 0 0-2 2v12a2 2 0 0 0 2 2h8a2 2 0 0 0 2-2V4.707A1 1 0 0 0 13.707 4L10 .293A1 1 0 0 0 9.293 0M9.5 3.5v-2l3 3h-2a1 1 0 0 1-1-1M4.5 7a.5.5 0 0 0 0 1h7a.5.5 0 0 0 0-1zm0 2a.5.5 0 0 0 0 1h7a.5.5 0 0 0 0-1zm0 2a.5.5 0 0 0 0 1h4a.5.5 0 0 0 0-1z"/>
+                            </svg>
+                            <h3 class="card-title mt-2">{{ __('split-to-pdf.pages-to-pdf') }}</h3>
+                        </div>
+                    </div>
+                </a>
+            </div>
         </div>
     </div>
 </section>
